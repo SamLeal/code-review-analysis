@@ -43,12 +43,17 @@ realizadas?
 
 
 **Definições de métricas**
+
 Para cada dimensão, realizaremos as correlações com as métricas definidas a seguir:
+
 • **Tamanho**: número de arquivos; total de linhas adicionadas e removidas.
+
 • **Tempo de Análise**: intervalo entre a criação do PR e a última atividade
 (fechamento ou merge).
+
 • **Descrição**: número de caracteres do corpo de descrição do PR (na versão
 markdown).
+
 • **Interações**: número de participantes; número de comentários.
 
 ## 👩🏻‍💻 Alunos:
