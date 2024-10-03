@@ -4,7 +4,6 @@ import time
 import os
 from utils.utils import calculate_time_difference_in_hours
 from utils.dataSaver import save_repo_info_to_csv, save_pr_info_to_csv
-from concurrent.futures import ThreadPoolExecutor
 
 load_dotenv('.env')
 
@@ -22,7 +21,7 @@ def check_rate_limit():
     rate_limits = response.json()
     
     remaining = rate_limits['rate']['remaining']
-    reset_time = rate_limits['rate']['reset']  # Timestamp when the limit será resetado
+    reset_time = rate_limits['rate']['reset']
     
     if remaining == 0:
         current_time = time.time()
@@ -191,12 +190,6 @@ def fetch_pr_data(repo_name, repo_owner):
 
     return pull_requests
 
-# Função para paralelizar a coleta de PRs de cada repositório
-def fetch_prs_for_repo(repo):
-    repo_owner = repo["url"].split('/')[-2]
-    repo_name = repo["name"]
-    return fetch_pr_data(repo_name, repo_owner)
-
 # Main
 if __name__ == "__main__":
     # Número de repositórios mais populares que tenham mais de 100 PRs
@@ -206,13 +199,16 @@ if __name__ == "__main__":
         popular_repos = fetch_repos_with_prs(number_of_repos)
         save_repo_info_to_csv(popular_repos, "repos_info.csv")
 
-        # Paralelizar a busca dos PRs
-        with ThreadPoolExecutor(max_workers=5) as executor:
-            all_prs = list(executor.map(fetch_prs_for_repo, popular_repos))                                                                                                                                                          
+        # Busca PRs para cada repositório
+        all_prs = []
+        for repo in popular_repos:
+            repo_owner = repo["url"].split('/')[-2]
+            repo_name = repo["name"]
+            repo_prs = fetch_pr_data(repo_name, repo_owner)
+            all_prs.extend(repo_prs)
 
         # Salvar os dados de PRs coletados
-        all_prs_data = [pr for repo_prs in all_prs for pr in repo_prs]  
-        save_pr_info_to_csv(all_prs_data, "prs_info.csv")
+        save_pr_info_to_csv(all_prs, "prs_info.csv")
 
     except Exception as e:
         print(e)
