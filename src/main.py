@@ -145,7 +145,7 @@ def fetch_pr_data(repo_name, repo_owner):
     pull_requests = []
     cursor = None
 
-    while True:
+    while len(pull_requests) < 100:
         variables = {
             "repo_owner": repo_owner,
             "repo_name": repo_name,
@@ -182,13 +182,16 @@ def fetch_pr_data(repo_name, repo_owner):
                     }
                     pull_requests.append(pr_data)
 
+            if len(pull_requests) >= 100:
+                break
+
         if not result["repository"]["pullRequests"]["pageInfo"]["hasNextPage"]:
             break
 
         cursor = result["repository"]["pullRequests"]["pageInfo"]["endCursor"]
         time.sleep(5)  # Aumenta o tempo de espera entre as requisições para 5 segundos
 
-    return pull_requests
+    return pull_requests[:100]
 
 # Main
 if __name__ == "__main__":
