@@ -1,0 +1,636 @@
+Index,Título do PR,URL,Data de Criação,Data de Fechamento,Total de Revisões,Decisão da Revisão,Total de Adições,Total de Remoções,Total de Arquivos Alterados,Comprimento da Descrição,Tempo de Análise (horas),Total de Comentários,Total de Participantes
+1,Add AirBnB setting to jshint settings file.,https://github.com/freeCodeCamp/freeCodeCamp/pull/2,2014-12-24T20:43:10Z,2014-12-27T06:16:17Z,0,MERGED,100,1,2,0,57.551944444444445,2,3
+2,Refactor Passport/update FCC link,https://github.com/freeCodeCamp/freeCodeCamp/pull/7,2014-12-31T05:35:50Z,2015-01-20T17:29:39Z,0,MERGED,51,42,2,160,491.89694444444444,0,1
+3,Update Branden's Team Member Bio,https://github.com/freeCodeCamp/freeCodeCamp/pull/10,2015-01-09T15:55:49Z,2015-01-09T18:58:45Z,0,MERGED,2,2,1,343,3.048888888888889,0,2
+4,Pull request twitter pic,https://github.com/freeCodeCamp/freeCodeCamp/pull/12,2015-01-09T20:25:01Z,2015-01-10T04:33:39Z,0,MERGED,2,2,1,413,8.143888888888888,1,2
+5,Angularize login,https://github.com/freeCodeCamp/freeCodeCamp/pull/13,2015-01-10T03:10:26Z,2015-01-10T04:31:13Z,0,MERGED,461,433,10,121,1.3463888888888889,0,1
+6,Forgot password,https://github.com/freeCodeCamp/freeCodeCamp/pull/16,2015-01-10T05:23:28Z,2015-01-10T18:56:01Z,0,MERGED,3,3,1,0,13.5425,1,2
+7,Edit wording of jquery exercises,https://github.com/freeCodeCamp/freeCodeCamp/pull/21,2015-01-12T19:31:28Z,2015-01-13T06:12:42Z,0,MERGED,4,4,1,353,10.687222222222223,1,2
+8,Twitter auth,https://github.com/freeCodeCamp/freeCodeCamp/pull/33,2015-01-17T22:46:48Z,2015-01-18T01:31:40Z,0,MERGED,84485,194,413,122,2.747777777777778,1,1
+9,One column challenges,https://github.com/freeCodeCamp/freeCodeCamp/pull/34,2015-01-18T00:50:02Z,2015-01-18T02:53:49Z,0,MERGED,84661,295,424,0,2.0630555555555556,0,2
+10,Twitter auth and bonfire,https://github.com/freeCodeCamp/freeCodeCamp/pull/36,2015-01-18T01:37:40Z,2015-01-18T02:53:26Z,0,MERGED,84485,194,413,44,1.2627777777777778,0,2
+11,Update main.less,https://github.com/freeCodeCamp/freeCodeCamp/pull/38,2015-01-18T04:04:45Z,2015-01-21T15:25:26Z,0,MERGED,3,2,1,43,83.34472222222222,1,3
+12,Adding testing feature to bonfire,https://github.com/freeCodeCamp/freeCodeCamp/pull/39,2015-01-18T07:59:04Z,2015-01-21T06:50:47Z,0,MERGED,5049,4,3,952,70.86194444444445,1,1
+13,Added a title to bonfire for seo,https://github.com/freeCodeCamp/freeCodeCamp/pull/41,2015-01-18T16:32:01Z,2015-01-21T15:22:46Z,0,MERGED,2,1,1,66,70.84583333333333,0,2
+14,Changed Challenge Complete Tweet Auto Text: Fix for #49,https://github.com/freeCodeCamp/freeCodeCamp/pull/50,2015-01-24T18:13:53Z,2015-01-28T20:08:47Z,0,MERGED,2,2,1,932,97.915,0,1
+15,Use should.eql to compare arrays,https://github.com/freeCodeCamp/freeCodeCamp/pull/58,2015-01-28T23:35:22Z,2015-01-29T02:57:40Z,0,MERGED,2,2,1,314,3.3716666666666666,1,2
+16,Update bonfires.json with two new challenges,https://github.com/freeCodeCamp/freeCodeCamp/pull/61,2015-01-29T06:27:28Z,2015-02-06T04:32:09Z,0,MERGED,36,0,1,548,190.07805555555555,2,2
+17,Add Cash Register Challenge,https://github.com/freeCodeCamp/freeCodeCamp/pull/62,2015-01-29T07:15:54Z,2015-02-06T04:33:30Z,0,MERGED,20,0,1,454,189.29333333333332,5,3
+18,update bonfire URL on regex match if incomplete url,https://github.com/freeCodeCamp/freeCodeCamp/pull/66,2015-01-31T01:45:17Z,2015-02-01T01:34:52Z,0,MERGED,4,0,1,0,23.82638888888889,0,2
+19,Fixed routing if a user types bonfires/,https://github.com/freeCodeCamp/freeCodeCamp/pull/74,2015-02-04T03:17:39Z,2015-02-04T05:39:54Z,0,MERGED,5,2,1,127,2.370833333333333,0,1
+20,Update README with mongo server instructions,https://github.com/freeCodeCamp/freeCodeCamp/pull/77,2015-02-05T04:46:06Z,2015-02-06T17:01:03Z,0,MERGED,3,0,1,0,36.24916666666667,2,2
+21,Fix typo in Bonfire Challenge,https://github.com/freeCodeCamp/freeCodeCamp/pull/81,2015-02-05T22:22:54Z,2015-02-06T02:06:36Z,0,MERGED,1,1,1,40,3.7283333333333335,0,2
+22,Fix typos,https://github.com/freeCodeCamp/freeCodeCamp/pull/85,2015-02-09T16:18:14Z,2015-02-11T17:19:25Z,0,MERGED,547,89,5,203,49.01972222222222,0,2
+23,Add 18 new bonfire challenges,https://github.com/freeCodeCamp/freeCodeCamp/pull/86,2015-02-10T05:29:29Z,2015-02-13T13:54:05Z,0,MERGED,280,0,1,312,80.41,0,2
+24,Check for Palindromes: Removed redundancy from description,https://github.com/freeCodeCamp/freeCodeCamp/pull/88,2015-02-11T06:22:56Z,2015-02-11T16:36:18Z,0,MERGED,2,3,1,59,10.222777777777777,0,2
+25,Fix a typo in README,https://github.com/freeCodeCamp/freeCodeCamp/pull/90,2015-02-11T19:49:05Z,2015-02-13T05:13:23Z,0,MERGED,1,1,1,0,33.405,0,2
+1,Adding djangobook.com for django section,https://github.com/EbookFoundation/free-programming-books/pull/14,2013-10-11T18:30:00Z,2013-10-11T21:10:13Z,0,MERGED,1,0,1,0,2.6702777777777778,1,2
+2,Update free-programming-books.md,https://github.com/EbookFoundation/free-programming-books/pull/16,2013-10-11T18:54:41Z,2013-10-11T20:01:47Z,0,MERGED,1,1,1,26,1.1183333333333334,0,2
+3,linux and go,https://github.com/EbookFoundation/free-programming-books/pull/26,2013-10-11T21:40:16Z,2013-10-12T08:31:51Z,0,MERGED,3,0,1,0,10.859722222222222,0,2
+4,Adding Exploringelasticsearch / Elasticsearch category,https://github.com/EbookFoundation/free-programming-books/pull/28,2013-10-11T21:51:42Z,2013-10-12T08:24:25Z,0,MERGED,5,0,1,0,10.545277777777779,0,2
+5,Add Learn CSS Layout (http://learnlayout.com/),https://github.com/EbookFoundation/free-programming-books/pull/29,2013-10-11T21:53:39Z,2013-10-12T08:24:44Z,0,MERGED,1,0,1,0,10.518055555555556,0,2
+6,Fix link to Compiler Construction,https://github.com/EbookFoundation/free-programming-books/pull/30,2013-10-11T22:06:56Z,2013-10-12T08:25:05Z,0,MERGED,1,1,1,0,10.3025,0,2
+7,Adding Racket,https://github.com/EbookFoundation/free-programming-books/pull/31,2013-10-11T22:20:52Z,2013-10-12T08:25:26Z,0,MERGED,5,0,1,0,10.07611111111111,0,2
+8,added Objects on Rails,https://github.com/EbookFoundation/free-programming-books/pull/32,2013-10-11T22:58:34Z,2013-10-12T08:25:42Z,0,MERGED,1,0,1,66,9.452222222222222,0,2
+9,added High-Performance Browser Networking,https://github.com/EbookFoundation/free-programming-books/pull/33,2013-10-11T23:08:47Z,2013-10-12T08:32:15Z,0,MERGED,1,0,1,77,9.391111111111112,1,2
+10,"Added 5 books, managed sections Java and Hadoop",https://github.com/EbookFoundation/free-programming-books/pull/34,2013-10-11T23:16:24Z,2013-10-12T08:35:10Z,0,MERGED,15,6,1,0,9.312777777777777,0,2
+11,AI book added for Java,https://github.com/EbookFoundation/free-programming-books/pull/35,2013-10-11T23:22:39Z,2013-10-12T08:37:26Z,0,MERGED,1,0,1,0,9.24638888888889,0,2
+12,"Add Parallel and Concurrent Programming in Haskell, and YAHT ",https://github.com/EbookFoundation/free-programming-books/pull/36,2013-10-12T00:28:13Z,2013-10-12T08:28:48Z,0,MERGED,2,0,1,39,8.009722222222223,0,2
+13,Fixing C/C++ Link,https://github.com/EbookFoundation/free-programming-books/pull/37,2013-10-12T01:42:44Z,2013-10-12T08:28:59Z,0,MERGED,1,1,1,14,6.770833333333333,7,2
+14,Update Vim Recipes Link,https://github.com/EbookFoundation/free-programming-books/pull/39,2013-10-12T02:06:10Z,2013-10-12T08:29:15Z,0,MERGED,1,1,1,87,6.384722222222222,0,2
+15,Removed non-free book,https://github.com/EbookFoundation/free-programming-books/pull/40,2013-10-12T02:58:12Z,2013-10-12T08:40:35Z,0,MERGED,0,1,1,0,5.706388888888889,0,2
+16,divided #Language Agnostic to multiple disciplines,https://github.com/EbookFoundation/free-programming-books/pull/41,2013-10-12T03:39:55Z,2013-10-12T09:22:43Z,0,MERGED,75,50,1,30,5.713333333333333,0,2
+17,Harel books,https://github.com/EbookFoundation/free-programming-books/pull/42,2013-10-12T04:17:52Z,2013-10-12T08:30:34Z,0,MERGED,2,0,1,137,4.211666666666667,0,2
+18,Adds GA Dash,https://github.com/EbookFoundation/free-programming-books/pull/43,2013-10-12T05:12:19Z,2013-10-12T08:47:15Z,0,MERGED,1,0,1,131,3.582222222222222,0,2
+19,"Added F#, Oberon and OCaml books",https://github.com/EbookFoundation/free-programming-books/pull/44,2013-10-12T06:34:05Z,2013-10-12T08:31:02Z,0,MERGED,3,0,1,46,1.9491666666666667,0,2
+20,Added Machine Learning Books,https://github.com/EbookFoundation/free-programming-books/pull/50,2013-10-12T12:54:01Z,2013-10-15T11:15:41Z,0,MERGED,9,0,1,0,70.36111111111111,1,4
+21,Added Open Data Structures to ####Algorithms & Datastructures.,https://github.com/EbookFoundation/free-programming-books/pull/51,2013-10-12T13:59:10Z,2013-10-12T15:52:39Z,0,MERGED,1,0,1,0,1.8913888888888888,0,2
+1,Added awesome Scala lists,https://github.com/sindresorhus/awesome/pull/1,2014-07-12T03:44:30Z,2014-07-12T08:10:00Z,0,MERGED,1,0,1,0,4.425,0,2
+2,Awesome cobol is probably a joke,https://github.com/sindresorhus/awesome/pull/2,2014-07-12T13:44:17Z,2014-07-12T15:22:16Z,0,MERGED,0,1,1,115,1.6330555555555555,1,2
+3,Added Awesome Android list,https://github.com/sindresorhus/awesome/pull/4,2014-07-13T02:41:29Z,2014-07-13T08:29:50Z,0,MERGED,1,0,1,0,5.805833333333333,0,2
+4,"Add ""Awesome dotfiles""",https://github.com/sindresorhus/awesome/pull/6,2014-07-16T13:19:12Z,2014-07-18T21:41:21Z,0,MERGED,1,0,1,0,56.369166666666665,0,2
+5,Order languages alphabetically and add Awesome Swift,https://github.com/sindresorhus/awesome/pull/7,2014-07-17T07:39:40Z,2014-07-19T15:30:08Z,0,MERGED,10,8,1,0,55.84111111111111,1,2
+6,Add C/C++,https://github.com/sindresorhus/awesome/pull/8,2014-07-17T11:33:04Z,2014-07-18T21:41:47Z,0,MERGED,1,0,1,0,34.14527777777778,0,2
+7,Added Vim,https://github.com/sindresorhus/awesome/pull/9,2014-07-17T13:42:50Z,2014-07-19T15:26:48Z,0,MERGED,1,0,1,0,49.73277777777778,1,2
+8,Added awesome-algorithms,https://github.com/sindresorhus/awesome/pull/10,2014-07-17T14:02:51Z,2014-07-19T15:27:28Z,0,MERGED,1,0,1,0,49.41027777777778,1,3
+9,Add game development list,https://github.com/sindresorhus/awesome/pull/11,2014-07-20T05:17:37Z,2014-07-24T15:59:38Z,0,MERGED,1,0,1,0,106.70027777777777,3,2
+10,Add rails to awesome,https://github.com/sindresorhus/awesome/pull/12,2014-07-20T13:42:57Z,2014-07-24T15:58:52Z,0,MERGED,3,0,1,0,98.26527777777778,2,3
+11,Added Play1 java web framework,https://github.com/sindresorhus/awesome/pull/13,2014-07-20T21:25:09Z,2014-07-24T19:37:46Z,0,MERGED,1,0,1,0,94.21027777777778,0,2
+12,Add Haskell,https://github.com/sindresorhus/awesome/pull/14,2014-07-21T20:29:57Z,2014-07-24T15:56:21Z,0,MERGED,1,0,1,0,67.44,0,2
+13,Add Magictools for Game Development,https://github.com/sindresorhus/awesome/pull/15,2014-07-23T09:09:43Z,2014-07-23T10:09:48Z,0,MERGED,1,0,1,0,1.0013888888888889,0,2
+14,Add game development list,https://github.com/sindresorhus/awesome/pull/23,2014-08-12T18:40:21Z,2014-08-12T20:23:32Z,0,MERGED,1,0,1,0,1.7197222222222222,1,3
+15,Add Dart,https://github.com/sindresorhus/awesome/pull/25,2014-08-20T05:36:56Z,2014-08-20T22:29:51Z,0,MERGED,1,0,1,0,16.881944444444443,0,2
+16,Added analytics tools to collection,https://github.com/sindresorhus/awesome/pull/27,2014-08-24T12:05:33Z,2014-08-24T13:57:57Z,0,MERGED,1,0,1,36,1.8733333333333333,0,1
+17,Added awesome-SharePoint link,https://github.com/sindresorhus/awesome/pull/28,2014-08-25T19:46:38Z,2014-08-29T16:33:10Z,0,MERGED,1,0,1,91,92.77555555555556,1,2
+18,Add angularjs awesome,https://github.com/sindresorhus/awesome/pull/29,2014-08-28T12:00:14Z,2014-08-31T09:59:15Z,0,MERGED,1,0,1,0,69.98361111111112,1,2
+19,Added Awesome-Styleguides,https://github.com/sindresorhus/awesome/pull/30,2014-08-31T00:21:46Z,2014-08-31T09:57:52Z,0,MERGED,1,0,1,0,9.601666666666667,0,2
+20,Added Awesome-Bootstrap for Bootstrap Themes,https://github.com/sindresorhus/awesome/pull/32,2014-09-02T14:44:27Z,2014-09-10T20:18:09Z,0,MERGED,1,0,1,87,197.56166666666667,4,3
+21,Adding an awesome weekly newsletter list,https://github.com/sindresorhus/awesome/pull/37,2014-09-20T19:12:43Z,2014-09-20T20:18:09Z,0,MERGED,1,0,1,0,1.0905555555555555,3,4
+22,Awesome Docker,https://github.com/sindresorhus/awesome/pull/38,2014-09-22T05:37:20Z,2014-09-22T09:57:30Z,0,MERGED,1,0,1,40,4.336111111111111,1,2
+23,Awesome SQLAlchemy,https://github.com/sindresorhus/awesome/pull/39,2014-09-22T12:16:48Z,2014-09-22T14:15:03Z,0,MERGED,1,0,1,84,1.9708333333333334,1,2
+24,adding knockoutJS,https://github.com/sindresorhus/awesome/pull/40,2014-09-30T19:07:39Z,2014-09-30T21:24:28Z,0,MERGED,1,0,1,0,2.2802777777777776,1,2
+25,Add awesome-sphinxdoc.,https://github.com/sindresorhus/awesome/pull/41,2014-10-13T07:55:09Z,2014-10-13T09:29:30Z,0,MERGED,1,0,1,120,1.5725,1,2
+26,awesome-dojo added to the web platforms,https://github.com/sindresorhus/awesome/pull/43,2014-10-29T12:31:13Z,2014-10-31T02:31:15Z,0,MERGED,1,1,1,64,38.00055555555556,3,2
+27,awesome-pcaptools for network traffic processing added to awesome list.,https://github.com/sindresorhus/awesome/pull/44,2014-11-10T05:48:16Z,2014-11-10T07:16:15Z,0,MERGED,1,0,1,0,1.466388888888889,2,2
+28,Added awesome Symfony2,https://github.com/sindresorhus/awesome/pull/45,2014-11-12T15:02:43Z,2014-11-12T17:43:21Z,0,MERGED,1,0,1,29,2.6772222222222224,1,2
+29,Added github pages,https://github.com/sindresorhus/awesome/pull/46,2014-11-13T15:50:45Z,2014-11-13T22:37:20Z,0,MERGED,199,101,8,114,6.776388888888889,1,2
+30,Added Awesome Web Development books,https://github.com/sindresorhus/awesome/pull/48,2014-11-19T22:56:13Z,2014-11-20T09:32:26Z,0,MERGED,1,0,1,83,10.60361111111111,2,2
+31,Add public datasets repository.,https://github.com/sindresorhus/awesome/pull/49,2014-11-30T16:12:17Z,2014-12-01T05:12:45Z,0,MERGED,1,0,1,82,13.007777777777777,1,2
+32,Add awesome-shell on Programming languages list,https://github.com/sindresorhus/awesome/pull/52,2014-12-05T05:08:23Z,2014-12-05T07:10:14Z,0,MERGED,1,0,1,0,2.0308333333333333,1,2
+33,Update readme.md,https://github.com/sindresorhus/awesome/pull/53,2014-12-05T05:54:07Z,2014-12-05T07:14:23Z,0,MERGED,3,0,1,31,1.3377777777777777,2,2
+34,Add awesome hybrid to platforms list,https://github.com/sindresorhus/awesome/pull/54,2014-12-11T15:32:28Z,2014-12-15T04:16:54Z,0,MERGED,1,0,1,42,84.74055555555556,2,2
+1,Add categories and apis,https://github.com/public-apis/public-apis/pull/1,2016-03-21T01:02:35Z,2016-03-21T02:22:14Z,0,MERGED,52,9,1,56,1.3275,0,2
+2,include links to uifaces and uinames API's,https://github.com/public-apis/public-apis/pull/2,2016-03-21T01:08:47Z,2016-03-21T14:01:32Z,0,MERGED,2,0,1,0,12.879166666666666,2,2
+3,Add OpenWeatherMap API,https://github.com/public-apis/public-apis/pull/3,2016-03-21T01:18:18Z,2016-03-21T15:40:39Z,0,MERGED,1,0,1,55,14.3725,4,2
+4,Adding yahool query language api,https://github.com/public-apis/public-apis/pull/4,2016-03-21T06:21:03Z,2016-03-22T19:04:33Z,0,MERGED,0,0,0,0,36.725,1,3
+5,Added RandomUser API,https://github.com/public-apis/public-apis/pull/6,2016-03-21T08:14:30Z,2016-03-21T09:53:57Z,0,MERGED,15,10,1,0,1.6575,0,2
+6,Yahoo api added,https://github.com/public-apis/public-apis/pull/14,2016-03-21T17:37:27Z,2016-03-22T19:04:26Z,0,MERGED,1,0,1,0,25.44972222222222,0,3
+7,Todoapi,https://github.com/public-apis/public-apis/pull/15,2016-03-21T17:48:02Z,2016-03-22T19:04:19Z,0,MERGED,1,0,1,111,25.27138888888889,1,3
+8,added https://robohash.org/,https://github.com/public-apis/public-apis/pull/16,2016-03-21T18:17:15Z,2016-03-22T17:32:23Z,0,MERGED,1,0,1,41,23.252222222222223,4,2
+9,Add Adorable Avatars (avatars.adorable.io),https://github.com/public-apis/public-apis/pull/19,2016-03-22T00:51:54Z,2016-03-22T09:42:10Z,0,MERGED,1,0,1,100,8.837777777777777,2,3
+10,Add MusicBrainz API link,https://github.com/public-apis/public-apis/pull/39,2016-03-22T22:49:13Z,2016-03-23T11:44:15Z,0,MERGED,1,0,1,0,12.917222222222222,0,2
+11,Added Washington Metro Transport API,https://github.com/public-apis/public-apis/pull/40,2016-03-22T23:45:26Z,2016-03-23T11:44:22Z,0,MERGED,1,0,1,0,11.982222222222223,0,2
+12,"Added Anime Section and Hummingbird, AniList API.",https://github.com/public-apis/public-apis/pull/41,2016-03-23T01:42:09Z,2016-03-23T11:44:35Z,0,MERGED,6,0,1,0,10.040555555555555,0,2
+13,Add Transport for Sao Paulo (SPTrans),https://github.com/public-apis/public-apis/pull/42,2016-03-23T04:12:46Z,2016-03-23T17:18:52Z,0,MERGED,1,0,1,0,13.101666666666667,4,3
+14,Added Abbreviations and CelebInfo APIs,https://github.com/public-apis/public-apis/pull/43,2016-03-23T05:13:34Z,2016-03-23T11:44:46Z,0,MERGED,7,0,1,0,6.52,0,2
+15,UK police data api links added,https://github.com/public-apis/public-apis/pull/44,2016-03-23T08:24:15Z,2016-03-23T11:46:11Z,0,MERGED,6,0,1,568,3.3655555555555554,2,2
+16,"Transport for Paris, France API",https://github.com/public-apis/public-apis/pull/45,2016-03-23T08:36:23Z,2016-03-23T12:38:46Z,0,MERGED,1,0,1,62,4.039722222222222,3,2
+17,Lorem Ipsum text generator API,https://github.com/public-apis/public-apis/pull/46,2016-03-23T08:38:19Z,2016-03-23T11:46:10Z,0,MERGED,1,0,1,0,3.1308333333333334,0,2
+18,Add bike section with JCDecaux API,https://github.com/public-apis/public-apis/pull/47,2016-03-23T08:48:14Z,2016-03-23T11:45:36Z,0,MERGED,7,0,1,29,2.956111111111111,0,2
+19,Full contact API added,https://github.com/public-apis/public-apis/pull/48,2016-03-23T08:57:54Z,2016-03-23T11:44:06Z,0,MERGED,6,0,1,248,2.77,0,2
+20,UK police data api links added [Again],https://github.com/public-apis/public-apis/pull/51,2016-03-23T14:50:33Z,2016-03-23T17:19:14Z,0,MERGED,6,0,1,568,2.4780555555555557,1,2
+21,Both BreweryDB and LCBI needs API-KEY (registered users),https://github.com/public-apis/public-apis/pull/53,2016-03-23T18:11:43Z,2016-03-31T10:24:32Z,0,MERGED,2,2,1,0,184.2136111111111,2,2
+1,Fixed typo,https://github.com/jwasham/coding-interview-university/pull/3,2016-10-06T10:08:17Z,2016-10-06T16:40:31Z,1,MERGED,1,1,1,0,6.537222222222222,0,3
+2,Fix marked checkbox with ambiguous Markdown link,https://github.com/jwasham/coding-interview-university/pull/4,2016-10-06T14:08:10Z,2016-10-06T16:42:10Z,0,MERGED,1,1,1,744,2.566666666666667,0,2
+3,License.md Added,https://github.com/jwasham/coding-interview-university/pull/6,2016-10-06T15:49:06Z,2016-10-06T21:20:55Z,1,MERGED,21,0,1,0,5.530277777777778,1,3
+4,Adding more descriptive links.,https://github.com/jwasham/coding-interview-university/pull/9,2016-10-06T19:24:59Z,2016-10-06T21:25:38Z,1,MERGED,87,102,1,116,2.0108333333333333,5,3
+5,Fixing Last Typos.,https://github.com/jwasham/coding-interview-university/pull/14,2016-10-07T07:04:16Z,2016-10-07T17:29:59Z,0,MERGED,19,19,1,82,10.428611111111111,0,2
+6,Replaced all the [x] with [ ] on a separate branch,https://github.com/jwasham/coding-interview-university/pull/15,2016-10-07T14:53:28Z,2016-10-07T18:11:46Z,0,MERGED,658,658,1,354,3.305,3,3
+7,Fixed a minor typo,https://github.com/jwasham/coding-interview-university/pull/16,2016-10-07T14:59:55Z,2016-10-07T17:30:23Z,0,MERGED,1,1,1,0,2.5077777777777777,1,2
+8,Added Codewars as a code challenge resource,https://github.com/jwasham/coding-interview-university/pull/17,2016-10-07T15:06:15Z,2016-10-07T17:31:56Z,0,MERGED,1,0,1,38,2.4280555555555554,1,2
+9,Pull request with fixed mis-formatted & Go resources,https://github.com/jwasham/coding-interview-university/pull/23,2016-10-09T01:36:16Z,2016-10-09T03:32:02Z,1,MERGED,10,1,2,39,1.9294444444444445,1,3
+10,Some fixes on Course video playlist,https://github.com/jwasham/coding-interview-university/pull/29,2016-10-10T07:02:15Z,2016-10-10T16:30:19Z,0,MERGED,7,6,1,382,9.467777777777778,0,2
+11,add Chinese version,https://github.com/jwasham/coding-interview-university/pull/31,2016-10-11T11:14:45Z,2016-10-11T16:46:31Z,0,MERGED,1656,0,2,270,5.529444444444445,1,5
+12,fix typo,https://github.com/jwasham/coding-interview-university/pull/32,2016-10-11T13:33:49Z,2016-10-11T16:32:22Z,0,MERGED,1,1,1,0,2.9758333333333336,0,2
+13,Improve readability of a text chapter,https://github.com/jwasham/coding-interview-university/pull/34,2016-10-13T06:29:40Z,2016-10-13T16:32:37Z,0,MERGED,9,9,1,173,10.049166666666666,1,2
+14,Added instructions to How to use?,https://github.com/jwasham/coding-interview-university/pull/35,2016-10-13T15:05:08Z,2016-10-13T16:28:47Z,0,MERGED,18,0,1,151,1.3941666666666668,2,3
+15,Adding free resources.,https://github.com/jwasham/coding-interview-university/pull/36,2016-10-14T06:46:35Z,2016-10-14T16:32:44Z,0,MERGED,3,1,1,117,9.769166666666667,2,2
+16,Add a tutorial on Udemy.,https://github.com/jwasham/coding-interview-university/pull/38,2016-10-15T16:08:41Z,2016-10-16T02:17:14Z,2,MERGED,3,0,1,153,10.1425,2,2
+17,test,https://github.com/jwasham/coding-interview-university/pull/42,2016-10-17T00:01:15Z,2016-10-17T04:12:50Z,0,MERGED,0,0,1,0,4.1930555555555555,0,2
+18,Added graph theory and discrete mathematics course's links,https://github.com/jwasham/coding-interview-university/pull/44,2016-10-17T11:16:54Z,2016-10-17T16:24:33Z,0,MERGED,48,44,1,71,5.1275,1,2
+19,README.md: fix a typo,https://github.com/jwasham/coding-interview-university/pull/53,2016-10-23T09:04:30Z,2016-10-23T17:36:39Z,0,MERGED,1,1,1,0,8.535833333333333,1,3
+20,"Add video ""How to Work at Google: Prepare for an Engineering Interview""",https://github.com/jwasham/coding-interview-university/pull/57,2016-10-28T05:36:55Z,2016-10-28T16:32:28Z,0,MERGED,1,0,1,79,10.925833333333333,1,2
+21,_,https://github.com/jwasham/coding-interview-university/pull/61,2016-11-03T23:51:08Z,2016-11-04T00:56:39Z,0,MERGED,8,9,1,0,1.0919444444444444,0,1
+1,Add a section for creating a demoscene demo,https://github.com/codecrafters-io/build-your-own-x/pull/4,2018-05-10T10:35:14Z,2018-05-11T08:27:20Z,0,MERGED,22,3,1,236,21.868333333333332,3,2
+2,Add OS: Build a minimal multi-tasking kernel for ARM,https://github.com/codecrafters-io/build-your-own-x/pull/7,2018-05-11T02:27:06Z,2018-05-11T07:17:47Z,0,MERGED,1,0,1,0,4.844722222222222,1,2
+3,Add PL: Build a self-compiling C compiler for ARM,https://github.com/codecrafters-io/build-your-own-x/pull/8,2018-05-11T02:35:10Z,2018-05-11T07:37:35Z,0,MERGED,1,0,1,0,5.040277777777778,1,2
+4,readme: Add my tutorial on shell,https://github.com/codecrafters-io/build-your-own-x/pull/10,2018-05-11T10:08:57Z,2018-05-12T07:55:36Z,3,MERGED,1,0,1,193,21.7775,1,2
+5,"Add a minimal interpreter, compiler (x86/Arm) and JIT compiler",https://github.com/codecrafters-io/build-your-own-x/pull/14,2018-05-11T16:52:43Z,2018-05-12T07:58:43Z,0,MERGED,1,0,1,0,15.1,1,2
+6,Add: Generate SVG images in C,https://github.com/codecrafters-io/build-your-own-x/pull/16,2018-05-12T08:21:04Z,2018-05-13T10:53:26Z,1,MERGED,1,0,1,0,26.539444444444445,1,2
+7,Fix missing linebreak in README.md,https://github.com/codecrafters-io/build-your-own-x/pull/19,2018-05-12T22:40:14Z,2018-05-13T06:52:37Z,0,MERGED,1,1,1,0,8.206388888888888,1,2
+8,Fix bad whitespace before bullet in README.md,https://github.com/codecrafters-io/build-your-own-x/pull/21,2018-05-12T23:21:23Z,2018-05-13T06:50:27Z,0,MERGED,3,2,1,0,7.484444444444445,1,2
+9,Update README.md,https://github.com/codecrafters-io/build-your-own-x/pull/23,2018-05-13T02:49:07Z,2018-05-13T06:56:34Z,0,MERGED,1,0,1,95,4.1241666666666665,1,2
+10,"Add ""Build Your First Smart Contract""",https://github.com/codecrafters-io/build-your-own-x/pull/32,2018-05-13T13:54:06Z,2018-05-13T21:45:40Z,0,MERGED,1,0,1,0,7.859444444444445,1,2
+11,"Add ""Build your own Window Manager""",https://github.com/codecrafters-io/build-your-own-x/pull/35,2018-05-13T14:44:31Z,2018-05-14T06:51:54Z,1,MERGED,1,0,1,0,16.123055555555556,1,2
+12,Add Bot: Build a Twitter Bot With Java and Twitter4J,https://github.com/codecrafters-io/build-your-own-x/pull/36,2018-05-13T14:53:29Z,2018-05-13T20:21:45Z,0,MERGED,1,0,1,0,5.471111111111111,1,2
+13,Added LFS in OS,https://github.com/codecrafters-io/build-your-own-x/pull/37,2018-05-13T14:55:57Z,2018-05-13T22:22:04Z,0,MERGED,2,0,1,241,7.435277777777777,1,2
+14,Add Slack bot in Python resource,https://github.com/codecrafters-io/build-your-own-x/pull/38,2018-05-13T15:46:24Z,2018-05-13T20:24:58Z,0,MERGED,1,0,1,48,4.642777777777778,1,2
+15,Sort categories in alphabetical order,https://github.com/codecrafters-io/build-your-own-x/pull/39,2018-05-13T15:52:06Z,2018-05-13T20:36:36Z,0,MERGED,11,12,1,59,4.741666666666666,1,2
+16,"Add ""table of contents"" to README",https://github.com/codecrafters-io/build-your-own-x/pull/42,2018-05-13T17:54:57Z,2018-05-13T20:44:22Z,0,MERGED,19,0,1,0,2.823611111111111,1,2
+17,Add C++ How-To to Cryptocurrency,https://github.com/codecrafters-io/build-your-own-x/pull/47,2018-05-13T23:29:09Z,2018-05-14T17:27:47Z,0,MERGED,1,0,1,0,17.977222222222224,1,2
+18,Change 'Crafting Interpreters' to java,https://github.com/codecrafters-io/build-your-own-x/pull/48,2018-05-13T23:38:17Z,2018-05-14T07:06:36Z,0,MERGED,1,1,1,182,7.4719444444444445,1,2
+19,Add assets folder,https://github.com/codecrafters-io/build-your-own-x/pull/51,2018-05-13T23:57:44Z,2018-05-14T07:20:27Z,0,MERGED,1,1,2,222,7.378611111111111,1,2
+20,adds-build games in python,https://github.com/codecrafters-io/build-your-own-x/pull/55,2018-05-14T07:05:14Z,2018-05-14T18:28:38Z,0,MERGED,1,0,1,0,11.39,1,2
+21,Add emulator category and new *how to* tutorials,https://github.com/codecrafters-io/build-your-own-x/pull/58,2018-05-14T10:58:24Z,2018-05-14T17:00:13Z,0,MERGED,11,2,1,1434,6.030277777777778,1,2
+22,added 'Build your own CI server' title & one item,https://github.com/codecrafters-io/build-your-own-x/pull/59,2018-05-14T14:37:35Z,2018-05-15T13:35:32Z,3,MERGED,1,0,1,74,22.965833333333332,1,2
+23,Update README.md,https://github.com/codecrafters-io/build-your-own-x/pull/61,2018-05-14T16:41:01Z,2018-05-14T17:51:41Z,0,MERGED,1,0,1,87,1.1777777777777778,1,2
+24,Update README.md,https://github.com/codecrafters-io/build-your-own-x/pull/63,2018-05-14T17:30:12Z,2018-05-14T18:55:00Z,2,MERGED,2,1,1,19,1.4133333333333333,1,2
+25,add article How To Launch Your Own Production-Ready Cryptocurrency,https://github.com/codecrafters-io/build-your-own-x/pull/70,2018-05-14T23:36:04Z,2018-05-15T07:20:56Z,0,MERGED,1,0,1,103,7.747777777777777,1,2
+26,Add Programming Blockchains Step-by-Step (Ruby),https://github.com/codecrafters-io/build-your-own-x/pull/71,2018-05-15T11:03:15Z,2018-05-15T13:38:42Z,0,MERGED,1,0,1,0,2.5908333333333333,1,2
+27,Add nimdays tutorials,https://github.com/codecrafters-io/build-your-own-x/pull/73,2018-05-15T16:26:15Z,2018-05-15T21:41:32Z,0,MERGED,6,0,1,61,5.254722222222222,1,2
+28,Two copy edits,https://github.com/codecrafters-io/build-your-own-x/pull/76,2018-05-16T02:18:13Z,2018-05-16T06:00:52Z,0,MERGED,2,2,1,198,3.7108333333333334,1,2
+29,Wording correction,https://github.com/codecrafters-io/build-your-own-x/pull/77,2018-05-16T03:05:49Z,2018-05-16T05:59:46Z,0,MERGED,6,6,1,27,2.8991666666666664,1,2
+30,"add ""Create Multiple Platforms Bot in Node.js""",https://github.com/codecrafters-io/build-your-own-x/pull/90,2018-05-18T07:52:17Z,2018-05-18T12:21:47Z,0,MERGED,1,0,1,66,4.491666666666666,1,2
+31,Blockchain: replace video-only link with SavjeeCoin,https://github.com/codecrafters-io/build-your-own-x/pull/116,2018-05-21T15:24:17Z,2018-05-22T07:19:31Z,0,MERGED,1,1,1,149,15.920555555555556,1,2
+32,Added a New Category : Text Editor,https://github.com/codecrafters-io/build-your-own-x/pull/137,2018-05-24T05:49:20Z,2018-05-24T09:21:06Z,1,MERGED,9,1,1,108,3.5294444444444446,1,3
+33,Update README with link about Web Server,https://github.com/codecrafters-io/build-your-own-x/pull/146,2018-05-26T16:12:02Z,2018-05-28T08:32:23Z,0,MERGED,1,0,1,70,40.339166666666664,2,2
+34,"Add ""Make Your Own AngularJS""",https://github.com/codecrafters-io/build-your-own-x/pull/147,2018-05-27T01:19:58Z,2018-05-28T08:19:52Z,0,MERGED,1,0,1,0,30.998333333333335,1,2
+35,add: build your own module bundler - Minipack,https://github.com/codecrafters-io/build-your-own-x/pull/150,2018-05-27T21:50:28Z,2018-05-28T07:56:03Z,0,MERGED,1,0,1,0,10.093055555555555,1,2
+36,Fix typo in minipack's description,https://github.com/codecrafters-io/build-your-own-x/pull/154,2018-05-28T22:02:00Z,2018-05-29T08:35:13Z,0,MERGED,1,1,1,21,10.553611111111111,1,2
+37,Adding my open-source Java API,https://github.com/codecrafters-io/build-your-own-x/pull/156,2018-05-29T10:12:23Z,2018-05-30T18:57:27Z,0,MERGED,1,0,1,283,32.75111111111111,1,2
+38,"Add create a frontend framework, from scratch, with components",https://github.com/codecrafters-io/build-your-own-x/pull/159,2018-05-29T12:43:05Z,2018-05-30T19:02:34Z,0,MERGED,1,0,1,498,30.32472222222222,1,2
+39,Add tutorial #166,https://github.com/codecrafters-io/build-your-own-x/pull/167,2018-05-31T07:08:10Z,2018-06-01T07:50:41Z,0,MERGED,1,0,1,41,24.70861111111111,1,2
+1,Renaming: use original titles,https://github.com/kamranahmedse/developer-roadmap/pull/7,2017-03-16T21:13:35Z,2017-03-17T06:14:47Z,0,MERGED,0,0,1,308,9.02,1,2
+2,minor changes,https://github.com/kamranahmedse/developer-roadmap/pull/14,2017-03-17T13:50:25Z,2017-03-18T17:57:49Z,0,MERGED,6,6,2,101,28.123333333333335,6,4
+3,added WSGI and async frameworks to python section,https://github.com/kamranahmedse/developer-roadmap/pull/22,2017-03-19T07:29:09Z,2017-03-23T04:44:01Z,0,MERGED,0,0,1,0,93.24777777777778,1,2
+4,Fix some issues,https://github.com/kamranahmedse/developer-roadmap/pull/25,2017-03-19T13:32:51Z,2017-03-23T05:14:20Z,1,MERGED,2,2,2,141,87.6913888888889,2,4
+5,New relic,https://github.com/kamranahmedse/developer-roadmap/pull/45,2017-03-21T20:14:54Z,2017-03-23T05:21:19Z,0,MERGED,1,1,2,104,33.106944444444444,5,4
+6,c# expanded .net and .net core,https://github.com/kamranahmedse/developer-roadmap/pull/48,2017-03-22T06:03:50Z,2017-03-23T05:19:21Z,0,MERGED,1,1,2,42,23.25861111111111,2,3
+7,added Zend Framework,https://github.com/kamranahmedse/developer-roadmap/pull/59,2017-03-23T17:14:29Z,2017-03-26T04:00:20Z,0,MERGED,1,1,1,69,58.76416666666667,3,4
+8,Rename Google App Engine to Google Cloud Platform,https://github.com/kamranahmedse/developer-roadmap/pull/61,2017-03-24T00:58:44Z,2017-03-26T03:56:11Z,0,MERGED,2,2,2,24,50.9575,1,2
+9,Added Video Discussing Roadmap in Detail,https://github.com/kamranahmedse/developer-roadmap/pull/63,2017-03-24T02:25:37Z,2017-03-24T07:13:00Z,0,MERGED,6,0,1,131,4.789722222222222,1,2
+10,Added several databases,https://github.com/kamranahmedse/developer-roadmap/pull/69,2017-03-24T11:48:44Z,2017-03-26T03:54:45Z,0,MERGED,1,1,1,0,40.10027777777778,1,2
+11,Improved DevOps part,https://github.com/kamranahmedse/developer-roadmap/pull/71,2017-03-24T23:57:15Z,2017-03-26T04:03:32Z,0,MERGED,2,3,3,130,28.10472222222222,2,2
+12,Added recommended editor/IDEs (Front-end) & python libraries (Backend),https://github.com/kamranahmedse/developer-roadmap/pull/74,2017-03-25T05:24:49Z,2017-03-26T03:53:16Z,0,MERGED,4,4,3,342,22.474166666666665,1,2
+13,Small changes in README.md,https://github.com/kamranahmedse/developer-roadmap/pull/79,2017-03-26T06:24:36Z,2017-03-27T02:22:36Z,0,MERGED,5,5,1,0,19.966666666666665,1,2
+14,Add Zabbix to DevOps > Monitoring and Alerting,https://github.com/kamranahmedse/developer-roadmap/pull/80,2017-03-26T07:08:30Z,2017-04-01T17:00:42Z,0,MERGED,2,2,2,15,153.87,3,3
+15,Make JSON code readable and easier to maintain,https://github.com/kamranahmedse/developer-roadmap/pull/81,2017-03-26T08:38:25Z,2017-03-27T02:21:54Z,0,MERGED,10756,4,4,402,17.724722222222223,1,2
+16,list responsibilities,https://github.com/kamranahmedse/developer-roadmap/pull/84,2017-03-27T00:18:10Z,2017-03-27T02:21:01Z,0,MERGED,24,9,6,54,2.0475,1,3
+17,add perl5 to backend map,https://github.com/kamranahmedse/developer-roadmap/pull/91,2017-03-28T10:47:13Z,2017-04-01T17:05:52Z,0,MERGED,1,1,1,1204,102.31083333333333,1,2
+18,added zabbix for monitoring and alerting,https://github.com/kamranahmedse/developer-roadmap/pull/94,2017-03-28T12:57:39Z,2017-04-01T16:54:49Z,0,MERGED,2,2,2,76,99.95277777777778,2,3
+19,minor spelling and grammar edit in intro text,https://github.com/kamranahmedse/developer-roadmap/pull/98,2017-03-28T16:01:27Z,2017-04-01T16:55:49Z,0,MERGED,1,1,1,42,96.90611111111112,0,2
+20,Added Full Poster,https://github.com/kamranahmedse/developer-roadmap/pull/104,2017-03-29T06:10:45Z,2017-04-01T17:20:31Z,0,MERGED,0,0,1,161,83.16277777777778,3,2
+21,Adding Cloud Foundry in devops trail,https://github.com/kamranahmedse/developer-roadmap/pull/111,2017-03-30T13:55:25Z,2017-04-01T16:53:15Z,0,MERGED,1,1,1,37,50.96388888888889,1,2
+22,Update README.md,https://github.com/kamranahmedse/developer-roadmap/pull/114,2017-04-01T23:40:15Z,2017-07-28T11:27:05Z,0,MERGED,2,2,1,145,2819.7805555555556,0,2
+23,Update README.md,https://github.com/kamranahmedse/developer-roadmap/pull/115,2017-04-02T04:24:24Z,2017-04-02T06:07:04Z,0,MERGED,1,1,1,19,1.711111111111111,1,2
+24,Update README.md,https://github.com/kamranahmedse/developer-roadmap/pull/116,2017-04-02T14:55:53Z,2017-07-28T11:26:19Z,0,MERGED,1,1,1,0,2804.507222222222,0,2
+25,Added Windows OS,https://github.com/kamranahmedse/developer-roadmap/pull/118,2017-04-05T06:25:00Z,2017-07-28T11:25:38Z,0,MERGED,2,2,3,47,2741.0105555555556,2,3
+26,add SDN,https://github.com/kamranahmedse/developer-roadmap/pull/120,2017-04-06T11:05:59Z,2017-07-28T11:24:11Z,0,MERGED,1,1,1,0,2712.3033333333333,0,2
+27,Adding Log Management & Analysis,https://github.com/kamranahmedse/developer-roadmap/pull/128,2017-04-18T20:35:33Z,2017-07-28T11:23:45Z,0,MERGED,2,2,2,260,2414.8033333333333,2,2
+28,"""Knowlege"" rename to ""Knowledge"".",https://github.com/kamranahmedse/developer-roadmap/pull/151,2017-04-28T06:01:01Z,2017-07-28T11:14:32Z,0,MERGED,1,1,1,0,2189.2252777777776,1,2
+29,added New Relic to Monitoring and Alerting,https://github.com/kamranahmedse/developer-roadmap/pull/154,2017-04-29T10:31:27Z,2017-07-28T11:06:58Z,0,MERGED,1,1,1,232,2160.5919444444444,1,2
+30,added nose to Python -> Testing,https://github.com/kamranahmedse/developer-roadmap/pull/155,2017-04-29T10:40:20Z,2017-07-28T11:11:45Z,0,MERGED,1,1,1,103,2160.523611111111,2,2
+31,add rollup in Module Loader/Bundler part,https://github.com/kamranahmedse/developer-roadmap/pull/157,2017-05-04T04:59:06Z,2017-07-28T11:01:19Z,0,MERGED,2,2,2,0,2046.0369444444445,1,2
+32,Added Circle CI,https://github.com/kamranahmedse/developer-roadmap/pull/163,2017-05-15T23:05:52Z,2017-05-16T00:15:27Z,0,MERGED,1,1,1,0,1.1597222222222223,0,1
+33,Added Circle CI under DevOps,https://github.com/kamranahmedse/developer-roadmap/pull/164,2017-05-16T00:26:00Z,2017-07-28T10:55:41Z,0,MERGED,2,2,2,0,1762.4947222222222,0,2
+34,Tidying up wording of introductory map.,https://github.com/kamranahmedse/developer-roadmap/pull/165,2017-05-18T15:59:16Z,2017-07-28T10:48:49Z,0,MERGED,1,1,1,228,1698.8258333333333,1,2
+35,messy code question,https://github.com/kamranahmedse/developer-roadmap/pull/175,2017-06-07T09:58:26Z,2017-06-07T18:06:08Z,0,MERGED,1,1,1,59,8.128333333333334,0,2
+36,Added powerShell suggestion to DevOps chart,https://github.com/kamranahmedse/developer-roadmap/pull/179,2017-06-12T01:36:26Z,2018-01-05T07:25:49Z,0,MERGED,4,2,3,75,4973.823055555556,1,2
+37,Add Munin under DevOps,https://github.com/kamranahmedse/developer-roadmap/pull/264,2017-07-13T02:41:52Z,2017-07-28T10:55:02Z,0,MERGED,2,2,2,0,368.21944444444443,0,2
+38,Added Capistrano under DevOps,https://github.com/kamranahmedse/developer-roadmap/pull/272,2017-08-07T09:39:30Z,2017-08-14T08:01:22Z,0,MERGED,2,2,2,0,166.36444444444444,0,1
+39,Added ASP.NET Core to .NET (C#) section,https://github.com/kamranahmedse/developer-roadmap/pull/277,2017-08-30T14:09:23Z,2017-11-30T04:21:17Z,0,MERGED,2,2,2,155,2198.1983333333333,1,3
+40,"Chinese version of ""Web Developer Roadmap in 2017""",https://github.com/kamranahmedse/developer-roadmap/pull/281,2017-09-15T17:02:47Z,2018-01-05T07:28:51Z,0,MERGED,37,36,5,157,2678.4344444444446,1,2
+41,Change Flask's color to '16770457',https://github.com/kamranahmedse/developer-roadmap/pull/292,2017-11-27T07:20:56Z,2017-11-28T04:21:37Z,0,MERGED,1,1,1,487,21.011388888888888,0,2
+42,"Change gevent, aiohttp, tornado's color",https://github.com/kamranahmedse/developer-roadmap/pull/293,2017-11-28T09:29:44Z,2017-12-04T01:12:56Z,0,MERGED,1,1,1,894,135.72,0,1
+43,Added Java roadmap into Backend.,https://github.com/kamranahmedse/developer-roadmap/pull/294,2017-11-29T20:51:58Z,2017-11-30T04:20:57Z,0,MERGED,6400,2,2,167,7.483055555555556,0,2
+44,Added elm to frontend map,https://github.com/kamranahmedse/developer-roadmap/pull/304,2018-01-05T10:51:21Z,2020-01-04T07:26:09Z,0,MERGED,2,2,2,33,17492.58,2,3
+45,"Add CircleCI, Packer, remove TeamCity, fix SaltStack.",https://github.com/kamranahmedse/developer-roadmap/pull/308,2018-01-05T17:09:47Z,2018-01-05T18:40:05Z,0,MERGED,3617,2,2,736,1.505,1,2
+1,Add more disadvantages of REST,https://github.com/donnemartin/system-design-primer/pull/9,2017-03-09T10:22:26Z,2017-03-10T00:40:13Z,0,MERGED,2,0,1,0,14.296388888888888,4,3
+2,Fix typo in Study Guide section,https://github.com/donnemartin/system-design-primer/pull/10,2017-03-09T10:50:34Z,2017-03-10T00:36:12Z,1,MERGED,2,2,1,78,13.760555555555555,1,2
+3,Fix typo - lobsided -> lopsided,https://github.com/donnemartin/system-design-primer/pull/11,2017-03-09T14:21:29Z,2017-03-10T00:37:40Z,1,MERGED,1,1,1,0,10.269722222222223,1,2
+4,Add Dyn DDoS attack link,https://github.com/donnemartin/system-design-primer/pull/13,2017-03-10T04:30:56Z,2017-03-11T02:07:51Z,1,MERGED,1,1,1,4,21.615277777777777,1,2
+5,Fix multiple typos,https://github.com/donnemartin/system-design-primer/pull/14,2017-03-10T07:53:56Z,2017-03-11T02:06:35Z,1,MERGED,8,8,1,0,18.210833333333333,1,3
+6,Add trivago Techblog,https://github.com/donnemartin/system-design-primer/pull/18,2017-03-11T19:34:19Z,2017-03-12T22:17:14Z,0,MERGED,1,0,1,0,26.71527777777778,3,2
+7,Fix #6: Migrate links from exercises/solutions to use internal links,https://github.com/donnemartin/system-design-primer/pull/23,2017-03-16T22:49:05Z,2017-03-19T19:23:03Z,1,MERGED,35,35,8,225,68.56611111111111,2,2
+8,"Delete duplicate word ""does"" in design exercises",https://github.com/donnemartin/system-design-primer/pull/24,2017-03-18T04:17:42Z,2017-03-18T15:37:17Z,1,MERGED,3,3,3,0,11.32638888888889,1,2
+9,Fix typo JSS -> JS,https://github.com/donnemartin/system-design-primer/pull/25,2017-03-18T16:45:40Z,2017-03-19T19:24:13Z,1,MERGED,1,1,1,35,26.6425,1,2
+10,Declare variable key in the get_user example,https://github.com/donnemartin/system-design-primer/pull/26,2017-03-19T22:54:10Z,2017-03-21T11:39:11Z,1,MERGED,1,0,1,221,36.750277777777775,1,2
+11,Fix typo,https://github.com/donnemartin/system-design-primer/pull/29,2017-03-22T16:44:21Z,2017-03-23T02:53:16Z,2,MERGED,1,1,1,0,10.14861111111111,1,3
+12,Fix typos,https://github.com/donnemartin/system-design-primer/pull/33,2017-03-23T22:30:10Z,2017-03-24T02:42:03Z,1,MERGED,2,2,1,0,4.198055555555555,1,2
+13,change the service discovery documenation example to use consul/etcd,https://github.com/donnemartin/system-design-primer/pull/34,2017-03-24T11:32:50Z,2017-03-26T17:02:10Z,2,MERGED,4,1,1,84,53.48888888888889,4,3
+14,Explain difference between PUT & PATCH,https://github.com/donnemartin/system-design-primer/pull/35,2017-03-25T22:50:04Z,2017-03-29T10:19:15Z,1,MERGED,2,0,1,246,83.48638888888888,2,2
+15,"Update service discovery section to include consul, etcd, and additional details",https://github.com/donnemartin/system-design-primer/pull/36,2017-03-26T16:58:09Z,2017-03-28T11:45:13Z,3,MERGED,1,1,1,0,42.784444444444446,1,5
+16,Change AP wording for clarity,https://github.com/donnemartin/system-design-primer/pull/50,2017-04-04T08:27:14Z,2017-04-04T09:56:39Z,1,MERGED,1,1,1,291,1.4902777777777778,1,2
+17,"Fix ""Coding deck"" link typo",https://github.com/donnemartin/system-design-primer/pull/59,2017-04-12T18:48:46Z,2017-04-14T01:04:39Z,0,MERGED,1,1,1,0,30.264722222222222,1,2
+18,Simplified Chinese translation v1.0,https://github.com/donnemartin/system-design-primer/pull/60,2017-04-14T03:09:31Z,2017-04-15T07:59:20Z,0,MERGED,1797,0,1,232,28.830277777777777,3,7
+19,zh-cn: Add Simplified Chinese translation v1.0,https://github.com/donnemartin/system-design-primer/pull/62,2017-04-15T07:44:20Z,2017-04-15T13:32:32Z,1,MERGED,1797,0,1,122,5.803333333333334,4,2
+20,zh-cn: Rename README-zh-Hant.md to README-zh-Hans.md,https://github.com/donnemartin/system-design-primer/pull/64,2017-04-16T03:17:12Z,2017-04-16T21:49:16Z,1,MERGED,0,0,1,90,18.534444444444443,2,2
+21,Fix asynchronism link in mint README,https://github.com/donnemartin/system-design-primer/pull/69,2017-04-22T00:06:53Z,2017-05-16T04:10:52Z,2,MERGED,1,1,1,0,580.0663888888889,1,3
+22,zh-Hans: Change misleading translation,https://github.com/donnemartin/system-design-primer/pull/70,2017-04-22T00:18:56Z,2018-04-09T00:32:18Z,0,MERGED,2,2,1,59,8448.222777777777,4,3
+23,Fix lowercase typo in Layer 7 load balancing title,https://github.com/donnemartin/system-design-primer/pull/74,2017-05-02T19:28:31Z,2017-05-16T04:17:24Z,1,MERGED,1,1,1,54,320.8147222222222,1,2
+24,Fix typo,https://github.com/donnemartin/system-design-primer/pull/75,2017-05-09T13:31:23Z,2017-05-27T00:32:45Z,1,MERGED,1,1,1,0,419.0227777777778,1,2
+25,Add license disclaimer,https://github.com/donnemartin/system-design-primer/pull/78,2017-05-18T08:42:10Z,2017-05-27T00:34:53Z,1,MERGED,10,0,2,140,207.8786111111111,0,2
+26,Fix #79: Inaccuracy in Twitter timeline and search example,https://github.com/donnemartin/system-design-primer/pull/81,2017-05-25T01:47:16Z,2017-05-27T00:31:32Z,1,MERGED,1,1,1,0,46.73777777777778,1,2
+1,#30 finish the sentence,https://github.com/996icu/996.ICU/pull/31,2019-03-26T15:30:40Z,2019-03-27T01:35:27Z,0,MERGED,1,1,1,8,10.079722222222221,0,2
+2,"Update README.md (Add <kbd> tag for ""F"")",https://github.com/996icu/996.ICU/pull/32,2019-03-26T18:03:25Z,2019-03-27T01:35:12Z,0,MERGED,1,1,1,195,7.529722222222222,0,2
+3,"Add the legal provisions, 😀",https://github.com/996icu/996.ICU/pull/110,2019-03-27T06:21:02Z,2019-03-27T08:04:40Z,1,MERGED,13,4,1,0,1.7272222222222222,2,4
+4,en_US,https://github.com/996icu/996.ICU/pull/242,2019-03-27T07:07:12Z,2019-03-28T02:53:55Z,2,MERGED,16,0,1,19,19.77861111111111,2,4
+5,Update zh_CN.md,https://github.com/996icu/996.ICU/pull/276,2019-03-27T07:19:08Z,2019-03-27T15:50:51Z,0,MERGED,1,0,1,54,8.528611111111111,0,2
+6,Update README.md,https://github.com/996icu/996.ICU/pull/282,2019-03-27T07:20:42Z,2019-03-27T15:50:09Z,0,MERGED,4,0,1,7,8.490833333333333,0,2
+7,添加了国际五一劳动节的历史渊源，以及国际歌歌词,https://github.com/996icu/996.ICU/pull/324,2019-03-27T07:35:37Z,2019-03-27T15:47:19Z,1,MERGED,78,0,1,23,8.195,4,6
+8,Create 加班公司名单,https://github.com/996icu/996.ICU/pull/605,2019-03-27T09:08:15Z,2019-03-28T02:53:22Z,1,MERGED,1,0,1,0,17.751944444444444,6,8
+9,blacklist and template,https://github.com/996icu/996.ICU/pull/693,2019-03-27T09:34:09Z,2019-03-28T02:35:14Z,2,MERGED,15,0,1,43,17.018055555555556,0,3
+10,add youzan CEO's response to 996,https://github.com/996icu/996.ICU/pull/761,2019-03-27T09:51:27Z,2019-03-27T14:25:09Z,0,MERGED,1,1,1,3,4.5616666666666665,2,2
+11,Update zh_CN.md,https://github.com/996icu/996.ICU/pull/765,2019-03-27T09:52:08Z,2019-03-28T02:34:41Z,0,MERGED,1,1,1,0,16.70916666666667,0,2
+12,当前已知的公司名单,https://github.com/996icu/996.ICU/pull/857,2019-03-27T10:12:11Z,2019-03-28T02:35:36Z,2,MERGED,4,0,1,0,16.39027777777778,7,11
+13,一站式劳动法学习网站,https://github.com/996icu/996.ICU/pull/868,2019-03-27T10:14:26Z,2019-03-28T02:34:26Z,0,MERGED,506,3,3,17,16.333333333333332,2,4
+14,fix grammar error,https://github.com/996icu/996.ICU/pull/877,2019-03-27T10:18:17Z,2019-03-27T12:30:13Z,1,MERGED,1,1,1,17,2.198888888888889,0,3
+15,fix grammer issue in English version,https://github.com/996icu/996.ICU/pull/932,2019-03-27T10:43:35Z,2019-03-27T14:23:02Z,1,MERGED,1,1,1,17,3.6575,0,2
+16,Update zh_CN.md,https://github.com/996icu/996.ICU/pull/941,2019-03-27T10:47:56Z,2019-03-28T02:36:11Z,0,MERGED,26,12,1,39,15.804166666666667,1,3
+17,translate “工作 996，生病 ICU” to english version.,https://github.com/996icu/996.ICU/pull/992,2019-03-27T11:06:59Z,2019-03-28T02:43:08Z,7,MERGED,3,0,1,91,15.6025,27,31
+18,Create es_MX.md,https://github.com/996icu/996.ICU/pull/1031,2019-03-27T11:22:51Z,2019-03-27T12:32:35Z,0,MERGED,24,0,1,0,1.1622222222222223,3,3
+19,change-expression,https://github.com/996icu/996.ICU/pull/1032,2019-03-27T11:23:24Z,2019-03-27T12:36:24Z,0,MERGED,1,1,1,34,1.2166666666666666,0,2
+20,add more laws form zh_CN.md,https://github.com/996icu/996.ICU/pull/1371,2019-03-27T12:43:49Z,2019-03-27T14:30:11Z,0,MERGED,13,3,1,0,1.7727777777777778,0,1
+21,add theme music,https://github.com/996icu/996.ICU/pull/1468,2019-03-27T13:10:43Z,2019-03-27T15:49:04Z,0,MERGED,0,0,1,30,2.6391666666666667,2,3
+22,we need a 965 company list!,https://github.com/996icu/996.ICU/pull/1491,2019-03-27T13:20:52Z,2019-03-28T02:53:03Z,0,MERGED,1,0,1,15,13.536388888888888,4,6
+23,update en_US.md: add more laws form zh_CN.md,https://github.com/996icu/996.ICU/pull/1600,2019-03-27T14:34:42Z,2019-03-28T02:56:42Z,0,MERGED,18,3,1,30,12.366666666666667,0,2
+24,曝光996公司及部门，欢迎曝光和投票,https://github.com/996icu/996.ICU/pull/1644,2019-03-27T15:14:41Z,2019-03-28T08:05:51Z,1,MERGED,5,0,1,367,16.852777777777778,114,106
+25,Add PS,https://github.com/996icu/996.ICU/pull/1695,2019-03-27T16:11:31Z,2019-03-28T02:58:18Z,0,MERGED,43,1,1,61,10.779722222222222,1,4
+26,update fr_FR version,https://github.com/996icu/996.ICU/pull/1726,2019-03-27T17:37:43Z,2019-03-28T00:45:17Z,0,MERGED,27,0,1,0,7.126111111111111,0,2
+27,create fr_FR.md,https://github.com/996icu/996.ICU/pull/1727,2019-03-27T17:37:48Z,2019-03-28T02:58:40Z,0,MERGED,27,0,1,18,9.347777777777777,0,2
+28,add survey,https://github.com/996icu/996.ICU/pull/1731,2019-03-27T17:56:50Z,2019-03-28T03:00:12Z,0,MERGED,4,0,1,328,9.056111111111111,2,2
+29,fr_FR,https://github.com/996icu/996.ICU/pull/1733,2019-03-27T18:01:15Z,2019-03-28T02:59:45Z,0,MERGED,62,0,1,0,8.975,2,2
+30,Update zh_CN.md,https://github.com/996icu/996.ICU/pull/1735,2019-03-27T18:04:59Z,2019-03-28T03:00:38Z,0,MERGED,4,0,1,0,8.9275,0,2
+31,fix english translation,https://github.com/996icu/996.ICU/pull/1739,2019-03-27T18:29:15Z,2019-03-28T00:45:44Z,2,MERGED,8,7,1,23,6.2747222222222225,1,3
+32,added it_IT.md,https://github.com/996icu/996.ICU/pull/1741,2019-03-27T18:38:25Z,2019-03-28T00:42:49Z,0,MERGED,28,0,1,30,6.073333333333333,0,2
+33,add de_DE.md,https://github.com/996icu/996.ICU/pull/1744,2019-03-27T19:42:50Z,2019-03-28T00:42:27Z,0,MERGED,27,0,1,22,4.993611111111111,0,2
+34,update zh_CN.md to add Article 96 of Labor Law,https://github.com/996icu/996.ICU/pull/1760,2019-03-27T23:55:47Z,2019-03-28T03:01:03Z,0,MERGED,5,0,1,0,3.0877777777777777,0,2
+35,update stargazers over time,https://github.com/996icu/996.ICU/pull/1761,2019-03-27T23:56:04Z,2019-03-28T03:01:24Z,0,MERGED,4,0,1,0,3.088888888888889,0,2
+36,Proofread the french translation,https://github.com/996icu/996.ICU/pull/1959,2019-03-28T01:12:21Z,2019-03-28T02:33:18Z,0,MERGED,5,5,1,0,1.3491666666666666,0,2
+37,French grammar & biaodianfuhao correction,https://github.com/996icu/996.ICU/pull/2114,2019-03-28T01:26:59Z,2019-03-28T02:32:34Z,0,MERGED,12,9,1,49,1.0930555555555554,0,2
+1,Run each test in its own <iframe>,https://github.com/facebook/react/pull/1,2013-05-29T20:20:53Z,2013-06-03T17:58:02Z,0,MERGED,241,79,24,498,117.61916666666667,4,3
+2,Fix react-tools module,https://github.com/facebook/react/pull/11,2013-05-30T04:23:33Z,2013-05-30T12:14:18Z,0,MERGED,2,2,2,155,7.845833333333333,0,2
+3,add a link to my tutorial repo,https://github.com/facebook/react/pull/13,2013-05-30T05:42:15Z,2013-05-30T11:39:43Z,0,MERGED,4,0,1,0,5.957777777777777,0,1
+4,Docs updates per community response,https://github.com/facebook/react/pull/14,2013-05-30T08:17:18Z,2013-05-30T11:42:50Z,0,MERGED,34,14,4,207,3.4255555555555555,2,3
+5,Added responsive styles,https://github.com/facebook/react/pull/15,2013-05-30T10:56:00Z,2013-05-30T18:25:22Z,0,MERGED,1875,1748,18,120,7.489444444444445,5,2
+6,Docs/Tutorial: Highlighting the correct line,https://github.com/facebook/react/pull/17,2013-05-30T14:38:13Z,2013-05-30T17:32:44Z,0,MERGED,1,1,1,0,2.908611111111111,1,2
+7,"Some help little fixes ... remember ""Right Resource Management""",https://github.com/facebook/react/pull/18,2013-05-30T14:44:37Z,2013-10-09T19:50:29Z,0,MERGED,18,6,1,223,3173.097777777778,5,4
+8,Docs/Tutorial: Introducing a submit button in the comment form,https://github.com/facebook/react/pull/19,2013-05-30T14:59:35Z,2013-05-30T18:15:42Z,0,MERGED,5,2,1,337,3.268611111111111,2,3
+9,Provide `grunt npm:test` for verifying NPM package functionality,https://github.com/facebook/react/pull/20,2013-05-30T15:05:48Z,2013-05-31T14:39:43Z,0,MERGED,109,0,4,379,23.565277777777776,0,2
+10,[docs] Revise marketing copy around JSX.,https://github.com/facebook/react/pull/22,2013-05-30T16:49:03Z,2013-05-30T18:09:48Z,0,MERGED,33,33,4,61,1.3458333333333334,0,3
+11,Add a JSX Compiler tool.,https://github.com/facebook/react/pull/23,2013-05-30T16:49:39Z,2013-05-30T18:41:25Z,0,MERGED,82,11,7,185,1.8627777777777779,1,3
+12,Added responsive styles (redux),https://github.com/facebook/react/pull/25,2013-05-30T18:32:00Z,2013-07-17T20:41:33Z,0,MERGED,18809,29,10,120,1154.1591666666666,3,3
+13,JSX Transformer / DisplayName Visitor: Multiple declarations with one `var` statement,https://github.com/facebook/react/pull/27,2013-05-30T19:05:16Z,2013-05-31T05:25:53Z,0,MERGED,15,19,1,864,10.34361111111111,9,3
+14,JSFiddle integration,https://github.com/facebook/react/pull/30,2013-05-30T22:36:49Z,2013-06-01T03:16:34Z,0,MERGED,10,0,1,274,28.6625,18,4
+15,Change TodoMVC to not modify state in place,https://github.com/facebook/react/pull/31,2013-05-31T00:46:06Z,2013-05-31T05:20:00Z,0,MERGED,3,3,1,115,4.565,4,4
+16,Add new onInput event,https://github.com/facebook/react/pull/32,2013-05-31T01:23:31Z,2013-06-05T21:57:27Z,0,MERGED,12,3,5,499,140.56555555555556,8,6
+17,Update stale event docs in tutorial,https://github.com/facebook/react/pull/33,2013-05-31T01:25:44Z,2013-05-31T16:52:21Z,0,MERGED,7,3,1,72,15.44361111111111,2,3
+18,Ship CJS modules instead of browserified build,https://github.com/facebook/react/pull/34,2013-05-31T18:11:01Z,2013-05-31T22:42:01Z,0,MERGED,4,4,2,816,4.516666666666667,0,2
+19,Adding base JSFiddle to README,https://github.com/facebook/react/pull/35,2013-06-01T03:19:31Z,2013-06-03T00:38:39Z,0,MERGED,2,0,1,0,45.318888888888885,3,4
+20,Fix live_editor.js usage of class=,https://github.com/facebook/react/pull/36,2013-06-01T03:58:03Z,2013-06-01T13:37:56Z,0,MERGED,2,2,1,198,9.664722222222222,0,2
+21,Add attributes used in input[type=range],https://github.com/facebook/react/pull/38,2013-06-02T01:21:44Z,2013-06-03T17:19:20Z,0,MERGED,3,0,1,100,39.96,4,3
+22,Consistently use autoBind on homepage examples,https://github.com/facebook/react/pull/41,2013-06-02T19:16:46Z,2013-06-03T19:53:28Z,0,MERGED,6,6,1,115,24.611666666666668,1,2
+23,Blog article for JSFiddle Integration ,https://github.com/facebook/react/pull/42,2013-06-02T22:54:28Z,2013-06-03T17:44:25Z,0,MERGED,54,6,7,99,18.8325,2,4
+24,Add JSFiddle to the getting started section,https://github.com/facebook/react/pull/43,2013-06-02T23:59:44Z,2013-06-03T21:26:34Z,0,MERGED,10,2,1,99,21.447222222222223,0,2
+25,"Installation section was out of date, redirecting to Getting Started",https://github.com/facebook/react/pull/45,2013-06-03T00:28:33Z,2013-06-12T23:15:25Z,0,MERGED,1,16,1,276,238.7811111111111,1,2
+26,"Add ""Why React""",https://github.com/facebook/react/pull/48,2013-06-03T18:02:57Z,2013-06-03T19:46:51Z,0,MERGED,125,0,1,165,1.7316666666666667,3,4
+27,[docs] Add RSS feed.xml for blog posts,https://github.com/facebook/react/pull/49,2013-06-03T18:11:27Z,2013-06-03T21:12:56Z,0,MERGED,24,0,3,122,3.024722222222222,0,2
+28,"Revise ""Why React"" content.",https://github.com/facebook/react/pull/53,2013-06-03T21:56:11Z,2013-06-04T04:12:51Z,0,MERGED,76,94,1,56,6.277777777777778,8,4
+29,Expanded the blog post,https://github.com/facebook/react/pull/54,2013-06-04T07:40:57Z,2013-06-04T19:58:58Z,0,MERGED,58,26,1,65,12.300277777777778,1,2
+30,Example demonstrating how to use React with RequireJS,https://github.com/facebook/react/pull/57,2013-06-04T20:50:12Z,2013-12-20T01:42:23Z,0,MERGED,82,0,5,392,4756.869722222223,15,6
+31,Make unmountAndReleaseReactRootNode not throw,https://github.com/facebook/react/pull/58,2013-06-04T21:38:25Z,2013-06-05T22:00:03Z,0,MERGED,8,4,1,190,24.360555555555557,1,3
+32,getDOMNodeID: Don't return .id on random objects,https://github.com/facebook/react/pull/61,2013-06-05T02:26:49Z,2013-06-14T18:27:46Z,0,MERGED,4,3,1,324,232.01583333333335,2,2
+33,"Put target on synthetic event, leave native alone",https://github.com/facebook/react/pull/62,2013-06-05T06:47:29Z,2013-06-06T22:06:10Z,0,MERGED,107,87,13,439,39.31138888888889,3,3
+34,Style tweaks,https://github.com/facebook/react/pull/63,2013-06-05T10:34:00Z,2013-07-11T07:35:09Z,0,MERGED,107,81,9,102,861.0191666666667,12,5
+1,Added wand lib to Imagery list,https://github.com/vinta/awesome-python/pull/1,2014-06-30T02:22:27Z,2014-06-30T04:12:56Z,0,MERGED,2,1,1,0,1.841388888888889,0,2
+2,Add Beaker under caching libraries in the README.md,https://github.com/vinta/awesome-python/pull/4,2014-06-30T14:27:44Z,2014-06-30T15:41:19Z,0,MERGED,2,1,1,41,1.226388888888889,0,2
+3,Added Anti-spam Libraries,https://github.com/vinta/awesome-python/pull/5,2014-06-30T14:34:27Z,2014-06-30T15:41:31Z,0,MERGED,2,1,1,0,1.1177777777777778,0,2
+4,Additions to Third-party APIs,https://github.com/vinta/awesome-python/pull/6,2014-06-30T14:46:22Z,2014-06-30T16:45:51Z,0,MERGED,5,2,1,0,1.9913888888888889,0,2
+5,Melignus high performance,https://github.com/vinta/awesome-python/pull/11,2014-06-30T18:05:24Z,2014-07-01T03:19:01Z,0,MERGED,7,0,1,55,9.226944444444445,1,3
+6,Added entries on Docs and Web Frameworks,https://github.com/vinta/awesome-python/pull/12,2014-06-30T18:08:04Z,2014-07-01T03:26:07Z,0,MERGED,16,11,1,37,9.300833333333333,0,2
+7,Adding MkDocs in Documentation section.,https://github.com/vinta/awesome-python/pull/13,2014-06-30T19:59:25Z,2014-07-01T03:29:54Z,0,MERGED,1,0,1,88,7.508055555555556,0,2
+8,Adding Unipath and Name Parser to the list,https://github.com/vinta/awesome-python/pull/15,2014-06-30T23:22:55Z,2014-07-01T03:30:49Z,0,MERGED,2,0,1,0,4.131666666666667,0,2
+9,Adding PonyORM to ORM section,https://github.com/vinta/awesome-python/pull/16,2014-07-01T01:56:55Z,2014-07-01T03:30:58Z,0,MERGED,1,0,1,17,1.5675,0,2
+10,add you-get and coursera on video,https://github.com/vinta/awesome-python/pull/17,2014-07-01T04:08:12Z,2014-07-01T13:36:27Z,0,MERGED,4,0,1,0,9.470833333333333,0,2
+11,add rapportive.py API interface.,https://github.com/vinta/awesome-python/pull/18,2014-07-01T05:05:10Z,2016-12-13T17:31:01Z,0,MERGED,1,0,1,50,21516.430833333332,0,2
+12,added fuckit and tkinter ,https://github.com/vinta/awesome-python/pull/19,2014-07-01T07:16:55Z,2014-07-01T13:55:35Z,0,MERGED,5,1,1,39,6.644444444444445,0,2
+13,Added rainbowstream to Command-line Tools section,https://github.com/vinta/awesome-python/pull/20,2014-07-01T07:49:54Z,2014-07-05T15:56:59Z,0,MERGED,10,0,1,0,104.11805555555556,0,1
+14,Add mamba & doublex,https://github.com/vinta/awesome-python/pull/21,2014-07-01T08:42:16Z,2014-07-01T13:59:08Z,0,MERGED,2,0,1,0,5.2811111111111115,0,2
+15,added a bunch of stuff,https://github.com/vinta/awesome-python/pull/22,2014-07-01T10:51:09Z,2014-07-01T14:50:27Z,0,MERGED,13,0,1,0,3.9883333333333333,0,2
+16,Added entries on Template Engine,https://github.com/vinta/awesome-python/pull/23,2014-07-01T13:01:19Z,2014-07-01T14:50:27Z,0,MERGED,3,0,1,43,1.818888888888889,4,3
+17,Add pyshorteners on URL Manipulation section,https://github.com/vinta/awesome-python/pull/27,2014-07-01T16:21:24Z,2014-07-01T18:40:50Z,0,MERGED,1,0,1,0,2.323888888888889,0,2
+18,added scikit-image and scikit-video,https://github.com/vinta/awesome-python/pull/28,2014-07-01T18:38:56Z,2014-07-03T07:44:58Z,0,MERGED,2,0,1,154,37.10055555555556,2,2
+19,"Added ""Build Tools"" section",https://github.com/vinta/awesome-python/pull/29,2014-07-01T18:59:58Z,2014-07-02T13:20:59Z,0,MERGED,10,2,1,37,18.350277777777777,1,2
+20,add huey and mrq,https://github.com/vinta/awesome-python/pull/30,2014-07-01T20:00:33Z,2014-07-02T01:51:36Z,0,MERGED,2,0,1,0,5.850833333333333,0,2
+21,Add webassets,https://github.com/vinta/awesome-python/pull/31,2014-07-01T21:20:44Z,2014-07-02T01:53:32Z,0,MERGED,1,0,1,122,4.546666666666667,0,2
+22,Fix typo,https://github.com/vinta/awesome-python/pull/32,2014-07-01T21:36:47Z,2014-07-02T01:54:06Z,0,MERGED,1,1,1,0,4.288611111111111,1,2
+23,Update README.md: Add pathlib,https://github.com/vinta/awesome-python/pull/33,2014-07-01T21:39:30Z,2014-07-02T01:54:58Z,0,MERGED,1,0,1,0,4.257777777777778,1,2
+24,Update README.md: Add cornice REST framework,https://github.com/vinta/awesome-python/pull/34,2014-07-01T21:41:15Z,2014-07-02T01:55:08Z,0,MERGED,1,0,1,0,4.231388888888889,1,2
+25,"Update README.md: Add fanstatic, file conveyer, and webassets",https://github.com/vinta/awesome-python/pull/35,2014-07-01T21:47:36Z,2014-07-02T02:08:52Z,0,MERGED,3,0,1,0,4.354444444444445,0,2
+26,Added Marrow Mailer package reference.,https://github.com/vinta/awesome-python/pull/36,2014-07-01T22:31:03Z,2014-07-02T01:55:24Z,0,MERGED,1,0,1,0,3.4058333333333333,0,2
+27,Included deform and dogpile cache,https://github.com/vinta/awesome-python/pull/37,2014-07-02T06:28:34Z,2014-07-02T13:21:46Z,0,MERGED,2,0,1,0,6.886666666666667,0,2
+28,Mistune and OAuthLib,https://github.com/vinta/awesome-python/pull/39,2014-07-02T06:50:21Z,2014-07-02T13:22:01Z,0,MERGED,3,0,1,87,6.527777777777778,0,2
+29,Added django-allauth to authentication section,https://github.com/vinta/awesome-python/pull/40,2014-07-02T07:19:02Z,2014-07-02T13:31:08Z,0,MERGED,1,0,1,0,6.201666666666667,0,2
+30,Added Plotly,https://github.com/vinta/awesome-python/pull/41,2014-07-02T07:53:06Z,2014-07-02T13:23:05Z,0,MERGED,1,0,1,67,5.499722222222222,2,3
+31,Add Contexts test framework to list,https://github.com/vinta/awesome-python/pull/42,2014-07-02T08:43:01Z,2014-07-02T13:23:26Z,0,MERGED,1,0,1,123,4.673611111111111,0,2
+32,Added PyCA's Cryptography,https://github.com/vinta/awesome-python/pull/44,2014-07-02T11:44:29Z,2014-07-02T13:23:52Z,0,MERGED,4,0,1,0,1.656388888888889,0,2
+33,Command-line tools,https://github.com/vinta/awesome-python/pull/47,2014-07-02T14:42:06Z,2014-07-03T08:20:18Z,0,MERGED,2,0,1,128,17.636666666666667,0,2
+34,Add Werkzeug,https://github.com/vinta/awesome-python/pull/49,2014-07-02T16:20:43Z,2014-07-03T07:38:40Z,0,MERGED,1,0,1,0,15.299166666666666,0,2
+35,Adds PyQt and modifies PySide to indicate which version of Qt is supported,https://github.com/vinta/awesome-python/pull/50,2014-07-02T17:04:36Z,2014-07-02T20:04:04Z,0,MERGED,2,1,1,0,2.991111111111111,0,2
+36,Adds pybarcode,https://github.com/vinta/awesome-python/pull/51,2014-07-02T17:13:21Z,2014-07-02T20:06:09Z,0,MERGED,1,0,1,0,2.88,0,2
+37,"Configuration, distribution, and WSGI libraries",https://github.com/vinta/awesome-python/pull/52,2014-07-02T17:21:52Z,2014-07-02T20:05:14Z,0,MERGED,38,3,1,77,2.722777777777778,1,2
+38,"++ PyRun, a single-file based Python distro",https://github.com/vinta/awesome-python/pull/53,2014-07-02T20:04:37Z,2014-07-03T06:37:43Z,0,MERGED,1,0,1,498,10.551666666666666,0,2
+39,Sorting,https://github.com/vinta/awesome-python/pull/54,2014-07-02T22:45:20Z,2014-07-03T06:30:44Z,0,MERGED,47,0,1,224,7.756666666666667,2,1
+1,Editing utils method toText to stringify objects,https://github.com/vuejs/vue/pull/89,2014-02-09T15:48:06Z,2014-02-09T21:59:44Z,0,MERGED,20,12,5,68,6.193888888888889,4,2
+2,Support for boolean HTML-attributes,https://github.com/vuejs/vue/pull/90,2014-02-09T16:08:02Z,2014-02-09T20:34:14Z,0,MERGED,47,10,4,524,4.4366666666666665,2,3
+3,Support boolean attributes,https://github.com/vuejs/vue/pull/91,2014-02-09T19:45:46Z,2014-02-10T00:50:51Z,0,MERGED,40,7,2,524,5.084722222222222,4,3
+4,Making the method Utils.toText() accept objects ,https://github.com/vuejs/vue/pull/92,2014-02-09T22:15:40Z,2014-02-10T01:29:09Z,0,MERGED,24,13,3,58,3.2247222222222223,6,2
+5,Making bindings for select elements with multiple attribute,https://github.com/vuejs/vue/pull/94,2014-02-10T11:45:41Z,2014-02-10T17:02:58Z,0,MERGED,67,8,3,94,5.288055555555555,7,3
+6,Implements plugin parameters,https://github.com/vuejs/vue/pull/118,2014-02-20T13:50:08Z,2014-02-20T16:55:04Z,0,MERGED,43,6,3,345,3.082222222222222,1,2
+7,adding control directive,https://github.com/vuejs/vue/pull/119,2014-02-20T20:47:52Z,2014-02-21T16:38:52Z,0,MERGED,38,3,5,1219,19.85,8,3
+8,make utils.extend() return the extended object,https://github.com/vuejs/vue/pull/121,2014-02-21T12:38:51Z,2014-02-21T16:53:55Z,0,MERGED,7,0,2,297,4.251111111111111,1,3
+9,v-transition: remove .v-leave if a transition is aborted (fixes #127),https://github.com/vuejs/vue/pull/128,2014-02-22T20:33:11Z,2014-02-23T16:37:19Z,0,MERGED,11,1,2,43,20.06888888888889,1,2
+10,fix #176: set v-model initial value from compile child text nodes,https://github.com/vuejs/vue/pull/182,2014-03-13T13:34:47Z,2014-03-13T17:50:17Z,0,MERGED,10,2,2,167,4.258333333333334,3,2
+11,allow stop propagation for the handlers that do not receive the event object (dev branch),https://github.com/vuejs/vue/pull/187,2014-03-15T01:10:43Z,2014-03-17T02:10:14Z,0,MERGED,34,2,2,21,48.99194444444444,14,2
+12,Fixed transitions on some Android 4.1 devices,https://github.com/vuejs/vue/pull/249,2014-04-26T22:01:32Z,2014-04-29T16:19:23Z,0,MERGED,2,2,1,541,66.2975,0,2
+13,Contributing guide update,https://github.com/vuejs/vue/pull/261,2014-05-09T12:10:46Z,2014-05-09T14:43:51Z,0,MERGED,11,4,1,307,2.551388888888889,1,2
+14,Namespaced attributes ,https://github.com/vuejs/vue/pull/262,2014-05-09T15:59:10Z,2014-05-15T14:57:09Z,0,MERGED,22,9,3,259,142.9663888888889,3,2
+15,double clone bug,https://github.com/vuejs/vue/pull/267,2014-05-15T08:48:50Z,2014-05-15T14:25:58Z,0,MERGED,1,1,1,59,5.618888888888889,1,2
+16,Performance fixes,https://github.com/vuejs/vue/pull/271,2014-05-15T16:44:26Z,2014-05-15T18:48:48Z,0,MERGED,8,7,2,33,2.0727777777777776,1,3
+17,Updating bundled Vue version with new changes.,https://github.com/vuejs/vue/pull/272,2014-05-15T21:23:52Z,2014-05-16T19:16:50Z,0,MERGED,52,31,1,129,21.88277777777778,1,2
+18,Add spm support,https://github.com/vuejs/vue/pull/283,2014-05-29T07:55:11Z,2014-06-23T07:39:34Z,0,MERGED,14,0,1,484,599.7397222222222,5,2
+19,extend current data if exist,https://github.com/vuejs/vue/pull/298,2014-06-10T11:06:17Z,2014-06-19T15:41:52Z,0,MERGED,3,1,1,38,220.59305555555557,6,3
+20,#299 fix derective style,https://github.com/vuejs/vue/pull/300,2014-06-10T12:05:16Z,2014-06-10T16:19:42Z,0,MERGED,7,5,1,33,4.240555555555556,0,2
+21,Use SVG badges instead of PNG badges,https://github.com/vuejs/vue/pull/302,2014-06-11T01:59:34Z,2014-06-11T19:31:12Z,0,MERGED,1,1,1,507,17.52722222222222,2,2
+22,Fix ViewModel.require with component@1.0.0,https://github.com/vuejs/vue/pull/305,2014-06-11T20:16:03Z,2014-06-11T21:37:05Z,0,MERGED,10,8,1,277,1.3505555555555555,3,2
+23,Add spm support,https://github.com/vuejs/vue/pull/326,2014-06-23T07:39:10Z,2014-06-23T15:26:22Z,0,MERGED,14,0,1,54,7.786666666666667,0,2
+24,fixed `v-repeat` directive where collection has 1,https://github.com/vuejs/vue/pull/327,2014-06-23T20:39:57Z,2014-06-27T17:58:14Z,0,MERGED,22,20,1,311,93.30472222222222,3,2
+25,#335 Allow template nodes to be passed as a template option,https://github.com/vuejs/vue/pull/336,2014-07-04T21:08:06Z,2014-07-08T21:12:44Z,0,MERGED,151,41,7,190,96.07722222222222,2,2
+26,Update viewmodel.js,https://github.com/vuejs/vue/pull/344,2014-07-08T21:21:25Z,2014-07-09T00:21:13Z,0,MERGED,11,2,1,146,2.9966666666666666,2,2
+27,Fix problem currency filter when value string,https://github.com/vuejs/vue/pull/347,2014-07-10T14:32:13Z,2014-07-15T01:40:04Z,0,MERGED,2,2,1,42,107.13083333333333,1,2
+28,Support namespace prefixed arguments,https://github.com/vuejs/vue/pull/354,2014-07-15T12:42:17Z,2014-09-09T00:21:08Z,0,MERGED,44,8,4,424,1331.6475,9,6
+29,fixed currency filter for negative numbers,https://github.com/vuejs/vue/pull/376,2014-07-30T06:59:41Z,2014-07-30T14:27:05Z,0,MERGED,11,2,2,133,7.456666666666667,1,2
+30,Allow Vue.nextTick to be passed a context,https://github.com/vuejs/vue/pull/385,2014-08-04T18:24:58Z,2014-08-05T14:53:43Z,0,MERGED,8,3,1,259,20.479166666666668,3,4
+31,Fix nodeType check in fragment.js,https://github.com/vuejs/vue/pull/389,2014-08-07T03:28:46Z,2014-08-07T14:38:39Z,0,MERGED,1,1,1,202,11.164722222222222,3,2
+32,"Updated jsfiddle for ""New Scope Inheritance Model""",https://github.com/vuejs/vue/pull/422,2014-09-10T22:06:27Z,2014-09-13T20:40:47Z,0,MERGED,2,2,1,117,70.57222222222222,0,2
+33,typo,https://github.com/vuejs/vue/pull/451,2014-10-01T12:42:22Z,2014-10-01T15:06:51Z,0,MERGED,1,1,1,0,2.4080555555555554,0,2
+34,fix attr directive condition for setAttribute,https://github.com/vuejs/vue/pull/469,2014-10-07T06:59:44Z,2014-10-07T12:34:06Z,0,MERGED,2,2,1,339,5.572777777777778,1,2
+35,Update index.js,https://github.com/vuejs/vue/pull/511,2014-10-26T13:52:37Z,2014-10-26T16:34:35Z,0,MERGED,2,2,1,17,2.6994444444444445,1,2
+36,Support v-class attr of svg in IE,https://github.com/vuejs/vue/pull/537,2014-11-03T08:59:05Z,2014-11-04T17:34:09Z,0,MERGED,25,21,2,228,32.58444444444444,3,3
+37,Add click listener into checkbox directive to bind value,https://github.com/vuejs/vue/pull/540,2014-11-04T05:48:33Z,2014-11-05T05:44:17Z,0,MERGED,3,1,1,340,23.92888888888889,5,2
+38,Moved one time interpolation code after `Example:`,https://github.com/vuejs/vue/pull/547,2014-11-07T22:13:17Z,2014-11-08T02:44:50Z,0,MERGED,2,2,1,13,4.525833333333333,1,3
+1,Create a blog webapp in Django,https://github.com/practical-tutorials/project-based-learning/pull/1,2017-04-28T20:26:31Z,2017-04-28T23:26:38Z,0,MERGED,1,0,1,0,3.0019444444444443,4,2
+2,Add PHP tutorial,https://github.com/practical-tutorials/project-based-learning/pull/3,2017-04-28T20:41:25Z,2017-05-23T15:30:13Z,0,MERGED,4,0,1,111,594.8133333333334,5,3
+3,Added Best Full Stack Redux Tutorial :tada:,https://github.com/practical-tutorials/project-based-learning/pull/4,2017-05-01T08:21:12Z,2017-05-01T12:38:33Z,0,MERGED,1,0,1,0,4.289166666666667,0,2
+4,add angular2+ hacker news tutorial,https://github.com/practical-tutorials/project-based-learning/pull/9,2017-05-02T16:36:27Z,2017-05-02T20:07:06Z,0,MERGED,3,0,1,172,3.5108333333333333,1,3
+5,Added Laravel Blog Tutorial,https://github.com/practical-tutorials/project-based-learning/pull/11,2017-05-04T22:28:16Z,2017-05-05T22:14:55Z,0,MERGED,4,0,1,0,23.7775,2,2
+6,Added Mobile Application Dev. With React Native,https://github.com/practical-tutorials/project-based-learning/pull/12,2017-05-05T06:18:31Z,2017-05-05T22:14:28Z,0,MERGED,8,0,1,48,15.9325,0,2
+7,Added Telegram bot creation tutorial,https://github.com/practical-tutorials/project-based-learning/pull/13,2017-05-06T16:21:05Z,2017-05-06T22:55:18Z,0,MERGED,1,0,1,73,6.570277777777778,0,2
+8,Update R tutorial link,https://github.com/practical-tutorials/project-based-learning/pull/14,2017-05-06T16:53:01Z,2017-05-06T22:54:44Z,0,MERGED,1,1,1,128,6.028611111111111,0,2
+9,React music player part 3 - fixed broken link,https://github.com/practical-tutorials/project-based-learning/pull/16,2017-05-08T09:22:15Z,2017-05-08T21:27:51Z,0,MERGED,1,1,1,35,12.093333333333334,0,2
+10,Updated link in README.md,https://github.com/practical-tutorials/project-based-learning/pull/17,2017-05-10T02:50:06Z,2017-05-15T02:39:29Z,0,MERGED,1,1,1,67,119.82305555555556,2,2
+11,"add PHP tutorial series ""Make your own blog""",https://github.com/practical-tutorials/project-based-learning/pull/19,2017-05-10T06:57:40Z,2017-05-11T05:44:24Z,0,MERGED,1,0,1,0,22.77888888888889,0,2
+12,Added Clojure Twitter Bot Tutorial,https://github.com/practical-tutorials/project-based-learning/pull/20,2017-05-10T22:58:27Z,2017-05-11T05:45:46Z,0,MERGED,4,0,1,0,6.788611111111111,0,2
+13,Added Out-Of-Date section to Haskell,https://github.com/practical-tutorials/project-based-learning/pull/21,2017-05-11T02:56:51Z,2017-05-11T05:45:09Z,0,MERGED,2,1,1,0,2.805,0,2
+14,"Added resources for php, and javascript",https://github.com/practical-tutorials/project-based-learning/pull/23,2017-05-11T12:44:09Z,2021-08-26T10:08:58Z,0,MERGED,6,0,1,0,37629.413611111115,3,4
+15,Adding SilverStripe example in,https://github.com/practical-tutorials/project-based-learning/pull/24,2017-05-11T13:50:01Z,2017-05-11T22:01:49Z,0,MERGED,2,1,1,176,8.196666666666667,0,2
+16,Adds JavaScript tutorial to build small 30 things,https://github.com/practical-tutorials/project-based-learning/pull/25,2017-05-11T14:04:57Z,2017-05-11T22:02:44Z,0,MERGED,2,0,1,0,7.963055555555556,0,2
+17,Update README.md,https://github.com/practical-tutorials/project-based-learning/pull/27,2017-05-13T17:18:34Z,2021-12-28T12:48:04Z,0,MERGED,3,0,1,0,40555.49166666667,3,3
+18,url rollback-javascript desktop application,https://github.com/practical-tutorials/project-based-learning/pull/29,2017-05-19T13:23:06Z,2017-05-22T14:24:21Z,0,MERGED,1,1,1,56,73.02083333333333,0,2
+19,corrected typo in README.md,https://github.com/practical-tutorials/project-based-learning/pull/30,2017-05-21T02:47:56Z,2017-05-22T14:23:22Z,0,MERGED,1,1,1,0,35.590555555555554,0,2
+20,Added 'Hacking With Swift' online tutorial,https://github.com/practical-tutorials/project-based-learning/pull/31,2017-05-23T14:04:46Z,2017-06-26T00:59:26Z,0,MERGED,4,0,1,0,802.9111111111112,0,2
+21,Updated Python Bot Telegram tutorials,https://github.com/practical-tutorials/project-based-learning/pull/32,2017-06-13T03:40:57Z,2017-06-13T14:04:33Z,0,MERGED,3,1,1,39,10.393333333333333,0,2
+22,Build Realtime Chat App With Laravel and Vuejs,https://github.com/practical-tutorials/project-based-learning/pull/34,2017-06-29T22:47:12Z,2017-06-30T22:13:39Z,0,MERGED,1,0,1,0,23.440833333333334,0,2
+23,Build A Support Ticket Application With AdonisJs,https://github.com/practical-tutorials/project-based-learning/pull/36,2017-07-11T03:56:03Z,2017-07-11T14:07:37Z,1,MERGED,4,0,1,0,10.192777777777778,0,2
+24,Added Thinkster.io to Additional Resources,https://github.com/practical-tutorials/project-based-learning/pull/37,2017-07-12T23:53:49Z,2017-07-13T03:41:54Z,1,MERGED,1,0,1,0,3.801388888888889,0,2
+25,Added Goodheads.io to Additional Resources,https://github.com/practical-tutorials/project-based-learning/pull/38,2017-07-13T09:37:03Z,2017-07-14T00:41:40Z,1,MERGED,1,0,1,0,15.076944444444445,0,2
+26,Adding elixir section + build a chat app tutorial,https://github.com/practical-tutorials/project-based-learning/pull/39,2017-07-14T06:43:17Z,2017-07-14T13:55:40Z,0,MERGED,4,0,1,0,7.206388888888889,0,2
+27,Add write a hash table in C tutorial,https://github.com/practical-tutorials/project-based-learning/pull/40,2017-08-24T17:45:42Z,2017-08-24T22:06:54Z,0,MERGED,2,1,1,0,4.3533333333333335,1,2
+28,Python tutorial - build a tweet bot,https://github.com/practical-tutorials/project-based-learning/pull/41,2017-09-05T06:19:40Z,2017-09-25T05:04:52Z,0,MERGED,1,0,1,0,478.75333333333333,0,2
+29,A good Django resource,https://github.com/practical-tutorials/project-based-learning/pull/42,2017-09-19T08:28:01Z,2021-08-25T21:58:26Z,0,MERGED,1,0,1,43,34477.506944444445,1,2
+30,Write an Sqlite Clone from Scratch in C,https://github.com/practical-tutorials/project-based-learning/pull/43,2017-10-03T06:12:08Z,2017-10-09T19:19:23Z,0,MERGED,1,0,1,0,157.12083333333334,0,2
+31,"all three links are about Rails, not Ruby",https://github.com/practical-tutorials/project-based-learning/pull/44,2017-10-17T22:20:37Z,2021-08-26T08:46:44Z,0,MERGED,2,2,1,0,33802.435277777775,1,2
+32,Added Python Deep Learning,https://github.com/practical-tutorials/project-based-learning/pull/45,2017-10-25T13:22:06Z,2017-10-25T18:22:17Z,0,MERGED,2,0,1,108,5.003055555555555,0,2
+33,Django Tutorial,https://github.com/practical-tutorials/project-based-learning/pull/48,2017-12-05T03:21:05Z,2021-08-25T21:57:23Z,0,MERGED,1,0,1,36,32634.605,1,2
+34,Added a 10 days JavaScript basics tutorial,https://github.com/practical-tutorials/project-based-learning/pull/49,2018-01-25T14:11:54Z,2018-05-04T18:57:38Z,0,MERGED,1,0,1,0,2380.762222222222,1,3
+35,"Added ""Building a Spell-Checker in Clojure""",https://github.com/practical-tutorials/project-based-learning/pull/51,2018-02-27T06:45:45Z,2018-03-02T13:46:19Z,0,MERGED,1,0,1,0,79.00944444444444,0,2
+36,"Add ""BYTEPATH: Creation of a Complete Game with Lua and LÖVE""",https://github.com/practical-tutorials/project-based-learning/pull/52,2018-04-03T11:28:15Z,2018-04-16T04:37:57Z,0,MERGED,23,0,1,293,305.1616666666667,0,1
+37,Add BYTEPATH tutorial,https://github.com/practical-tutorials/project-based-learning/pull/53,2018-04-16T05:21:19Z,2018-04-16T23:01:24Z,0,MERGED,23,0,1,342,17.668055555555554,0,2
+38,Add Rust tutorial about writing a chat service.,https://github.com/practical-tutorials/project-based-learning/pull/54,2018-04-16T05:34:17Z,2018-04-16T23:02:05Z,0,MERGED,3,0,1,127,17.463333333333335,0,2
+39,Added Node.js Bot Twitter Tutorial ,https://github.com/practical-tutorials/project-based-learning/pull/55,2018-04-16T06:45:59Z,2018-04-16T23:00:52Z,0,MERGED,1,0,1,0,16.248055555555556,0,2
+40,"Javascript: ""How to write your own Virtual DOM""",https://github.com/practical-tutorials/project-based-learning/pull/56,2018-04-17T04:09:04Z,2018-04-17T15:36:03Z,1,MERGED,1,0,1,0,11.449722222222222,0,1
+41,Restructured for separate Node.js topic ,https://github.com/practical-tutorials/project-based-learning/pull/60,2018-04-17T20:45:22Z,2018-04-20T05:23:52Z,0,MERGED,10,4,1,0,56.641666666666666,2,2
+1,YOURLS,https://github.com/awesome-selfhosted/awesome-selfhosted/pull/1,2015-06-01T20:34:11Z,2015-06-02T01:59:28Z,0,MERGED,6,2,1,103,5.421388888888889,0,2
+2,Add Node-Chat and Agar.IO Clone,https://github.com/awesome-selfhosted/awesome-selfhosted/pull/2,2015-06-01T21:12:48Z,2015-06-01T23:33:12Z,0,MERGED,2,0,1,0,2.34,0,2
+3,Added 2 categories and 5 services,https://github.com/awesome-selfhosted/awesome-selfhosted/pull/3,2015-06-03T05:39:02Z,2015-06-03T06:47:41Z,0,MERGED,50,39,1,105,1.1441666666666668,1,2
+4,"add various applications (blogging, download tools, bug trackers...), misc fixes",https://github.com/awesome-selfhosted/awesome-selfhosted/pull/4,2015-06-03T09:16:22Z,2015-06-03T20:09:53Z,0,MERGED,69,30,1,263,10.891944444444444,0,2
+5,"add License, add CMS, dev tools, image galleries, link sharing platforms, system monitors",https://github.com/awesome-selfhosted/awesome-selfhosted/pull/5,2015-06-04T12:50:37Z,2015-06-04T19:54:46Z,0,MERGED,435,4,2,21,7.069166666666667,1,3
+6,"Order alphabetically, add XMPP servers",https://github.com/awesome-selfhosted/awesome-selfhosted/pull/7,2015-06-07T11:26:23Z,2015-06-07T15:10:30Z,0,MERGED,48,46,1,0,3.7352777777777777,0,2
+7,Added Kandan,https://github.com/awesome-selfhosted/awesome-selfhosted/pull/9,2015-06-07T23:10:06Z,2015-06-08T06:34:31Z,0,MERGED,1,0,1,0,7.406944444444444,2,2
+8,"add tasks apps, calendars, file management, tarnsfer, sync, groupware, note taking, social networks, wikis",https://github.com/awesome-selfhosted/awesome-selfhosted/pull/11,2015-06-15T11:23:16Z,2015-06-15T14:22:30Z,0,MERGED,66,7,1,0,2.987222222222222,0,2
+9,"Add 5 sections, more applications, small fixes",https://github.com/awesome-selfhosted/awesome-selfhosted/pull/12,2015-06-16T12:49:50Z,2015-06-20T11:08:35Z,0,MERGED,78,23,1,0,94.3125,0,2
+10,"A lot of fixes, optimizations, added some new apps",https://github.com/awesome-selfhosted/awesome-selfhosted/pull/16,2015-06-23T10:18:04Z,2015-07-27T17:50:37Z,0,MERGED,115,98,1,197,823.5425,1,3
+11,add more applications,https://github.com/awesome-selfhosted/awesome-selfhosted/pull/17,2015-06-23T23:47:25Z,2015-06-24T15:10:12Z,0,MERGED,8,0,1,0,15.379722222222222,1,2
+12,"add more software, add password managers section",https://github.com/awesome-selfhosted/awesome-selfhosted/pull/18,2015-06-28T15:04:54Z,2015-07-10T11:33:47Z,0,MERGED,32,3,1,0,284.4813888888889,1,2
+13,added an open source solution to the polls category,https://github.com/awesome-selfhosted/awesome-selfhosted/pull/19,2015-06-30T15:18:46Z,2015-07-08T10:50:16Z,0,MERGED,1,0,1,147,187.525,0,2
+14,Remove duplicate from monitoring & added phpSysInfo,https://github.com/awesome-selfhosted/awesome-selfhosted/pull/21,2015-07-01T09:34:22Z,2015-07-08T10:49:37Z,0,MERGED,1,1,1,54,169.25416666666666,0,2
+15,"add OpenFire, fix elgg, add new category ""webmail interfaces""",https://github.com/awesome-selfhosted/awesome-selfhosted/pull/27,2015-07-14T17:21:01Z,2015-07-16T02:47:40Z,0,MERGED,4,1,1,0,33.44416666666667,2,3
+16,add dillinger in new text editors section,https://github.com/awesome-selfhosted/awesome-selfhosted/pull/28,2015-07-24T17:35:39Z,2015-07-24T23:16:33Z,0,MERGED,3,0,1,115,5.681666666666667,0,2
+17,"translate descriptions, more sources/language/licenses, add contributing section",https://github.com/awesome-selfhosted/awesome-selfhosted/pull/29,2015-07-26T20:11:01Z,2015-07-26T23:06:32Z,0,MERGED,102,65,1,0,2.9252777777777776,2,2
+18,"Couple new items, minor spelling/order mistakes",https://github.com/awesome-selfhosted/awesome-selfhosted/pull/32,2015-07-27T05:53:47Z,2015-07-27T15:10:17Z,0,MERGED,8,5,1,182,9.275,1,3
+19,"Suggest MPD, Subsonic, Ampache",https://github.com/awesome-selfhosted/awesome-selfhosted/pull/33,2015-07-27T12:41:43Z,2015-07-27T15:10:18Z,0,MERGED,3,0,1,0,2.4763888888888888,1,3
+20,"Pull Request 16, 32, 33 rebased and edited, more fixes",https://github.com/awesome-selfhosted/awesome-selfhosted/pull/34,2015-07-27T13:11:02Z,2015-07-27T15:10:16Z,0,MERGED,142,115,1,368,1.9872222222222222,4,5
+21,Update README.md,https://github.com/awesome-selfhosted/awesome-selfhosted/pull/40,2015-07-27T20:29:07Z,2015-07-28T15:24:18Z,0,MERGED,11,9,1,54,18.919722222222223,0,2
+22,Add Jekyll static site generator,https://github.com/awesome-selfhosted/awesome-selfhosted/pull/41,2015-07-27T21:16:14Z,2015-07-28T15:24:19Z,0,MERGED,1,0,1,0,18.134722222222223,4,3
+23,Add PasswordStore to Password Managers,https://github.com/awesome-selfhosted/awesome-selfhosted/pull/43,2015-07-27T22:18:48Z,2015-07-28T15:26:34Z,0,MERGED,1,0,1,113,17.129444444444445,2,2
+24,Add self-hosting solutions/distributions + external links,https://github.com/awesome-selfhosted/awesome-selfhosted/pull/44,2015-07-27T23:33:00Z,2015-07-28T15:24:18Z,0,MERGED,95,38,1,0,15.855,0,1
+25,Added LibreNMS to administration & monitoring section,https://github.com/awesome-selfhosted/awesome-selfhosted/pull/45,2015-07-28T01:51:07Z,2015-07-28T15:24:19Z,0,MERGED,1,0,1,0,13.553333333333333,0,2
+26,Added mailcow and deleted some duplicate entries.,https://github.com/awesome-selfhosted/awesome-selfhosted/pull/46,2015-07-28T11:07:30Z,2015-07-28T15:26:25Z,0,MERGED,7,6,1,0,4.315277777777778,1,2
+27,Add ejabberd to Communication Systems,https://github.com/awesome-selfhosted/awesome-selfhosted/pull/47,2015-07-28T13:25:30Z,2015-07-28T15:24:19Z,0,MERGED,1,0,1,77,1.9802777777777778,0,2
+28,reorganization of communication system section,https://github.com/awesome-selfhosted/awesome-selfhosted/pull/48,2015-07-28T14:00:36Z,2015-07-28T15:26:07Z,0,MERGED,9,7,1,206,1.4252777777777779,2,2
+29,reword intro,https://github.com/awesome-selfhosted/awesome-selfhosted/pull/50,2015-07-28T15:43:13Z,2015-07-28T18:37:13Z,0,MERGED,1,1,1,46,2.9,1,2
+30,Added Groove Basin,https://github.com/awesome-selfhosted/awesome-selfhosted/pull/52,2015-07-28T19:58:18Z,2015-07-28T23:46:34Z,0,MERGED,1,0,1,0,3.8044444444444445,5,4
+31,Update README.md,https://github.com/awesome-selfhosted/awesome-selfhosted/pull/53,2015-07-28T20:14:05Z,2015-07-28T21:28:22Z,0,MERGED,19,18,1,68,1.2380555555555555,0,2
+32,add  symbol for software anti-features,https://github.com/awesome-selfhosted/awesome-selfhosted/pull/54,2015-07-28T22:14:57Z,2015-07-28T23:48:45Z,0,MERGED,5,1,1,230,1.5633333333333332,0,2
+33,Update README,https://github.com/awesome-selfhosted/awesome-selfhosted/pull/58,2015-07-29T05:11:00Z,2015-07-30T00:50:07Z,0,MERGED,1,1,1,84,19.651944444444446,3,3
+34,update language and licenses,https://github.com/awesome-selfhosted/awesome-selfhosted/pull/59,2015-07-29T05:36:55Z,2015-07-29T14:19:45Z,0,MERGED,20,20,1,404,8.713888888888889,5,2
+35,Add BoZoN,https://github.com/awesome-selfhosted/awesome-selfhosted/pull/62,2015-07-29T13:19:16Z,2015-08-03T12:36:03Z,0,MERGED,1,0,1,0,119.27972222222222,4,2
+36,Added Nikola and Octopress,https://github.com/awesome-selfhosted/awesome-selfhosted/pull/66,2015-07-29T14:31:21Z,2015-07-30T00:53:31Z,0,MERGED,22,20,1,0,10.369444444444444,2,2
+1,Add quicksort,https://github.com/TheAlgorithms/Python/pull/4,2016-07-28T21:53:54Z,2016-07-29T01:48:03Z,0,MERGED,29,0,1,255,3.9025,0,2
+2,Bin search refactored pythonic way,https://github.com/TheAlgorithms/Python/pull/6,2016-07-29T13:09:24Z,2016-07-29T14:22:03Z,0,MERGED,129,30,2,199,1.2108333333333334,0,2
+3,Improvements,https://github.com/TheAlgorithms/Python/pull/7,2016-07-29T20:05:29Z,2016-07-30T03:06:33Z,0,MERGED,278,119,6,77,7.017777777777778,1,2
+4,Travis integration (Add .travis.yml),https://github.com/TheAlgorithms/Python/pull/9,2016-08-01T09:38:10Z,2016-08-02T13:29:37Z,0,MERGED,11,0,2,89,27.8575,7,3
+5,[Quicksort]Added shuffling of input,https://github.com/TheAlgorithms/Python/pull/16,2016-08-11T18:04:37Z,2016-08-13T09:30:56Z,0,MERGED,7,1,1,92,39.43861111111111,2,3
+6,added implementation for heap sort algorithm,https://github.com/TheAlgorithms/Python/pull/18,2016-08-14T09:54:41Z,2016-08-14T12:22:45Z,0,MERGED,39,0,1,56,2.4677777777777776,1,2
+7,Added Shell Sort,https://github.com/TheAlgorithms/Python/pull/19,2016-08-16T16:58:52Z,2016-08-17T11:41:28Z,0,MERGED,127,28,9,127,18.71,2,2
+8,add rsa implementation,https://github.com/TheAlgorithms/Python/pull/21,2016-08-20T16:30:38Z,2016-08-27T07:59:53Z,0,MERGED,450,0,3,500,159.4875,4,4
+9,Update quick_sort.py,https://github.com/TheAlgorithms/Python/pull/23,2016-08-29T08:55:06Z,2016-08-29T16:23:21Z,0,MERGED,11,12,1,33,7.470833333333333,0,2
+10,Fixed typo in linear_search.py,https://github.com/TheAlgorithms/Python/pull/24,2016-08-30T19:07:29Z,2016-08-31T01:32:19Z,0,MERGED,1,1,1,83,6.413888888888889,0,2
+11,Update heap_sort.py,https://github.com/TheAlgorithms/Python/pull/25,2016-09-02T11:02:28Z,2016-09-02T14:45:39Z,0,MERGED,2,2,1,62,3.7197222222222224,0,2
+12,Update insertion_sort.py,https://github.com/TheAlgorithms/Python/pull/26,2016-09-05T07:08:51Z,2016-09-05T09:09:30Z,0,MERGED,4,8,1,66,2.0108333333333333,0,2
+13,add hashes directory with md5 implementation (resubmit),https://github.com/TheAlgorithms/Python/pull/29,2016-09-16T19:34:06Z,2016-09-17T04:08:13Z,0,MERGED,107,0,1,0,8.56861111111111,0,2
+14,Traversal algorithms for Binary Tree.,https://github.com/TheAlgorithms/Python/pull/30,2016-09-25T21:23:30Z,2016-09-26T01:34:19Z,0,MERGED,124,15,7,0,4.1802777777777775,0,2
+15,added isinstance check,https://github.com/TheAlgorithms/Python/pull/39,2016-10-13T18:32:34Z,2016-10-14T02:39:21Z,0,MERGED,6,5,1,0,8.113055555555556,0,2
+16,Create __init__.py,https://github.com/TheAlgorithms/Python/pull/40,2016-10-14T15:16:01Z,2016-10-14T16:55:35Z,0,MERGED,23,0,1,74,1.6594444444444445,0,2
+17,Adds Trees Data Structure,https://github.com/TheAlgorithms/Python/pull/42,2016-10-14T20:58:50Z,2016-11-07T18:56:31Z,0,MERGED,503,0,2,0,573.9613888888889,0,2
+18,Added Sieve of Eratosthenes algorithm for finding primes,https://github.com/TheAlgorithms/Python/pull/48,2016-11-20T21:55:04Z,2016-11-21T00:15:51Z,0,MERGED,18,0,1,0,2.346388888888889,0,2
+19,Upadated RSA Algorithm under Cryptography Section,https://github.com/TheAlgorithms/Python/pull/53,2016-12-12T13:12:24Z,2016-12-13T06:34:39Z,0,MERGED,113,0,1,101,17.370833333333334,0,2
+20,Updated README.md and uploaded png file under sorts directory,https://github.com/TheAlgorithms/Python/pull/54,2016-12-13T10:57:59Z,2016-12-21T12:55:43Z,0,MERGED,6,0,2,224,193.9622222222222,5,2
+21,Updated README.md for Sorting Graphs,https://github.com/TheAlgorithms/Python/pull/55,2016-12-22T03:28:19Z,2016-12-22T15:22:43Z,0,MERGED,10,0,2,0,11.906666666666666,2,3
+1,Fix incorrect spelling of 'than',https://github.com/trekhleb/javascript-algorithms/pull/2,2018-05-23T18:43:16Z,2018-05-24T06:04:23Z,0,MERGED,40,40,11,62,11.351944444444445,2,2
+2,small refactor in some sorting algorithms for better readability,https://github.com/trekhleb/javascript-algorithms/pull/3,2018-05-23T20:39:01Z,2018-05-24T06:07:09Z,0,MERGED,5,5,5,64,9.46888888888889,2,3
+3,Corrected typo,https://github.com/trekhleb/javascript-algorithms/pull/4,2018-05-23T20:48:34Z,2018-05-24T05:42:53Z,0,MERGED,1,1,1,0,8.905277777777778,2,3
+4,Translate to Chinese,https://github.com/trekhleb/javascript-algorithms/pull/5,2018-05-23T21:08:08Z,2018-05-24T05:50:51Z,0,MERGED,212,0,1,19,8.711944444444445,4,3
+5,Fixed Typo in Big O Complexity table,https://github.com/trekhleb/javascript-algorithms/pull/8,2018-05-23T22:39:11Z,2018-05-24T05:36:34Z,0,MERGED,1,1,1,32,6.956388888888889,2,3
+6,1 is not prime,https://github.com/trekhleb/javascript-algorithms/pull/11,2018-05-24T08:15:19Z,2018-05-24T13:50:55Z,0,MERGED,5,4,2,0,5.593333333333334,2,3
+7,Fix a typo,https://github.com/trekhleb/javascript-algorithms/pull/14,2018-05-24T11:00:54Z,2018-05-24T13:22:16Z,0,MERGED,1,1,1,0,2.3561111111111113,2,3
+8,Add N queens problem bitwise solution,https://github.com/trekhleb/javascript-algorithms/pull/15,2018-05-24T11:13:23Z,2018-08-20T12:57:02Z,1,MERGED,68,0,3,0,2113.7275,5,5
+9,Add in-place sort to QuickSort.js,https://github.com/trekhleb/javascript-algorithms/pull/16,2018-05-24T20:17:06Z,2018-05-27T20:11:14Z,0,MERGED,116,1,3,912,71.90222222222222,6,5
+10,add Mandarin overview,https://github.com/trekhleb/javascript-algorithms/pull/17,2018-05-25T03:34:50Z,2018-05-25T04:44:23Z,0,MERGED,218,0,1,56,1.1591666666666667,7,3
+11,Finish main part of translation,https://github.com/trekhleb/javascript-algorithms/pull/18,2018-05-25T05:29:52Z,2018-05-25T21:33:02Z,0,MERGED,212,0,2,31,16.052777777777777,3,3
+12,Added Linear Search,https://github.com/trekhleb/javascript-algorithms/pull/20,2018-05-25T09:56:25Z,2018-05-25T21:43:51Z,0,MERGED,14,0,2,54,11.790555555555555,1,2
+13,Added missing return type,https://github.com/trekhleb/javascript-algorithms/pull/23,2018-05-26T10:42:29Z,2018-05-27T15:20:05Z,0,MERGED,1,0,1,0,28.626666666666665,2,3
+14,Create pizza.txt,https://github.com/trekhleb/javascript-algorithms/pull/25,2018-05-28T15:14:51Z,2018-05-28T18:41:40Z,0,MERGED,1,0,1,0,3.4469444444444446,2,3
+15,Use Map for TrieNode children,https://github.com/trekhleb/javascript-algorithms/pull/27,2018-05-28T16:35:56Z,2018-05-29T03:13:13Z,0,MERGED,9,13,2,126,10.62138888888889,4,3
+16,Radix sort,https://github.com/trekhleb/javascript-algorithms/pull/28,2018-05-28T18:29:39Z,2018-05-29T05:38:20Z,1,MERGED,150,0,5,123,11.144722222222223,2,3
+17,Avoiding recursive calls,https://github.com/trekhleb/javascript-algorithms/pull/32,2018-05-30T04:04:19Z,2018-06-06T05:55:02Z,0,MERGED,10,6,1,67,169.84527777777777,1,2
+18,Fix remove method in AvlTree: Nodes can not re-balance.,https://github.com/trekhleb/javascript-algorithms/pull/33,2018-05-30T11:09:52Z,2018-09-24T06:12:39Z,0,MERGED,80,0,2,69,2803.046388888889,4,3
+19,Added Explanation of Branch And Bound Approach for solving n-queen Problem in README section,https://github.com/trekhleb/javascript-algorithms/pull/35,2018-05-30T20:39:47Z,2018-06-02T08:36:33Z,0,MERGED,33,0,1,0,59.94611111111111,5,3
+20,fibonacciNth function added,https://github.com/trekhleb/javascript-algorithms/pull/36,2018-05-30T21:10:02Z,2018-06-02T06:31:10Z,0,MERGED,59,27,4,169,57.352222222222224,3,5
+21,Correct some grammar in the README.,https://github.com/trekhleb/javascript-algorithms/pull/39,2018-05-31T14:35:34Z,2018-06-02T06:09:53Z,0,MERGED,14,14,1,0,39.57194444444445,3,3
+22,Fix LinkedList,https://github.com/trekhleb/javascript-algorithms/pull/42,2018-06-01T12:29:35Z,2018-06-02T06:23:56Z,0,MERGED,4,3,2,165,17.905833333333334,3,6
+23,Segment Tree implementation,https://github.com/trekhleb/javascript-algorithms/pull/45,2018-06-02T11:47:09Z,2018-06-04T03:32:35Z,0,MERGED,294,0,3,69,39.757222222222225,2,3
+24,Adding Sieve of Eratosthenes,https://github.com/trekhleb/javascript-algorithms/pull/46,2018-06-02T21:15:36Z,2018-06-03T06:25:16Z,0,MERGED,69,0,3,89,9.161111111111111,2,3
+25,Fix the prepend method for the LinkedList,https://github.com/trekhleb/javascript-algorithms/pull/47,2018-06-03T11:39:37Z,2018-06-04T02:21:42Z,0,MERGED,13,3,2,136,14.70138888888889,2,5
+26, Fix the remove method for the MinHeap,https://github.com/trekhleb/javascript-algorithms/pull/50,2018-06-04T08:46:28Z,2018-06-05T13:17:15Z,0,MERGED,23,1,2,81,28.513055555555557,2,5
+27,Added Binary Indexed Tree / Fenwick Tree Implementation,https://github.com/trekhleb/javascript-algorithms/pull/51,2018-06-04T14:21:18Z,2018-06-06T03:25:32Z,0,MERGED,94,0,3,44,37.07055555555556,2,3
+28,add recursive solution to permutations with repetitions problem,https://github.com/trekhleb/javascript-algorithms/pull/52,2018-06-04T21:06:35Z,2018-06-13T05:03:57Z,0,MERGED,87,49,4,0,199.9561111111111,2,3
+29,Fix the translation of sorting complexity table,https://github.com/trekhleb/javascript-algorithms/pull/55,2018-06-07T03:07:07Z,2018-06-07T05:28:37Z,0,MERGED,1,1,1,68,2.3583333333333334,2,3
+30,Fix typos,https://github.com/trekhleb/javascript-algorithms/pull/59,2018-06-09T08:25:57Z,2018-06-12T14:46:40Z,2,MERGED,19,19,8,26,78.34527777777778,1,4
+31,Fix bug in 'BinarySearchTreeNode.js,https://github.com/trekhleb/javascript-algorithms/pull/60,2018-06-10T16:48:37Z,2018-06-13T03:44:23Z,0,MERGED,1,1,1,445,58.92944444444444,1,2
+32,feat: Add Liu Hui's π algorithm,https://github.com/trekhleb/javascript-algorithms/pull/61,2018-06-11T11:22:42Z,2018-06-12T11:54:00Z,0,MERGED,79,0,4,0,24.52166666666667,2,3
+33,docs: update correct Big-O chart,https://github.com/trekhleb/javascript-algorithms/pull/62,2018-06-11T14:59:46Z,2018-06-12T11:28:20Z,0,MERGED,25,25,4,149,20.476111111111113,2,3
+34,Upgraded jest and related packages,https://github.com/trekhleb/javascript-algorithms/pull/64,2018-06-12T18:48:14Z,2018-06-13T03:24:39Z,0,MERGED,330,287,2,223,8.606944444444444,1,2
+35,chore: ignore .DS_Store in git,https://github.com/trekhleb/javascript-algorithms/pull/65,2018-06-13T02:02:12Z,2018-06-13T03:27:03Z,0,MERGED,1,0,1,52,1.4141666666666666,2,3
+36,Correct a comment,https://github.com/trekhleb/javascript-algorithms/pull/66,2018-06-13T14:57:25Z,2018-06-18T13:30:31Z,0,MERGED,1,1,1,0,118.55166666666666,2,5
+37,added Bidirectional Conditional Insertion Sort,https://github.com/trekhleb/javascript-algorithms/pull/67,2018-06-13T20:22:41Z,2018-06-14T15:45:28Z,2,MERGED,1605,1386,5,1121,19.379722222222224,2,2
+38,Permutation and Combination Calculation,https://github.com/trekhleb/javascript-algorithms/pull/71,2018-06-16T11:38:43Z,2018-07-03T08:47:25Z,0,MERGED,617,0,10,94,405.145,3,3
+39,Reworded and introduced an example,https://github.com/trekhleb/javascript-algorithms/pull/72,2018-06-16T12:04:35Z,2018-06-19T19:56:59Z,0,MERGED,16,4,1,0,79.87333333333333,1,2
+40,fix unbound knapsack problem with items more than 1(default value),https://github.com/trekhleb/javascript-algorithms/pull/73,2018-06-17T07:57:06Z,2018-06-18T12:50:03Z,0,MERGED,54,1,2,11,28.8825,2,3
+41,Fix BST removal method,https://github.com/trekhleb/javascript-algorithms/pull/74,2018-06-19T08:08:12Z,2018-06-22T04:57:53Z,0,MERGED,26,7,2,95,68.82805555555555,2,5
+42,Corrected explanations and included an example,https://github.com/trekhleb/javascript-algorithms/pull/75,2018-06-19T20:01:26Z,2018-06-22T11:31:58Z,0,MERGED,16,4,1,0,63.50888888888889,2,3
+43,Added Complexity of Each Algorithm in Sorting/ directory.,https://github.com/trekhleb/javascript-algorithms/pull/76,2018-06-20T07:03:15Z,2018-06-22T11:54:41Z,0,MERGED,56,0,9,77,52.85722222222222,2,3
+44,Z algorithm implementation,https://github.com/trekhleb/javascript-algorithms/pull/77,2018-06-21T02:43:08Z,2018-06-21T13:42:14Z,0,MERGED,96,0,3,53,10.985,2,3
+45, Fix the findEdge method of the graph,https://github.com/trekhleb/javascript-algorithms/pull/80,2018-06-25T08:08:08Z,2018-06-25T11:33:31Z,0,MERGED,9,2,2,0,3.4230555555555555,2,5
+46,Fix the value returned by DisjointSet union,https://github.com/trekhleb/javascript-algorithms/pull/81,2018-06-25T15:34:41Z,2018-06-27T13:22:55Z,0,MERGED,1,1,1,43,45.80388888888889,2,5
+1,Javascript -> JavaScript,https://github.com/tensorflow/tensorflow/pull/55,2015-11-10T00:39:53Z,2015-11-10T01:46:49Z,0,MERGED,1,1,1,0,1.1155555555555556,2,2
+2,Try to convert to readable latex,https://github.com/tensorflow/tensorflow/pull/60,2015-11-10T01:29:38Z,2015-11-17T19:44:07Z,0,MERGED,1,1,1,302,186.24138888888888,8,5
+3,fixed link to tutorial and some typos,https://github.com/tensorflow/tensorflow/pull/87,2015-11-10T09:51:40Z,2015-11-10T18:46:36Z,0,MERGED,62,76,37,0,8.915555555555555,3,2
+4,Fix #89,https://github.com/tensorflow/tensorflow/pull/90,2015-11-10T11:11:29Z,2015-11-10T17:41:39Z,0,MERGED,1,1,1,0,6.502777777777778,2,3
+5,Fix when installation on OSX,https://github.com/tensorflow/tensorflow/pull/99,2015-11-10T16:42:32Z,2015-11-13T05:28:20Z,0,MERGED,3,0,1,248,60.763333333333335,3,4
+6,Fix 'Fetches' example in basic_usage,https://github.com/tensorflow/tensorflow/pull/102,2015-11-10T17:59:29Z,2015-11-14T18:29:18Z,0,MERGED,1,1,1,31,96.49694444444444,1,2
+7,AlexNet with FC layers: backward is very slow?,https://github.com/tensorflow/tensorflow/pull/113,2015-11-11T01:38:25Z,2015-11-11T20:54:19Z,0,MERGED,70,8,1,3780,19.265,7,3
+8,Complete the loop before returning the words,https://github.com/tensorflow/tensorflow/pull/155,2015-11-11T22:33:28Z,2015-11-17T19:42:53Z,0,MERGED,7,5,1,192,141.15694444444443,1,2
+9,Change test set in mnist demo to use batches to avoid being OOM (>4GB) on gpu.,https://github.com/tensorflow/tensorflow/pull/157,2015-11-11T23:31:53Z,2015-11-14T18:27:32Z,0,MERGED,18,3,1,178,66.9275,5,7
+10,Switch int to uint to remove some warnings,https://github.com/tensorflow/tensorflow/pull/158,2015-11-12T00:16:06Z,2015-11-17T19:42:11Z,0,MERGED,6,6,4,34,139.43472222222223,1,2
+11,Minor change for read consistency. (Highlight MD Fix),https://github.com/tensorflow/tensorflow/pull/241,2015-11-16T14:15:00Z,2015-11-17T19:41:39Z,0,MERGED,1,1,1,72,29.444166666666668,1,2
+12,Minor change for tutorial.,https://github.com/tensorflow/tensorflow/pull/242,2015-11-16T14:28:36Z,2015-11-17T19:41:31Z,0,MERGED,3,0,1,136,29.21527777777778,1,2
+13,Fix for issue #117: allow relative paths for tensorboard logdir,https://github.com/tensorflow/tensorflow/pull/337,2015-11-23T22:03:56Z,2015-12-23T19:20:24Z,0,MERGED,5,0,1,343,717.2744444444445,8,3
+14,Fix compatibility with CUDA Compute Capability <3.2 (issue #320).,https://github.com/tensorflow/tensorflow/pull/340,2015-11-24T00:39:14Z,2015-11-24T03:54:21Z,0,MERGED,17,3,2,187,3.2519444444444443,3,2
+15,Fix array padding typo in docs,https://github.com/tensorflow/tensorflow/pull/432,2015-12-07T19:44:02Z,2015-12-07T22:24:54Z,0,MERGED,2,2,1,0,2.681111111111111,1,2
+16,Change needed in index,https://github.com/tensorflow/tensorflow/pull/453,2015-12-09T18:02:01Z,2015-12-10T04:17:18Z,0,MERGED,1,1,1,579,10.254722222222222,3,2
+17,Enable building with GPU support under OS X.,https://github.com/tensorflow/tensorflow/pull/475,2015-12-11T02:45:18Z,2015-12-20T17:34:41Z,0,MERGED,66,33,2,224,230.82305555555556,14,7
+18,Update mnist_softmax.py,https://github.com/tensorflow/tensorflow/pull/515,2015-12-15T06:40:43Z,2015-12-15T23:28:12Z,0,MERGED,2,0,1,43,16.79138888888889,1,2
+19,Create convolutional.py,https://github.com/tensorflow/tensorflow/pull/517,2015-12-15T07:32:54Z,2015-12-15T23:27:36Z,0,MERGED,98,0,1,38,15.911666666666667,1,2
+20,Allows IndexedSlices to be fed and fetched.,https://github.com/tensorflow/tensorflow/pull/541,2015-12-18T02:30:09Z,2016-01-11T17:43:05Z,0,MERGED,150,0,3,254,591.2155555555555,6,4
+21,Force embedding_lookup onto CPU in basic word2vec example - #514,https://github.com/tensorflow/tensorflow/pull/544,2015-12-18T06:00:47Z,2015-12-21T17:49:47Z,0,MERGED,12,10,1,270,83.81666666666666,8,4
+22,Registering all real number types for resize operations.,https://github.com/tensorflow/tensorflow/pull/546,2015-12-18T10:20:02Z,2015-12-21T18:19:41Z,0,MERGED,84,89,6,119,79.99416666666667,12,4
+23,Recursively copying elements from one graph to another,https://github.com/tensorflow/tensorflow/pull/557,2015-12-19T10:09:35Z,2016-04-19T23:29:07Z,0,MERGED,474,0,9,408,2941.3255555555556,31,9
+24,DO NOT MERGE - pull request builder test,https://github.com/tensorflow/tensorflow/pull/567,2015-12-20T08:50:00Z,2015-12-20T17:45:51Z,0,MERGED,4,0,1,253,8.930833333333334,4,4
+25,resolved syntax error on python3,https://github.com/tensorflow/tensorflow/pull/568,2015-12-20T10:50:30Z,2015-12-20T17:38:25Z,0,MERGED,4,4,1,140,6.798611111111111,5,4
+26,Modified `coordinator.py`  to be Python 2/3 compatible,https://github.com/tensorflow/tensorflow/pull/569,2015-12-20T10:57:56Z,2015-12-20T17:39:21Z,0,MERGED,4,4,1,154,6.690277777777778,5,4
+27,Small fixes for Python 3 support,https://github.com/tensorflow/tensorflow/pull/570,2015-12-20T14:22:05Z,2015-12-23T18:18:05Z,0,MERGED,5,4,2,195,75.93333333333334,6,4
+28,"Update README.md to remove stale install instructions, instead pointing to os_setup.md.",https://github.com/tensorflow/tensorflow/pull/572,2015-12-20T18:56:35Z,2015-12-21T21:32:23Z,0,MERGED,1,29,1,180,26.596666666666668,1,3
+29,Fixed saver relative paths for `latest_checkpoint`,https://github.com/tensorflow/tensorflow/pull/573,2015-12-20T22:20:33Z,2016-01-08T06:00:04Z,0,MERGED,88,0,2,377,439.6586111111111,9,5
+30,Typo fix,https://github.com/tensorflow/tensorflow/pull/574,2015-12-20T22:54:50Z,2016-01-13T18:16:19Z,0,MERGED,1,1,1,70,571.3580555555556,2,4
+31,"558: Markdown to html, titles",https://github.com/tensorflow/tensorflow/pull/575,2015-12-21T00:43:43Z,2015-12-21T17:26:55Z,0,MERGED,5,1,1,731,16.72,2,4
+32,Fixed random_contrast link in the Deep CNN tutorial,https://github.com/tensorflow/tensorflow/pull/578,2015-12-21T10:54:01Z,2015-12-21T19:36:56Z,0,MERGED,1,1,1,517,8.715277777777779,4,4
+33,[doc] Add anchor links to headers in api_doc files,https://github.com/tensorflow/tensorflow/pull/584,2015-12-21T21:01:32Z,2016-03-11T21:20:01Z,0,MERGED,0,0,0,1839,1944.3080555555555,5,4
+34,Added GPU implementation for resize nearest neighbor.,https://github.com/tensorflow/tensorflow/pull/588,2015-12-22T14:13:14Z,2016-03-04T01:50:32Z,0,MERGED,316,29,5,180,1739.6216666666667,26,5
+35,add identity_initializer,https://github.com/tensorflow/tensorflow/pull/589,2015-12-22T14:58:54Z,2016-01-26T16:30:28Z,0,MERGED,56,0,2,68,841.5261111111112,8,7
+36,add default decay value for RMSPropOptimizer,https://github.com/tensorflow/tensorflow/pull/595,2015-12-23T06:30:37Z,2015-12-27T15:53:17Z,0,MERGED,2,2,2,75,105.37777777777778,5,4
+37,Fixed typo in image.md,https://github.com/tensorflow/tensorflow/pull/596,2015-12-23T10:20:42Z,2015-12-23T21:57:20Z,0,MERGED,1,1,1,0,11.610555555555555,2,3
+38,improved array_ops.md,https://github.com/tensorflow/tensorflow/pull/599,2015-12-23T15:08:53Z,2015-12-23T21:57:47Z,0,MERGED,1,0,1,376,6.815,2,3
+1,Putting some beer in the freezer,https://github.com/torvalds/linux/pull/6,2011-09-05T17:45:59Z,2011-09-06T13:16:49Z,0,MERGED,2,0,1,58,19.51388888888889,22,17
+2,Tinkered with the README.,https://github.com/torvalds/linux/pull/8,2011-09-05T21:17:10Z,2011-09-06T19:15:53Z,0,MERGED,5,5,1,103,21.97861111111111,2,2
+3,Removed extra 'an' in ext4 docs.,https://github.com/torvalds/linux/pull/9,2011-09-05T21:37:49Z,2011-09-06T15:21:38Z,0,MERGED,1,2,1,53,17.73027777777778,8,7
+4,[GIT PULL] v9fs fixes for 3.1-rc6,https://github.com/torvalds/linux/pull/10,2011-09-06T13:43:12Z,2011-09-07T14:52:01Z,0,MERGED,234,81,7,1349,25.146944444444443,0,4
+5,Added backlight support for some samsung laptops,https://github.com/torvalds/linux/pull/11,2011-09-06T22:35:53Z,2011-09-07T04:35:16Z,0,MERGED,209,137,1,94,5.989722222222222,12,7
+6,small cleanup in CREDITS,https://github.com/torvalds/linux/pull/12,2011-09-21T22:52:19Z,2011-09-22T17:38:48Z,0,MERGED,39,42,1,222,18.774722222222223,6,3
+7,Fixed overflow bug in binary search.,https://github.com/torvalds/linux/pull/14,2011-09-30T03:06:52Z,2011-09-30T14:42:54Z,0,MERGED,1,1,1,119,11.600555555555555,1,1
+8,drm/edid: Fix the HDTV hack yet more.,https://github.com/torvalds/linux/pull/15,2012-01-04T12:26:00Z,2012-06-25T11:41:24Z,0,MERGED,2,2,1,174,4151.256666666667,1,2
+9,Updated README for MarkDown (This is not a final version but a draft).,https://github.com/torvalds/linux/pull/16,2012-03-29T15:33:54Z,2012-05-30T14:20:00Z,0,MERGED,382,365,1,106,1486.7683333333334,4,1
+10,Add support for AR5BBU22 [0489:e03c],https://github.com/torvalds/linux/pull/18,2012-05-11T12:30:15Z,2012-05-16T02:18:53Z,0,MERGED,9,0,2,0,109.81055555555555,0,1
+11,s,https://github.com/torvalds/linux/pull/20,2012-06-26T23:29:25Z,2013-04-29T19:22:49Z,0,MERGED,1,1,1,4,7363.89,0,5
+12,UML,https://github.com/torvalds/linux/pull/21,2012-08-24T02:44:33Z,2012-08-25T23:26:42Z,0,MERGED,2,0,1,0,44.7025,0,1
+13,Repaired broken USB ID 0x15E to 0x015E,https://github.com/torvalds/linux/pull/22,2012-09-16T02:27:38Z,2013-07-02T19:28:26Z,0,MERGED,1,1,1,115,6953.013333333333,1,3
+14,Junwei,https://github.com/torvalds/linux/pull/23,2012-10-01T01:06:29Z,2013-07-04T00:19:22Z,0,MERGED,16,0,6,0,6623.214722222222,0,3
+15,Update drivers/staging/bcm/InterfaceInit.h,https://github.com/torvalds/linux/pull/24,2012-10-23T13:16:36Z,2013-07-10T18:44:11Z,0,MERGED,1,1,1,30,6245.459722222222,1,3
+16,added support for Sony Vaio E-Series bluetooth,https://github.com/torvalds/linux/pull/25,2012-11-10T11:15:00Z,2013-09-03T19:00:19Z,0,MERGED,2,0,2,86,7135.755277777777,1,2
+17,Tweak to support 1Mbaud and similar baudrates that require Mode16 instea...,https://github.com/torvalds/linux/pull/26,2012-11-27T18:57:46Z,2012-11-27T20:29:10Z,0,MERGED,28,10,1,15,1.5233333333333334,1,2
+18,"[PATCH] ATH6KL: ""Fix the byte alignment rule to avoid loss of bytes in a TCP segment""",https://github.com/torvalds/linux/pull/27,2013-02-27T05:16:46Z,2013-11-15T05:27:17Z,0,MERGED,4,4,2,822,6264.175277777777,1,3
+19,Remove trailing slash from kernel.org link,https://github.com/torvalds/linux/pull/28,2013-03-01T20:12:20Z,2013-03-01T21:25:59Z,0,MERGED,1,1,1,116,1.2275,0,1
+20,fix crypto4xx_core.c compilation error,https://github.com/torvalds/linux/pull/33,2013-05-16T09:06:29Z,2015-10-21T14:04:49Z,0,MERGED,1,0,1,219,21316.972222222223,2,2
+21,fix ctx.h,https://github.com/torvalds/linux/pull/38,2013-06-19T22:20:21Z,2013-07-17T13:17:35Z,0,MERGED,1,1,1,0,662.9538888888889,0,1
+22,Remove redundant msg.msg_namelen = 0 in drivers/staging/usbip/ubip_common.c,https://github.com/torvalds/linux/pull/39,2013-06-22T21:08:19Z,2014-04-08T22:01:20Z,0,MERGED,0,1,1,72,6960.883611111111,0,1
+23,"Replace ""duplicate"" to ""reproduce"" README ",https://github.com/torvalds/linux/pull/42,2013-08-07T09:35:37Z,2013-08-08T09:33:18Z,0,MERGED,1,1,1,89,23.961388888888887,2,3
+24,criar uma documentação em português do Brasil,https://github.com/torvalds/linux/pull/45,2013-08-29T22:08:33Z,2013-08-29T23:12:58Z,0,MERGED,1,0,1,0,1.073611111111111,4,2
+25,Corrected typo in comments.,https://github.com/torvalds/linux/pull/46,2013-09-10T19:29:08Z,2014-05-21T08:44:10Z,0,MERGED,1,1,1,69,6061.250555555555,1,1
+26,Add periodictimer to net/MRP to enable retries ,https://github.com/torvalds/linux/pull/48,2013-09-16T17:33:58Z,2015-02-06T18:34:12Z,0,MERGED,46,0,2,676,12193.003888888888,2,2
+27,rm redundant empty line,https://github.com/torvalds/linux/pull/49,2013-10-02T08:23:57Z,2013-10-02T17:33:03Z,0,MERGED,0,1,1,72,9.151666666666667,3,3
+28,Update faq.txt,https://github.com/torvalds/linux/pull/61,2013-12-15T14:39:08Z,2014-06-12T15:37:22Z,0,MERGED,0,14,1,21,4296.970555555556,2,2
+29,Support for TQ2440 Board,https://github.com/torvalds/linux/pull/64,2013-12-24T15:56:36Z,2015-12-05T00:22:52Z,0,MERGED,0,0,0,25,17048.437777777777,0,1
+30,.,https://github.com/torvalds/linux/pull/69,2014-01-22T09:52:16Z,2015-03-16T18:25:52Z,0,MERGED,2,0,1,0,10040.56,0,1
+31,Add period for consistency,https://github.com/torvalds/linux/pull/79,2014-03-16T17:50:35Z,2023-02-06T17:59:12Z,0,MERGED,1,1,1,104,77976.14361111111,4,3
+32,Script options fix,https://github.com/torvalds/linux/pull/80,2014-03-17T16:44:53Z,2014-03-18T16:19:04Z,0,MERGED,13,4,3,889,23.56972222222222,1,1
+33,Merge pull request #2 from torvalds/master,https://github.com/torvalds/linux/pull/88,2014-04-07T05:48:02Z,2014-04-21T17:17:03Z,0,MERGED,6468,25678,834,8,347.4836111111111,0,83
+1,Linking TOC chapter lines to the appropriate files,https://github.com/getify/You-Dont-Know-JS/pull/1,2013-11-16T05:51:57Z,2013-11-16T23:56:04Z,0,MERGED,9,9,1,0,18.06861111111111,2,2
+2,"Linking ""Scope & Closures"" title line to the appropriate TOC",https://github.com/getify/You-Dont-Know-JS/pull/2,2013-11-16T05:54:01Z,2013-11-16T23:56:00Z,0,MERGED,1,1,1,0,18.033055555555556,3,2
+3,"Fixes some minor grammatical, spelling, typo errors.",https://github.com/getify/You-Dont-Know-JS/pull/4,2013-11-16T13:45:17Z,2013-11-16T16:16:40Z,0,MERGED,8,8,1,176,2.5230555555555556,1,2
+4,Update ch5.md,https://github.com/getify/You-Dont-Know-JS/pull/5,2013-11-16T18:39:45Z,2013-11-16T22:46:41Z,0,MERGED,2,2,1,0,4.115555555555556,1,2
+5,Update ch5.md,https://github.com/getify/You-Dont-Know-JS/pull/6,2013-11-16T18:45:58Z,2013-11-16T22:47:13Z,0,MERGED,2,2,1,231,4.020833333333333,1,2
+6,fix typo in ch3.md,https://github.com/getify/You-Dont-Know-JS/pull/13,2013-11-23T20:04:58Z,2013-11-23T21:28:06Z,0,MERGED,1,1,1,83,1.3855555555555557,1,2
+7,Fix typo,https://github.com/getify/You-Dont-Know-JS/pull/16,2013-12-01T23:12:55Z,2013-12-02T01:25:02Z,0,MERGED,1,1,1,28,2.2019444444444445,2,2
+8,Corrected one typo(changed 'is has' to 'has' on line 134,https://github.com/getify/You-Dont-Know-JS/pull/17,2013-12-03T12:33:12Z,2013-12-03T19:25:02Z,0,MERGED,1,1,1,200,6.863888888888889,2,2
+9,Correct small omission in scope examples,https://github.com/getify/You-Dont-Know-JS/pull/18,2013-12-04T09:00:06Z,2013-12-04T19:15:51Z,0,MERGED,1,1,1,0,10.2625,1,2
+10,TYPO: idenfify -> identify,https://github.com/getify/You-Dont-Know-JS/pull/21,2013-12-16T11:44:03Z,2013-12-16T16:43:22Z,0,MERGED,1,1,1,27,4.988611111111111,1,2
+11,Update ch3.md: missing semi-colon,https://github.com/getify/You-Dont-Know-JS/pull/24,2013-12-24T01:21:27Z,2013-12-24T04:47:32Z,0,MERGED,1,1,1,66,3.4347222222222222,1,2
+12,fixed typo (call-size -> call-site),https://github.com/getify/You-Dont-Know-JS/pull/27,2014-01-03T00:44:16Z,2014-01-03T13:34:21Z,0,MERGED,1,1,1,0,12.834722222222222,1,2
+13,Adding output for code snippet,https://github.com/getify/You-Dont-Know-JS/pull/46,2014-01-23T00:25:07Z,2014-01-23T01:47:32Z,0,MERGED,1,1,1,83,1.3736111111111111,1,2
+14,Fix typo- thin->thing,https://github.com/getify/You-Dont-Know-JS/pull/51,2014-02-09T05:07:07Z,2014-02-09T15:19:54Z,0,MERGED,1,1,1,0,10.213055555555556,1,2
+15,Update ch1.md,https://github.com/getify/You-Dont-Know-JS/pull/61,2014-02-15T11:48:53Z,2014-02-27T03:58:04Z,0,MERGED,1,1,1,33,280.15305555555557,1,2
+16,Fixed typo,https://github.com/getify/You-Dont-Know-JS/pull/64,2014-02-16T09:17:34Z,2014-02-27T03:56:43Z,0,MERGED,1,1,1,45,258.6525,1,2
+17,Fix typo: vairable => variable,https://github.com/getify/You-Dont-Know-JS/pull/68,2014-02-17T08:14:28Z,2014-02-27T04:16:59Z,0,MERGED,1,1,1,0,236.04194444444445,1,2
+18,Update ch4.md (this & object prototypes),https://github.com/getify/You-Dont-Know-JS/pull/70,2014-02-18T20:50:47Z,2014-03-08T18:06:51Z,0,MERGED,1,1,1,34,429.2677777777778,1,2
+19,Fix typo in Scope&Closure - Chapter 3: Function vs. Block Scope,https://github.com/getify/You-Dont-Know-JS/pull/72,2014-02-21T07:13:39Z,2014-02-27T04:16:02Z,0,MERGED,1,1,1,0,141.03972222222222,1,2
+20,Fixes some typos,https://github.com/getify/You-Dont-Know-JS/pull/76,2014-03-01T17:38:42Z,2014-03-08T18:06:22Z,0,MERGED,3,3,1,0,168.4611111111111,1,2
+21,Another small typo in Chapter 3,https://github.com/getify/You-Dont-Know-JS/pull/80,2014-03-08T15:42:00Z,2014-03-08T18:02:31Z,0,MERGED,1,1,1,0,2.3419444444444446,1,2
+22,Code snippet in Chapter 4 is not marked up,https://github.com/getify/You-Dont-Know-JS/pull/81,2014-03-08T16:22:28Z,2014-03-08T18:01:56Z,0,MERGED,2,0,1,0,1.6577777777777778,1,3
+23,We/is in Appendix A,https://github.com/getify/You-Dont-Know-JS/pull/82,2014-03-10T04:09:19Z,2014-03-10T05:37:01Z,0,MERGED,1,1,1,60,1.4616666666666667,1,2
+24,Small typo in Chapter 2,https://github.com/getify/You-Dont-Know-JS/pull/83,2014-03-10T14:16:44Z,2014-03-10T16:28:03Z,0,MERGED,1,1,1,0,2.1886111111111113,0,2
+25,Another small typo in Chapter 2,https://github.com/getify/You-Dont-Know-JS/pull/84,2014-03-10T16:56:49Z,2014-03-10T19:13:20Z,0,MERGED,1,1,1,0,2.2752777777777777,1,2
+26,Typo Correction in Chapter 1 - this & Object Prototypes,https://github.com/getify/You-Dont-Know-JS/pull/88,2014-03-15T07:57:11Z,2014-03-15T18:37:03Z,0,MERGED,1,1,1,0,10.664444444444445,1,2
+27,Chapter 4 typos,https://github.com/getify/You-Dont-Know-JS/pull/89,2014-03-17T02:01:23Z,2014-03-17T03:37:14Z,0,MERGED,2,2,1,0,1.5975,1,2
+28,Tiny typo in -> is on line 175,https://github.com/getify/You-Dont-Know-JS/pull/97,2014-03-30T20:56:31Z,2014-03-30T23:09:29Z,0,MERGED,1,1,1,143,2.216111111111111,1,2
+29,Another small typo - removed 'is' after 'this',https://github.com/getify/You-Dont-Know-JS/pull/105,2014-04-09T12:17:09Z,2014-04-09T13:56:54Z,0,MERGED,1,1,1,229,1.6625,1,2
+30,Small typo: 'It you may' => 'You may' on Line 40,https://github.com/getify/You-Dont-Know-JS/pull/114,2014-04-18T02:46:01Z,2014-04-18T10:25:49Z,0,MERGED,1,1,1,152,7.663333333333333,1,2
+31,Fix: markdown typo - extra`,https://github.com/getify/You-Dont-Know-JS/pull/128,2014-05-02T05:26:16Z,2014-05-02T12:27:02Z,0,MERGED,1,1,1,379,7.012777777777778,1,2
+32,Typo in  scope & closures ch1,https://github.com/getify/You-Dont-Know-JS/pull/129,2014-05-03T12:24:51Z,2014-05-03T15:09:06Z,0,MERGED,2,2,1,0,2.7375,1,2
+33,Typo:polymorpism,https://github.com/getify/You-Dont-Know-JS/pull/131,2014-05-21T16:08:07Z,2014-06-10T06:52:26Z,0,MERGED,1,1,1,22,470.7386111111111,2,3
+34,Typo:essense,https://github.com/getify/You-Dont-Know-JS/pull/132,2014-05-21T16:13:34Z,2014-06-10T07:06:25Z,0,MERGED,1,1,1,0,470.8808333333333,0,2
+35,Typo: Smoothe,https://github.com/getify/You-Dont-Know-JS/pull/133,2014-05-21T16:17:39Z,2014-06-01T04:10:35Z,0,MERGED,1,1,1,45,251.88222222222223,0,2
+36,Small reword => move 'even' for clarity,https://github.com/getify/You-Dont-Know-JS/pull/142,2014-06-11T20:49:39Z,2014-06-12T03:36:47Z,0,MERGED,1,1,1,64,6.785555555555556,1,2
+37,fixes some typos,https://github.com/getify/You-Dont-Know-JS/pull/144,2014-06-18T13:43:44Z,2014-06-30T19:47:38Z,0,MERGED,4,4,3,181,294.065,1,2
+1,Update Java 容器.md,https://github.com/CyC2018/CS-Notes/pull/34,2018-03-09T17:59:37Z,2018-03-09T23:50:48Z,0,MERGED,2,2,1,0,5.853055555555556,0,2
+2,Translated files.,https://github.com/CyC2018/CS-Notes/pull/89,2018-03-24T12:10:24Z,2018-03-24T14:26:08Z,0,MERGED,6067,55,525,262,2.2622222222222224,4,3
+3,禁止指令重排,https://github.com/CyC2018/CS-Notes/pull/102,2018-03-26T20:51:47Z,2018-03-26T23:39:06Z,0,MERGED,1,1,1,0,2.788611111111111,0,2

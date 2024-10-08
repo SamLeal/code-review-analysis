@@ -1,217 +1,189 @@
 import requests
-from dotenv import load_dotenv
+import pandas as pd
 import time
+from dotenv import load_dotenv
 import os
-from utils.utils import calculate_time_difference_in_hours
-from utils.dataSaver import save_repo_info_to_csv, save_pr_info_to_csv
 
 load_dotenv('.env')
 
+# Autenticação
 personal_access_token = os.getenv('PERSONAL_ACCESS_TOKEN')
-github_graphQl_api_url = "https://api.github.com/graphql"
 
-# Função para monitorar os limites de taxa da API
+headers = {
+    "Authorization": f"Bearer {personal_access_token}",
+    "Content-Type": "application/json"
+}
+
+# Função para verificar rate limit da API
 def check_rate_limit():
-    headers = {
-        "Authorization": f"Bearer {personal_access_token}",
-        "Content-Type": "application/json"
+    response = requests.get('https://api.github.com/rate_limit', headers=headers)
+    rate_limit = response.json()['rate']['remaining']
+    print(f"Requests remaining: {rate_limit}")
+    return rate_limit
+
+# Consulta para obter os repositórios populares
+query_repos = """
+{
+  search(query: "stars:>100", type: REPOSITORY, first: 50) {
+    edges {
+      node {
+        ... on Repository {
+          name
+          url
+          stargazerCount
+          createdAt
+          pullRequests(states: [MERGED, CLOSED]) {
+            totalCount
+          }
+        }
+      }
     }
-    
-    response = requests.get("https://api.github.com/rate_limit", headers=headers)
-    rate_limits = response.json()
-    
-    remaining = rate_limits['rate']['remaining']
-    reset_time = rate_limits['rate']['reset']
-    
-    if remaining == 0:
-        current_time = time.time()
-        sleep_time = reset_time - current_time
-        if sleep_time > 0:
-            print(f"Rate limit exceeded. Sleeping for {sleep_time} seconds...")
-            time.sleep(sleep_time)
-    else:
-        print(f"Rate limit remaining: {remaining}")
+  }
+}
+"""
 
-# Função para realizar chamada à API GraphQL do GitHub com monitoramento de limites
-def run_graphql_query(query, variables=None):
-    headers = {
-        "Authorization": f"Bearer {personal_access_token}",
-        "Content-Type": "application/json"
-    }
-
-    json = {"query": query, "variables": variables}
-
-    retry_attempts = 3
-    for attempt in range(retry_attempts):
-        check_rate_limit()  # Verifica o limite de taxa antes de cada chamada
-        response = requests.post(github_graphQl_api_url, json=json, headers=headers)
-        if response.status_code == 200:
-            result = response.json()
-            if "errors" in result:
-                raise Exception(f"Erro no GraphQL: {result['errors']}")
-            return result["data"]
-        elif response.status_code == 502 and attempt < retry_attempts - 1:
-            print(f"Retrying due to 502 error (attempt {attempt + 1})...")
-            time.sleep(10)  # Aumenta o tempo de espera para 10 segundos
+# Função para fazer a requisição GraphQL com tentativas
+def run_query(query, retries=3):
+    for attempt in range(retries):
+        request = requests.post('https://api.github.com/graphql', json={'query': query}, headers=headers)
+        if request.status_code == 200:
+            return request.json()
         else:
-            raise Exception(f"Erro ao executar a query: {response.status_code}, {response.text}")
+            print(f"Attempt {attempt + 1} failed with status code {request.status_code}. Retrying...")
+            time.sleep(3)  # Pausa maior entre tentativas
+    raise Exception(f"Query failed to run after {retries} attempts. Last status code: {request.status_code}. {query}")
 
-# Função para buscar repositórios mais populares e que tenham pelo menos 100 PRs
-def fetch_repos_with_prs(num_repos):
-    query = """
-    query($number_of_repos_per_request: Int!, $cursor: String) {
-        search(query: "stars:>0", type: REPOSITORY, first: $number_of_repos_per_request, after: $cursor) {
-            edges {
-                node {
-                    ... on Repository {
-                        name
-                        url
-                        stargazerCount
-                        createdAt
-                        pullRequests(states: [MERGED, CLOSED]) {
-                            totalCount
-                        }
-                    }
-                }
-            }
-            pageInfo {
-                hasNextPage
-                endCursor
-            }
-        }
-    }
+# Extração de repositórios populares
+def get_repos():
+    result = run_query(query_repos)
+    repos_data = []
+    index = 1
+    for repo in result['data']['search']['edges']:
+        node = repo['node']
+        if node['pullRequests']['totalCount'] >= 100:  # Filtro de PRs
+            repos_data.append([
+                index,
+                node['name'],
+                node['url'],
+                node['stargazerCount'],
+                node['createdAt'],
+                node['pullRequests']['totalCount']
+            ])
+            index += 1
+    return repos_data
+
+# Salvando os dados de repositórios em CSV
+def save_repos_to_csv(repos_data):
+    df = pd.DataFrame(repos_data, columns=[
+        "Index", "Nome do Repositório", "URL", "Total de Estrelas", "Data de Criação", "Total de PRs"])
+    df.to_csv('repos_infos2.csv', index=False)
+
+# Consulta para obter os PRs
+def get_prs(owner, repo_name):
+    query_prs = f"""
+    {{
+      repository(owner: "{owner}", name: "{repo_name}") {{
+        pullRequests(first: 50, states: [MERGED, CLOSED]) {{
+          edges {{
+            node {{
+              title
+              url
+              createdAt
+              closedAt
+              additions
+              deletions
+              changedFiles
+              body
+              reviews {{
+                totalCount
+              }}
+              comments {{
+                totalCount
+              }}
+              participants {{
+                totalCount
+              }}
+            }}
+          }}
+        }}
+      }}
+    }}
     """
+    result = run_query(query_prs)
+    prs_data = []
+    index = 1
+    
+    if 'data' not in result or 'repository' not in result['data'] or 'pullRequests' not in result['data']['repository']:
+        print(f"No pull request data found for {repo_name}.")
+        return prs_data
+    
+    for pr in result['data']['repository']['pullRequests']['edges']:
+        pr_node = pr['node']
+        
+        # Calculando o tempo de análise em horas
+        created_at = pd.to_datetime(pr_node['createdAt'])
+        closed_at = pd.to_datetime(pr_node['closedAt'])
+        analysis_time = (closed_at - created_at).total_seconds() / 3600  # em horas
+        
+        # Filtrando PRs com tempo de análise maior que 1 hora
+        if analysis_time > 1:
+            prs_data.append([
+                index,
+                pr_node['title'],
+                pr_node['url'],
+                pr_node['createdAt'],
+                pr_node['closedAt'],
+                pr_node['reviews']['totalCount'],
+                'MERGED' if pr_node['closedAt'] else 'CLOSED',
+                pr_node['additions'],
+                pr_node['deletions'],
+                pr_node['changedFiles'],
+                len(pr_node['body']) if pr_node['body'] else 0,
+                analysis_time,
+                pr_node['comments']['totalCount'],
+                pr_node['participants']['totalCount']
+            ])
+            index += 1
+        else:
+            print(f"PR '{pr_node['title']}' was skipped (analysis time < 1 hour).")
+    
+    if len(prs_data) == 0:
+        print(f"No PRs were found for repository {repo_name}.")
+    
+    return prs_data
 
-    repos = []
-    cursor = None
+# Salvando os dados de PRs em CSV
+def save_prs_to_csv(prs_data):
+    df = pd.DataFrame(prs_data, columns=[
+        "Index", "Título do PR", "URL", "Data de Criação", "Data de Fechamento", "Total de Revisões",
+        "Decisão da Revisão", "Total de Adições", "Total de Remoções", "Total de Arquivos Alterados",
+        "Comprimento da Descrição", "Tempo de Análise (horas)", "Total de Comentários", "Total de Participantes"
+    ])
+    df.to_csv('prs_infos2.csv', index=False)
 
-    while len(repos) < num_repos:
-        variables = {"number_of_repos_per_request": 5, "cursor": cursor}
-        result = run_graphql_query(query, variables)
-        edges = result["search"]["edges"]
-
-        for repo in edges:
-            repo_node = repo["node"]
-            # Verifica se o repositório tem pelo menos 100 PRs
-            if repo_node["pullRequests"]["totalCount"] >= 100:
-                repos.append(repo_node)
-
-        if not result["search"]["pageInfo"]["hasNextPage"]:
-            break
-
-        cursor = result["search"]["pageInfo"]["endCursor"]
-        time.sleep(5)  # Aumenta o tempo de espera entre as requisições para 5 segundos
-
-    return repos[:num_repos]
-
-# Função para obter PRs de um repositório com base nas condições
-def fetch_pr_data(repo_name, repo_owner):
-    query = """
-    query($repo_owner: String!, $repo_name: String!, $cursor: String) {
-        repository(owner: $repo_owner, name: $repo_name) {
-            pullRequests(first: 50, after: $cursor, states: [MERGED, CLOSED]) {
-                edges {
-                    node {
-                        title
-                        url
-                        createdAt
-                        mergedAt
-                        closedAt
-                        reviews {
-                            totalCount
-                        }
-                        reviewDecision
-                        additions
-                        deletions
-                        changedFiles
-                        body
-                        comments {
-                            totalCount
-                        }
-                        participants {
-                            totalCount
-                        }
-                    }
-                }
-                pageInfo {
-                    hasNextPage
-                    endCursor
-                }
-            }
-        }
-    }
-    """
-
-    pull_requests = []
-    cursor = None
-
-    while len(pull_requests) < 100:
-        variables = {
-            "repo_owner": repo_owner,
-            "repo_name": repo_name,
-            "cursor": cursor
-        }
-        result = run_graphql_query(query, variables)
-        edges = result["repository"]["pullRequests"]["edges"]
-
-        # Filtra PRs com pelo menos uma revisão e diferença de tempo maior que 1 hora
-        for pull_request in edges:
-            pr_node = pull_request["node"]
-            if pr_node["reviews"]["totalCount"] > 0:
-                merge_time = pr_node["mergedAt"] or pr_node["closedAt"]
-                if merge_time and calculate_time_difference_in_hours(pr_node["createdAt"], merge_time) > 1:
-                    # Calculando a descrição e o tempo de análise
-                    description_length = len(pr_node["body"]) if pr_node["body"] else 0
-                    analysis_time = calculate_time_difference_in_hours(pr_node["createdAt"], merge_time)
-
-                    pr_data = {
-                        "title": pr_node["title"],
-                        "url": pr_node["url"],
-                        "created_at": pr_node["createdAt"],
-                        "merged_at": pr_node["mergedAt"],
-                        "closed_at": pr_node["closedAt"],
-                        "reviews_count": pr_node["reviews"]["totalCount"],
-                        "review_decision": pr_node["reviewDecision"],
-                        "additions": pr_node["additions"],
-                        "deletions": pr_node["deletions"],
-                        "changed_files": pr_node["changedFiles"],
-                        "description_length": description_length,
-                        "analysis_time": analysis_time,
-                        "comments_count": pr_node["comments"]["totalCount"],
-                        "participants_count": pr_node["participants"]["totalCount"]
-                    }
-                    pull_requests.append(pr_data)
-
-            if len(pull_requests) >= 100:
-                break
-
-        if not result["repository"]["pullRequests"]["pageInfo"]["hasNextPage"]:
-            break
-
-        cursor = result["repository"]["pullRequests"]["pageInfo"]["endCursor"]
-        time.sleep(5)  # Aumenta o tempo de espera entre as requisições para 5 segundos
-
-    return pull_requests[:100]
-
-# Main
+# Função principal
 if __name__ == "__main__":
-    # Número de repositórios mais populares que tenham mais de 100 PRs
-    number_of_repos = 20
-    try:
-        # Buscar repositórios populares
-        popular_repos = fetch_repos_with_prs(number_of_repos)
-        save_repo_info_to_csv(popular_repos, "repos_info.csv")
-
-        # Busca PRs para cada repositório
-        all_prs = []
-        for repo in popular_repos:
-            repo_owner = repo["url"].split('/')[-2]
-            repo_name = repo["name"]
-            repo_prs = fetch_pr_data(repo_name, repo_owner)
-            all_prs.extend(repo_prs)
-
-        # Salvar os dados de PRs coletados
-        save_pr_info_to_csv(all_prs, "prs_info.csv")
-
-    except Exception as e:
-        print(e)
+    # Verificar limite de rate antes de iniciar
+    check_rate_limit()
+    
+    # Passo 1: Obtenção de repositórios
+    repos_data = get_repos()
+    save_repos_to_csv(repos_data)
+    
+    # Passo 2: Obtenção de PRs para cada repositório
+    all_prs_data = []
+    for repo in repos_data:
+        repo_url_parts = repo[2].split('/')[-2:]  # Usar a URL correta do repositório (repo[2])
+        repo_owner, repo_name = repo_url_parts[0], repo_url_parts[1]
+        prs_data = get_prs(repo_owner, repo_name)
+        if prs_data:
+            all_prs_data.extend(prs_data)
+        else:
+            print(f"No PR data found for repository: {repo_name}")
+        time.sleep(3)  # Pausa maior entre requisições para evitar rate limits
+    
+    # Salvando todos os dados de PRs em CSV
+    if all_prs_data:
+        save_prs_to_csv(all_prs_data)
+    else:
+        print("No PR data collected.")
