@@ -24,7 +24,7 @@ def check_rate_limit():
 # Consulta para obter os repositórios populares
 query_repos = """
 {
-  search(query: "stars:>100", type: REPOSITORY, first: 50) {
+  search(query: "stars:>100", type: REPOSITORY, first: 20) {
     edges {
       node {
         ... on Repository {
@@ -43,7 +43,7 @@ query_repos = """
 """
 
 # Função para fazer a requisição GraphQL com tentativas
-def run_query(query, retries=3):
+def run_query(query, retries=8):
     for attempt in range(retries):
         request = requests.post('https://api.github.com/graphql', json={'query': query}, headers=headers)
         if request.status_code == 200:
@@ -125,8 +125,8 @@ def get_prs(owner, repo_name):
         closed_at = pd.to_datetime(pr_node['closedAt'])
         analysis_time = (closed_at - created_at).total_seconds() / 3600  # em horas
         
-        # Filtrando PRs com tempo de análise maior que 1 hora
-        if analysis_time > 1:
+        # Verificando se o PR tem pelo menos uma revisão
+        if pr_node['reviews']['totalCount'] > 0 and analysis_time > 1:
             prs_data.append([
                 index,
                 pr_node['title'],
@@ -145,7 +145,7 @@ def get_prs(owner, repo_name):
             ])
             index += 1
         else:
-            print(f"PR '{pr_node['title']}' was skipped (analysis time < 1 hour).")
+            print(f"PR '{pr_node['title']}' was skipped (no reviews or analysis time < 1 hour).")
     
     if len(prs_data) == 0:
         print(f"No PRs were found for repository {repo_name}.")
@@ -163,6 +163,7 @@ def save_prs_to_csv(prs_data):
 
 # Função principal
 if __name__ == "__main__":
+
     # Verificar limite de rate antes de iniciar
     check_rate_limit()
     
