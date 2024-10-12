@@ -21,27 +21,6 @@ def check_rate_limit():
     print(f"Requests remaining: {rate_limit}")
     return rate_limit
 
-# Consulta para obter os repositórios populares
-query_repos = """
-{
-  search(query: "stars:>100", type: REPOSITORY, first: 20) {
-    edges {
-      node {
-        ... on Repository {
-          name
-          url
-          stargazerCount
-          createdAt
-          pullRequests(states: [MERGED, CLOSED]) {
-            totalCount
-          }
-        }
-      }
-    }
-  }
-}
-"""
-
 # Função para fazer a requisição GraphQL com tentativas
 def run_query(query, retries=8):
     for attempt in range(retries):
@@ -50,33 +29,69 @@ def run_query(query, retries=8):
             return request.json()
         else:
             print(f"Attempt {attempt + 1} failed with status code {request.status_code}. Retrying...")
-            time.sleep(3)  # Pausa maior entre tentativas
+            time.sleep(5)
     raise Exception(f"Query failed to run after {retries} attempts. Last status code: {request.status_code}. {query}")
 
-# Extração de repositórios populares
+# Função para obter repositórios populares com paginação
 def get_repos():
-    result = run_query(query_repos)
     repos_data = []
+    has_next_page = True
+    cursor = None
     index = 1
-    for repo in result['data']['search']['edges']:
-        node = repo['node']
-        if node['pullRequests']['totalCount'] >= 100:  # Filtro de PRs
-            repos_data.append([
-                index,
-                node['name'],
-                node['url'],
-                node['stargazerCount'],
-                node['createdAt'],
-                node['pullRequests']['totalCount']
-            ])
-            index += 1
+
+    while has_next_page and len(repos_data) < 100:  # Limite de 60 repositórios
+        query_repos = f"""
+        {{
+          search(query: "stars:>100", type: REPOSITORY, first: 10{' after: "' + cursor + '"' if cursor else ''}) {{
+            edges {{
+              cursor
+              node {{
+                ... on Repository {{
+                  name
+                  url
+                  stargazerCount
+                  createdAt
+                  pullRequests(states: [MERGED, CLOSED]) {{
+                    totalCount
+                  }}
+                }}
+              }}
+            }}
+            pageInfo {{
+              hasNextPage
+              endCursor
+            }}
+          }}
+        }}
+        """
+
+        result = run_query(query_repos)
+        
+        for repo in result['data']['search']['edges']:
+            node = repo['node']
+            if node['pullRequests']['totalCount'] >= 100:  # Filtro de PRs
+                repos_data.append([
+                    index,
+                    node['name'],
+                    node['url'],
+                    node['stargazerCount'],
+                    node['createdAt'],
+                    node['pullRequests']['totalCount']
+                ])
+                index += 1
+        
+        # Atualizando os dados de paginação
+        has_next_page = result['data']['search']['pageInfo']['hasNextPage']
+        cursor = result['data']['search']['pageInfo']['endCursor']
+        time.sleep(10)  # Pausa maior entre requisições para evitar rate limits
+    
     return repos_data
 
 # Salvando os dados de repositórios em CSV
 def save_repos_to_csv(repos_data):
     df = pd.DataFrame(repos_data, columns=[
         "Index", "Nome do Repositório", "URL", "Total de Estrelas", "Data de Criação", "Total de PRs"])
-    df.to_csv('repos_infos2.csv', index=False)
+    df.to_csv('repos_infos_paginated.csv', index=False)
 
 # Consulta para obter os PRs
 def get_prs(owner, repo_name):
@@ -159,14 +174,13 @@ def save_prs_to_csv(prs_data):
         "Decisão da Revisão", "Total de Adições", "Total de Remoções", "Total de Arquivos Alterados",
         "Comprimento da Descrição", "Tempo de Análise (horas)", "Total de Comentários", "Total de Participantes"
     ])
-    df.to_csv('prs_infos2.csv', index=False)
+    df.to_csv('prs_infos_paginated.csv', index=False)
 
 # Função principal
 if __name__ == "__main__":
-
     # Verificar limite de rate antes de iniciar
     check_rate_limit()
-    
+
     # Passo 1: Obtenção de repositórios
     repos_data = get_repos()
     save_repos_to_csv(repos_data)
