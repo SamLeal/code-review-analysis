@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 from scipy.stats import spearmanr, pearsonr
 
 # Carregar os dados do CSV
-prs_df = pd.read_csv('prs_infos2.csv')
+prs_df = pd.read_csv('prs_infos_oficial.csv')
 
 # Converter colunas para tipos numéricos (float)
 cols_to_convert = ['Total de Arquivos Alterados', 'Decisão da Revisão', 
@@ -34,17 +34,14 @@ def plot_and_correlate(x, y, method='spearman'):
     plt.tight_layout()
     plt.show()
 
-# RQ01: Relação entre o tamanho dos PRs e o feedback final
-plot_and_correlate('Total de Arquivos Alterados', 'Decisão da Revisão', method='spearman')
-
-# RQ02: Relação entre o tempo de análise e o feedback final
-plot_and_correlate('Tempo de Análise (horas)', 'Decisão da Revisão', method='spearman')
-
 # RQ05: Relação entre o tamanho dos PRs e o número de revisões
-plot_and_correlate('Total de Arquivos Alterados', 'Total de Revisões', method='spearman')
+plot_and_correlate('Total de Arquivos Alterados', 'Total de Revisões', method='pearson')
 
 # RQ06: Relação entre o tempo de análise e o número de revisões
-plot_and_correlate('Tempo de Análise (horas)', 'Total de Revisões', method='spearman')
+plot_and_correlate('Tempo de Análise (horas)', 'Total de Revisões', method='pearson')
+
+# RQ07: Qual a relação entre a descrição dos PRs e o número de revisões realizadas?
+plot_and_correlate('Comprimento da Descrição', 'Total de Revisões', method='pearson')
 
 # RQ08: Relação entre as interações e o número de revisões
-plot_and_correlate('Total de Comentários', 'Total de Revisões', method='spearman')
+plot_and_correlate('Total de Comentários', 'Total de Revisões', method='pearson')
