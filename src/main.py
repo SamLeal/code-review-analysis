@@ -14,13 +14,6 @@ headers = {
     "Content-Type": "application/json"
 }
 
-# Função para verificar rate limit da API
-def check_rate_limit():
-    response = requests.get('https://api.github.com/rate_limit', headers=headers)
-    rate_limit = response.json()['rate']['remaining']
-    print(f"Requests remaining: {rate_limit}")
-    return rate_limit
-
 # Função para fazer a requisição GraphQL com tentativas
 def run_query(query, retries=8):
     for attempt in range(retries):
@@ -39,7 +32,7 @@ def get_repos():
     cursor = None
     index = 1
 
-    while has_next_page and len(repos_data) < 100:  # Limite de 60 repositórios
+    while has_next_page and len(repos_data) < 130:
         query_repos = f"""
         {{
           search(query: "stars:>100", type: REPOSITORY, first: 10{' after: "' + cursor + '"' if cursor else ''}) {{
@@ -67,23 +60,24 @@ def get_repos():
 
         result = run_query(query_repos)
         
-        for repo in result['data']['search']['edges']:
-            node = repo['node']
-            if node['pullRequests']['totalCount'] >= 100:  # Filtro de PRs
-                repos_data.append([
-                    index,
-                    node['name'],
-                    node['url'],
-                    node['stargazerCount'],
-                    node['createdAt'],
-                    node['pullRequests']['totalCount']
-                ])
-                index += 1
-        
-        # Atualizando os dados de paginação
-        has_next_page = result['data']['search']['pageInfo']['hasNextPage']
-        cursor = result['data']['search']['pageInfo']['endCursor']
-        time.sleep(10)  # Pausa maior entre requisições para evitar rate limits
+        if result and len(result) > 0:
+          for repo in result['data']['search']['edges']:
+              node = repo['node']
+              if node['pullRequests']['totalCount'] >= 100:  # Filtro de PRs
+                  repos_data.append([
+                      index,
+                      node['name'],
+                      node['url'],
+                      node['stargazerCount'],
+                      node['createdAt'],
+                      node['pullRequests']['totalCount']
+                  ])
+                  index += 1
+          
+          # Atualizando os dados de paginação
+          has_next_page = result['data']['search']['pageInfo']['hasNextPage']
+          cursor = result['data']['search']['pageInfo']['endCursor']
+          time.sleep(10)  # Pausa entre requisições para evitar rate limits
     
     return repos_data
 
@@ -178,9 +172,6 @@ def save_prs_to_csv(prs_data):
 
 # Função principal
 if __name__ == "__main__":
-    # Verificar limite de rate antes de iniciar
-    check_rate_limit()
-
     # Passo 1: Obtenção de repositórios
     repos_data = get_repos()
     save_repos_to_csv(repos_data)
