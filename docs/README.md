@@ -56,7 +56,7 @@ Diante da base extraída, foi realizado um filtro no código de modo que printas
    **Discussão do resultado:** Isso sugere que a maioria dos PRs requer relativamente poucas interações antes de ser aprovada, o que pode indicar que revisões mais simples ou menos controversas são rapidamente resolvidas. Os poucos outliers, com maior número de interações, provavelmente representam PRs mais complexos ou debatidos.
 
 * **RQ 05. Qual a relação entre o tamanho dos PRs e o número de revisões realizadas?**
-    ![alt text](./images/req05_boxplot_graph.png)
+    ![alt text](./images/req05_pearson_graph.png)
        
     **Métrica:** Tamanho dos PRs (Total de Arquivos Alterados) vs. numero de revisões realizadas.
 
@@ -65,7 +65,7 @@ Diante da base extraída, foi realizado um filtro no código de modo que printas
     **Discussão do resultado:** O tamanho do PR não é um bom preditor do número de revisões. Outros fatores, além do tamanho devem desempenhar um papel mais importante na quantidade de iterações necessárias, como complexidade.
 
 * **RQ 06. Qual a relação entre o tempo de análise dos PRs e o número de revisões realizadas?**
-    ![alt text](./images/req06_boxplot_graph.png)
+    ![alt text](./images/req06_pearson_graph.png)
        
     **Métrica:** Tempo de Análise: (Tempo gasto para analisar um PR) vs. Número de Revisões.
 
@@ -75,7 +75,7 @@ Diante da base extraída, foi realizado um filtro no código de modo que printas
 
 
 * **RQ 07. Qual a relação entre a descrição dos PRs e o número de revisões realizadas?**
-    ![alt text](./images/req07_boxplot_graph.png)
+    ![alt text](./images/req07_pearson_graph.png)
        
     **Métrica:** Comprimento da Descrição  vs. Número de Revisões (Quantidade de vezes que o PR passou por revisão e feedback).
 
@@ -85,7 +85,7 @@ Diante da base extraída, foi realizado um filtro no código de modo que printas
 
 
 * **RQ 08. Qual a relação entre as interações nos PRs e o número de revisões realizadas?**
-    ![alt text](./images/req08_boxplot_graph.png)
+    ![alt text](./images/req08_pearson_graph.png)
        
     **Métrica:**  Total de Comentários vs. Total de Revisões.
 
