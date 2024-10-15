@@ -21,74 +21,69 @@ Diante da base extraída, foi realizado um filtro no código de modo que printas
 
 * **RQ 01. Qual a relação entre o tamanho dos PRs e o feedback final das revisões?**
        
-    **Métrica:** 
+    **Métrica:** Tamanho do PR (total de alterações) vs. feedback final.
 
-    **Resultado:** 
-
-    **Discussão do resultado:** 
+    **Resultado:** O gráfico mostra que a maioria dos PRs aprovados e mesclados contém poucas alterações, enquanto há alguns outliers que apresentam um número muito maior de mudanças. Vale ressaltar que na nossa busca todos os PRs terminaram em "MERGED", o que faz com que esse gráfico e os próximos fiquem lineares em relação ao feedback final.
+  
+   **Discussão do resultado:** A maior parte dos PRs com um número menor de alterações tende a ser rapidamente mesclada, indicando que PRs menores podem ser mais fáceis de revisar e aprovar.
 
 * **RQ 02. Qual a relação entre o tempo de análise dos PRs e o feedback final das revisões?**
        
-    **Métrica:** 
-
-    **Resultado:** 
-    **Discussão do resultado:** 
+    **Métrica:** Tempo de análise (horas) vs. feedback final.
+  
+    **Resultado:** A maioria dos PRs aprovados foi analisada em menos de uma hora, o que pode indicar automação no processo de revisão ou correlacionando com a RQ1, tamanho menor do PR. Alguns outliers apresentaram tempos de análise muito elevados.
+  
+    **Discussão do resultado:** A maioria dos PRs foram analisados rapidamente ou por CI/CD ou por serem pequenos, enquanto PRs complexos ou esquecidos podem ter tempos de análise significativamente maiores.
 
 * **RQ 03. Qual a relação entre a descrição dos PRs e o feedback final das revisões?**
        
-    **Métrica:** 
+  **Métrica:** Tamanho da descrição do PR (número de caracteres) vs. feedback final.
 
-    **Resultado:**  
-    
-    **Discussão do resultado:**
+  **Resultado:** A maioria dos PRs aprovados tem descrições com comprimento entre 1000 e 2000 caracteres. Contudo, há alguns outliers com descrições muito mais longas ou mais curtas que fogem desse padrão.
 
-* **RQ 04. Qual a relação entre as interações nos PRs e o feedback final das revisões?**
-       
-    **Métrica:** 
-
-    **Resultado:** 
-
-    **Discussão do resultado:** 
+  **Discussão do resultado:** PRs com descrições detalhadas tendem a ser mais aprovados, sugerindo que uma boa explicação pode facilitar a revisão apesar de nao haver uma relação forte. 
     
 * **RQ 04. Qual a relação entre as interações nos PRs e o feedback final das revisões?**
        
-    **Métrica:** 
+  **Métrica:** Número de interações nos PRs (comentários, revisões, etc.) vs. feedback final.
 
-    **Resultado:** 
+   **Resultado:** A maioria dos PRs aprovados e mesclados apresenta menos de 25 interações, com apenas alguns outliers que possuem um número significativamente maior de interações.
 
-    **Discussão do resultado:** 
+   **Discussão do resultado:** Isso sugere que a maioria dos PRs requer relativamente poucas interações antes de ser aprovada, o que pode indicar que revisões mais simples ou menos controversas são rapidamente resolvidas. Os poucos outliers, com maior número de interações, provavelmente representam PRs mais complexos ou debatidos.
 
 * **RQ 05. Qual a relação entre o tamanho dos PRs e o número de revisões realizadas?**
        
-    **Métrica:** 
+    **Métrica:** Tamanho dos PRs (Total de Arquivos Alterados) vs. numero de revisões realizadas.
 
-    **Resultado:** 
+    **Resultado:** O gráfico de dispersão gerado mostra uma correlação de Pearson de 0,002 com um valor-p de 0,971. Isso indica uma correlação extremamente fraca e não significativa entre o tamanho dos PRs e o número de revisões.
 
-    **Discussão do resultado:** 
+    **Discussão do resultado:** O tamanho do PR não é um bom preditor do número de revisões. Outros fatores, além do tamanho devem desempenhar um papel mais importante na quantidade de iterações necessárias, como complexidade.
 
 * **RQ 06. Qual a relação entre o tempo de análise dos PRs e o número de revisões realizadas?**
        
-    **Métrica:** 
+    **Métrica:** Tempo de Análise: (Tempo gasto para analisar um PR) vs. Número de Revisões.
 
-    **Resultado:** 
+    **Resultado:** O gráfico de dispersão que geramos mostra uma correlação de Pearson de 0,081 com um valor-p de 0,0607. Essa correlação é considerada fraca e próxima do limite da significância estatística. Ou seja, existe uma leve tendência de que PRs que levam mais tempo para serem analisados também recebam mais revisões, porém com esse dataset a tendencia não se confirma significante o suficiente para afirmar a relação.
 
-    **Discussão do resultado:** 
+    **Discussão do resultado:**  A correlação do gráfico sugere que o tempo de análise e o número de revisões podem estar levemente relacionados, mas outros fatores podem estar influenciando essa relação.
+
 
 * **RQ 07. Qual a relação entre a descrição dos PRs e o número de revisões realizadas?**
        
-    **Métrica:** 
+    **Métrica:** Comprimento da Descrição  vs. Número de Revisões (Quantidade de vezes que o PR passou por revisão e feedback).
 
-    **Resultado:** 
+    **Resultado:** O gráfico de dispersão mostra uma correlação de Pearson de 0,244 com um valor-p de 1,31e-08. Indicando uma correlação positiva moderada entre o comprimento da descrição e o número de revisões. Portanto, à medida que a descrição do PR aumenta, tende a haver um aumento, mesmo que leve, no número de revisões.
 
-    **Discussão do resultado:** 
+    **Discussão do resultado:**  Houve uma correlação Positiva sugerindo que PRs com descrições mais detalhadas tendem a passar por mais revisões. Possivelmente devido a maior complexidade ou de uma maior compreensão do avaliador devido ao detalhamento.
+
 
 * **RQ 08. Qual a relação entre as interações nos PRs e o número de revisões realizadas?**
        
-    **Métrica:** 
+    **Métrica:**  Total de Comentários vs. Total de Revisões.
 
-    **Resultado:** 
+    **Resultado:** O gráfico de dispersão apresentado mostra uma correlação de Pearson de 0,159 com um valor-p de 0,000245. O que indica uma correlação positiva fraca a moderada entre o total de comentários e o número de revisões.
 
-    **Discussão do resultado:** 
+    **Discussão do resultado:** A correlação positiva sugere que PRs com mais comentários tendem a passar por mais revisões. Provavelmente devido a ter mais pontos e observações a serem resolvidos ou melhorados
 
 ## 4) Discussão
 
