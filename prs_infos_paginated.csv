@@ -1,0 +1,1144 @@
+Index,Título do PR,URL,Data de Criação,Data de Fechamento,Total de Revisões,Decisão da Revisão,Total de Adições,Total de Remoções,Total de Arquivos Alterados,Comprimento da Descrição,Tempo de Análise (horas),Total de Comentários,Total de Participantes
+1,Fixed typo,https://github.com/jwasham/coding-interview-university/pull/3,2016-10-06T10:08:17Z,2016-10-06T16:40:31Z,1,MERGED,1,1,1,0,6.537222222222222,0,3
+2,License.md Added,https://github.com/jwasham/coding-interview-university/pull/6,2016-10-06T15:49:06Z,2016-10-06T21:20:55Z,1,MERGED,21,0,1,0,5.530277777777778,1,3
+3,Adding more descriptive links.,https://github.com/jwasham/coding-interview-university/pull/9,2016-10-06T19:24:59Z,2016-10-06T21:25:38Z,1,MERGED,87,102,1,116,2.0108333333333333,5,3
+4,Pull request with fixed mis-formatted & Go resources,https://github.com/jwasham/coding-interview-university/pull/23,2016-10-09T01:36:16Z,2016-10-09T03:32:02Z,1,MERGED,10,1,2,39,1.9294444444444445,1,3
+5,Add a tutorial on Udemy.,https://github.com/jwasham/coding-interview-university/pull/38,2016-10-15T16:08:41Z,2016-10-16T02:17:14Z,2,MERGED,3,0,1,153,10.1425,2,2
+1,readme: Add my tutorial on shell,https://github.com/codecrafters-io/build-your-own-x/pull/10,2018-05-11T10:08:57Z,2018-05-12T07:55:36Z,3,MERGED,1,0,1,193,21.7775,1,2
+2,Add: Generate SVG images in C,https://github.com/codecrafters-io/build-your-own-x/pull/16,2018-05-12T08:21:04Z,2018-05-13T10:53:26Z,1,MERGED,1,0,1,0,26.539444444444445,1,2
+3,"Add ""Build your own Window Manager""",https://github.com/codecrafters-io/build-your-own-x/pull/35,2018-05-13T14:44:31Z,2018-05-14T06:51:54Z,1,MERGED,1,0,1,0,16.123055555555556,1,2
+4,added 'Build your own CI server' title & one item,https://github.com/codecrafters-io/build-your-own-x/pull/59,2018-05-14T14:37:35Z,2018-05-15T13:35:32Z,3,MERGED,1,0,1,74,22.965833333333332,1,2
+5,Update README.md,https://github.com/codecrafters-io/build-your-own-x/pull/63,2018-05-14T17:30:12Z,2018-05-14T18:55:00Z,2,MERGED,2,1,1,19,1.4133333333333333,1,2
+6,Added a New Category : Text Editor,https://github.com/codecrafters-io/build-your-own-x/pull/137,2018-05-24T05:49:20Z,2018-05-24T09:21:06Z,1,MERGED,9,1,1,108,3.5294444444444446,1,3
+1,Fix some issues,https://github.com/kamranahmedse/developer-roadmap/pull/25,2017-03-19T13:32:51Z,2017-03-23T05:14:20Z,1,MERGED,2,2,2,141,87.6913888888889,2,4
+1,Fix typo in Study Guide section,https://github.com/donnemartin/system-design-primer/pull/10,2017-03-09T10:50:34Z,2017-03-10T00:36:12Z,1,MERGED,2,2,1,78,13.760555555555555,1,2
+2,Fix typo - lobsided -> lopsided,https://github.com/donnemartin/system-design-primer/pull/11,2017-03-09T14:21:29Z,2017-03-10T00:37:40Z,1,MERGED,1,1,1,0,10.269722222222223,1,2
+3,Add Dyn DDoS attack link,https://github.com/donnemartin/system-design-primer/pull/13,2017-03-10T04:30:56Z,2017-03-11T02:07:51Z,1,MERGED,1,1,1,4,21.615277777777777,1,2
+4,Fix multiple typos,https://github.com/donnemartin/system-design-primer/pull/14,2017-03-10T07:53:56Z,2017-03-11T02:06:35Z,1,MERGED,8,8,1,0,18.210833333333333,1,3
+5,Fix #6: Migrate links from exercises/solutions to use internal links,https://github.com/donnemartin/system-design-primer/pull/23,2017-03-16T22:49:05Z,2017-03-19T19:23:03Z,1,MERGED,35,35,8,225,68.56611111111111,2,2
+6,"Delete duplicate word ""does"" in design exercises",https://github.com/donnemartin/system-design-primer/pull/24,2017-03-18T04:17:42Z,2017-03-18T15:37:17Z,1,MERGED,3,3,3,0,11.32638888888889,1,2
+7,Fix typo JSS -> JS,https://github.com/donnemartin/system-design-primer/pull/25,2017-03-18T16:45:40Z,2017-03-19T19:24:13Z,1,MERGED,1,1,1,35,26.6425,1,2
+8,Declare variable key in the get_user example,https://github.com/donnemartin/system-design-primer/pull/26,2017-03-19T22:54:10Z,2017-03-21T11:39:11Z,1,MERGED,1,0,1,221,36.750277777777775,1,2
+9,Fix typo,https://github.com/donnemartin/system-design-primer/pull/29,2017-03-22T16:44:21Z,2017-03-23T02:53:16Z,2,MERGED,1,1,1,0,10.14861111111111,1,3
+10,Fix typos,https://github.com/donnemartin/system-design-primer/pull/33,2017-03-23T22:30:10Z,2017-03-24T02:42:03Z,1,MERGED,2,2,1,0,4.198055555555555,1,2
+11,change the service discovery documenation example to use consul/etcd,https://github.com/donnemartin/system-design-primer/pull/34,2017-03-24T11:32:50Z,2017-03-26T17:02:10Z,2,MERGED,4,1,1,84,53.48888888888889,4,3
+12,Explain difference between PUT & PATCH,https://github.com/donnemartin/system-design-primer/pull/35,2017-03-25T22:50:04Z,2017-03-29T10:19:15Z,1,MERGED,2,0,1,246,83.48638888888888,2,2
+13,"Update service discovery section to include consul, etcd, and additional details",https://github.com/donnemartin/system-design-primer/pull/36,2017-03-26T16:58:09Z,2017-03-28T11:45:13Z,3,MERGED,1,1,1,0,42.784444444444446,1,5
+14,Change AP wording for clarity,https://github.com/donnemartin/system-design-primer/pull/50,2017-04-04T08:27:14Z,2017-04-04T09:56:39Z,1,MERGED,1,1,1,291,1.4902777777777778,1,2
+15,zh-cn: Add Simplified Chinese translation v1.0,https://github.com/donnemartin/system-design-primer/pull/62,2017-04-15T07:44:20Z,2017-04-15T13:32:32Z,1,MERGED,1797,0,1,122,5.803333333333334,4,2
+16,zh-cn: Rename README-zh-Hant.md to README-zh-Hans.md,https://github.com/donnemartin/system-design-primer/pull/64,2017-04-16T03:17:12Z,2017-04-16T21:49:16Z,1,MERGED,0,0,1,90,18.534444444444443,2,2
+17,Fix asynchronism link in mint README,https://github.com/donnemartin/system-design-primer/pull/69,2017-04-22T00:06:53Z,2017-05-16T04:10:52Z,2,MERGED,1,1,1,0,580.0663888888889,1,3
+18,Fix lowercase typo in Layer 7 load balancing title,https://github.com/donnemartin/system-design-primer/pull/74,2017-05-02T19:28:31Z,2017-05-16T04:17:24Z,1,MERGED,1,1,1,54,320.8147222222222,1,2
+19,Fix typo,https://github.com/donnemartin/system-design-primer/pull/75,2017-05-09T13:31:23Z,2017-05-27T00:32:45Z,1,MERGED,1,1,1,0,419.0227777777778,1,2
+20,Add license disclaimer,https://github.com/donnemartin/system-design-primer/pull/78,2017-05-18T08:42:10Z,2017-05-27T00:34:53Z,1,MERGED,10,0,2,140,207.8786111111111,0,2
+21,Fix #79: Inaccuracy in Twitter timeline and search example,https://github.com/donnemartin/system-design-primer/pull/81,2017-05-25T01:47:16Z,2017-05-27T00:31:32Z,1,MERGED,1,1,1,0,46.73777777777778,1,2
+1,"Add the legal provisions, 😀",https://github.com/996icu/996.ICU/pull/110,2019-03-27T06:21:02Z,2019-03-27T08:04:40Z,1,MERGED,13,4,1,0,1.7272222222222222,2,4
+2,en_US,https://github.com/996icu/996.ICU/pull/242,2019-03-27T07:07:12Z,2019-03-28T02:53:55Z,2,MERGED,16,0,1,19,19.77861111111111,2,4
+3,添加了国际五一劳动节的历史渊源，以及国际歌歌词,https://github.com/996icu/996.ICU/pull/324,2019-03-27T07:35:37Z,2019-03-27T15:47:19Z,1,MERGED,78,0,1,23,8.195,4,6
+4,Create 加班公司名单,https://github.com/996icu/996.ICU/pull/605,2019-03-27T09:08:15Z,2019-03-28T02:53:22Z,1,MERGED,1,0,1,0,17.751944444444444,6,8
+5,blacklist and template,https://github.com/996icu/996.ICU/pull/693,2019-03-27T09:34:09Z,2019-03-28T02:35:14Z,2,MERGED,15,0,1,43,17.018055555555556,0,3
+6,当前已知的公司名单,https://github.com/996icu/996.ICU/pull/857,2019-03-27T10:12:11Z,2019-03-28T02:35:36Z,2,MERGED,4,0,1,0,16.39027777777778,7,11
+7,fix grammar error,https://github.com/996icu/996.ICU/pull/877,2019-03-27T10:18:17Z,2019-03-27T12:30:13Z,1,MERGED,1,1,1,17,2.198888888888889,0,3
+8,fix grammer issue in English version,https://github.com/996icu/996.ICU/pull/932,2019-03-27T10:43:35Z,2019-03-27T14:23:02Z,1,MERGED,1,1,1,17,3.6575,0,2
+9,translate “工作 996，生病 ICU” to english version.,https://github.com/996icu/996.ICU/pull/992,2019-03-27T11:06:59Z,2019-03-28T02:43:08Z,7,MERGED,3,0,1,91,15.6025,27,31
+10,曝光996公司及部门，欢迎曝光和投票,https://github.com/996icu/996.ICU/pull/1644,2019-03-27T15:14:41Z,2019-03-28T08:05:51Z,1,MERGED,5,0,1,367,16.852777777777778,114,106
+11,fix english translation,https://github.com/996icu/996.ICU/pull/1739,2019-03-27T18:29:15Z,2019-03-28T00:45:44Z,2,MERGED,8,7,1,23,6.2747222222222225,1,3
+1,Build A Support Ticket Application With AdonisJs,https://github.com/practical-tutorials/project-based-learning/pull/36,2017-07-11T03:56:03Z,2017-07-11T14:07:37Z,1,MERGED,4,0,1,0,10.192777777777778,0,2
+2,Added Thinkster.io to Additional Resources,https://github.com/practical-tutorials/project-based-learning/pull/37,2017-07-12T23:53:49Z,2017-07-13T03:41:54Z,1,MERGED,1,0,1,0,3.801388888888889,0,2
+3,Added Goodheads.io to Additional Resources,https://github.com/practical-tutorials/project-based-learning/pull/38,2017-07-13T09:37:03Z,2017-07-14T00:41:40Z,1,MERGED,1,0,1,0,15.076944444444445,0,2
+4,"Javascript: ""How to write your own Virtual DOM""",https://github.com/practical-tutorials/project-based-learning/pull/56,2018-04-17T04:09:04Z,2018-04-17T15:36:03Z,1,MERGED,1,0,1,0,11.449722222222222,0,1
+1,Add N queens problem bitwise solution,https://github.com/trekhleb/javascript-algorithms/pull/15,2018-05-24T11:13:23Z,2018-08-20T12:57:02Z,1,MERGED,68,0,3,0,2113.7275,5,5
+2,Radix sort,https://github.com/trekhleb/javascript-algorithms/pull/28,2018-05-28T18:29:39Z,2018-05-29T05:38:20Z,1,MERGED,150,0,5,123,11.144722222222223,2,3
+3,Fix typos,https://github.com/trekhleb/javascript-algorithms/pull/59,2018-06-09T08:25:57Z,2018-06-12T14:46:40Z,2,MERGED,19,19,8,26,78.34527777777778,1,4
+4,added Bidirectional Conditional Insertion Sort,https://github.com/trekhleb/javascript-algorithms/pull/67,2018-06-13T20:22:41Z,2018-06-14T15:45:28Z,2,MERGED,1605,1386,5,1121,19.379722222222224,2,2
+1,s,https://github.com/torvalds/linux/pull/20,2012-06-26T23:29:25Z,2013-04-29T19:22:49Z,1,MERGED,1,1,1,4,7363.89,0,6
+1,Give docs page some ellipsis and apostrophe love,https://github.com/twbs/bootstrap/pull/12,2011-08-20T01:18:57Z,2011-08-20T02:20:11Z,3,MERGED,29,29,1,122,1.0205555555555557,1,4
+1,Chaos/model args,https://github.com/Significant-Gravitas/AutoGPT/pull/19,2023-04-02T00:52:56Z,2023-04-02T10:34:35Z,4,MERGED,175,118,13,62,9.694166666666666,5,2
+2,fix typo in browse.py,https://github.com/Significant-Gravitas/AutoGPT/pull/32,2023-04-02T15:34:16Z,2023-04-02T22:52:40Z,1,MERGED,2,2,1,19,7.306666666666667,0,2
+3,Add documentation,https://github.com/Significant-Gravitas/AutoGPT/pull/33,2023-04-02T17:06:08Z,2023-04-10T11:07:42Z,7,MERGED,84,15,16,250,186.0261111111111,13,7
+4,implements #13,https://github.com/Significant-Gravitas/AutoGPT/pull/36,2023-04-02T18:20:26Z,2023-04-04T23:20:05Z,2,MERGED,0,0,0,0,52.994166666666665,6,6
+5,Remove `keys.py` and replace with `python-dotenv`,https://github.com/Significant-Gravitas/AutoGPT/pull/39,2023-04-02T19:05:24Z,2023-04-02T22:41:08Z,1,MERGED,40,27,9,493,3.5955555555555554,4,3
+6,Fix mistake in docs,https://github.com/Significant-Gravitas/AutoGPT/pull/41,2023-04-02T19:15:53Z,2023-04-02T22:25:01Z,1,MERGED,3,2,1,130,3.152222222222222,2,3
+7,Add Dockerfile and update requirements.txt.,https://github.com/Significant-Gravitas/AutoGPT/pull/44,2023-04-02T20:54:57Z,2023-04-02T22:21:25Z,1,MERGED,16,8,2,441,1.441111111111111,1,3
+8,Makes it possible to use gpt-3.5,https://github.com/Significant-Gravitas/AutoGPT/pull/45,2023-04-02T21:42:14Z,2023-04-03T10:43:38Z,13,MERGED,658,168,21,563,13.023333333333333,45,12
+9,devops cleanups,https://github.com/Significant-Gravitas/AutoGPT/pull/49,2023-04-02T23:08:23Z,2023-04-14T21:27:03Z,1,MERGED,540,16,6,309,286.31111111111113,1,3
+10,don't depend on the path script is run from,https://github.com/Significant-Gravitas/AutoGPT/pull/50,2023-04-02T23:09:10Z,2023-04-04T09:04:29Z,6,MERGED,2,2,1,276,33.92194444444444,0,4
+11,Minor tweak to make ELEVEN_LABS_API_KEY optional,https://github.com/Significant-Gravitas/AutoGPT/pull/59,2023-04-03T05:56:28Z,2023-04-09T13:48:03Z,1,MERGED,5,0,1,131,151.85972222222222,3,4
+12,Fix JSON string escaping issue,https://github.com/Significant-Gravitas/AutoGPT/pull/72,2023-04-03T13:58:45Z,2023-04-15T21:01:39Z,6,MERGED,1,1,1,96,295.04833333333335,3,7
+13,Fix: create file dir if it doesnt exist during write_to_file,https://github.com/Significant-Gravitas/AutoGPT/pull/81,2023-04-03T15:48:57Z,2023-04-03T23:27:37Z,1,MERGED,3,0,1,30,7.644444444444445,0,3
+14,"Use Python 3 Pathlib standards, increased error handling",https://github.com/Significant-Gravitas/AutoGPT/pull/85,2023-04-03T16:31:34Z,2023-07-07T05:18:09Z,5,MERGED,35,37,4,716,2268.776388888889,3,5
+15,Work around install errors,https://github.com/Significant-Gravitas/AutoGPT/pull/86,2023-04-03T16:34:12Z,2023-04-04T10:44:54Z,1,MERGED,4,2,1,149,18.178333333333335,2,3
+16,Improve extract_hyperlinks to honor base url,https://github.com/Significant-Gravitas/AutoGPT/pull/87,2023-04-03T16:52:42Z,2023-04-15T21:21:59Z,3,MERGED,34,6,2,0,292.48805555555555,3,5
+17,Fix Issue with command hallucination 💭,https://github.com/Significant-Gravitas/AutoGPT/pull/94,2023-04-03T18:46:04Z,2023-04-04T09:05:36Z,1,MERGED,1,0,1,107,14.325555555555555,0,2
+18,Use playwright instead of requests for browse,https://github.com/Significant-Gravitas/AutoGPT/pull/96,2023-04-03T19:12:41Z,2023-04-15T22:31:45Z,2,MERGED,115,58,4,393,291.3177777777778,2,3
+19,Fix googlesearch dependency issue,https://github.com/Significant-Gravitas/AutoGPT/pull/98,2023-04-03T19:13:08Z,2023-04-04T10:20:28Z,4,MERGED,3,18,3,323,15.122222222222222,1,5
+20,Fix .gitignore to include the correct path to auto_gpt_workspace,https://github.com/Significant-Gravitas/AutoGPT/pull/100,2023-04-03T19:21:00Z,2023-04-06T06:42:19Z,1,MERGED,1,1,1,0,59.35527777777778,1,2
+21,fix: UnboundLocalError: local variable 'assistant_thoughts_reasoning' referenced before assignment,https://github.com/Significant-Gravitas/AutoGPT/pull/102,2023-04-03T20:02:08Z,2023-04-03T23:38:35Z,5,MERGED,30,45,1,395,3.6075,1,3
+22,Fix delete memory error,https://github.com/Significant-Gravitas/AutoGPT/pull/105,2023-04-03T21:03:53Z,2023-04-15T21:29:04Z,3,MERGED,3,3,2,179,288.4197222222222,3,5
+23,Integrates Arxiv search and summarisation as available action.,https://github.com/Significant-Gravitas/AutoGPT/pull/107,2023-04-03T21:10:42Z,2023-04-05T12:38:51Z,2,MERGED,256,35,18,182,39.469166666666666,3,4
+24,Add 'r' command to retry last action,https://github.com/Significant-Gravitas/AutoGPT/pull/108,2023-04-03T21:23:22Z,2023-04-22T22:40:16Z,3,MERGED,2,0,1,127,457.2816666666667,8,5
+25,Added support for Google Custom Search API,https://github.com/Significant-Gravitas/AutoGPT/pull/111,2023-04-03T21:33:37Z,2023-04-03T23:24:52Z,4,MERGED,101,12,5,1180,1.8541666666666667,8,8
+26,fix: OpenAPI key variable name typo,https://github.com/Significant-Gravitas/AutoGPT/pull/112,2023-04-03T21:36:05Z,2023-04-04T01:26:10Z,3,MERGED,1,1,1,0,3.834722222222222,0,4
+27,Introduce check to OPENAI_API_KEY,https://github.com/Significant-Gravitas/AutoGPT/pull/115,2023-04-03T22:16:41Z,2023-04-10T12:12:26Z,2,MERGED,11,1,1,62,157.92916666666667,0,3
+28,Prompt engineering adjustments,https://github.com/Significant-Gravitas/AutoGPT/pull/116,2023-04-03T22:34:09Z,2023-04-20T18:08:42Z,2,MERGED,4,3,1,623,403.5758333333333,4,5
+29,Added and an input for User Advice on each iteration of the loop,https://github.com/Significant-Gravitas/AutoGPT/pull/120,2023-04-03T23:21:48Z,2023-04-11T18:17:57Z,3,MERGED,20,2,1,375,186.93583333333333,7,4
+30,Use selenium for web browsing,https://github.com/Significant-Gravitas/AutoGPT/pull/121,2023-04-03T23:25:15Z,2023-04-15T21:14:29Z,2,MERGED,95,148,4,362,285.82055555555553,8,8
+31,Pinecone Vectorized Memory,https://github.com/Significant-Gravitas/AutoGPT/pull/122,2023-04-04T00:31:46Z,2023-04-06T10:31:58Z,14,MERGED,153,29,9,385,58.00333333333333,24,17
+32,First draft at adding persistent memory via sqlite3,https://github.com/Significant-Gravitas/AutoGPT/pull/124,2023-04-04T00:46:11Z,2023-04-15T21:42:15Z,4,MERGED,138,11,4,324,284.93444444444447,22,12
+1,Update PEP 8风格指南.md,https://github.com/jackfrued/Python-100-Days/pull/6,2018-06-04T11:46:43Z,2018-06-25T14:35:05Z,1,MERGED,1,1,1,0,506.80611111111114,3,3
+2,修正IndentationError,https://github.com/jackfrued/Python-100-Days/pull/32,2019-04-24T11:11:20Z,2019-05-03T13:22:00Z,1,MERGED,3,3,1,0,218.17777777777778,2,4
+1,Update README.md,https://github.com/Snailclimb/JavaGuide/pull/74,2018-12-07T08:50:19Z,2018-12-07T12:31:27Z,1,MERGED,1,1,1,4,3.6855555555555557,1,2
+1,Typo fix in README.md,https://github.com/trimstray/the-book-of-secret-knowledge/pull/1,2018-07-13T23:43:59Z,2018-08-04T10:37:18Z,1,MERGED,1,1,1,33,514.8886111111111,1,3
+2,Update README.md,https://github.com/trimstray/the-book-of-secret-knowledge/pull/3,2018-11-06T17:56:43Z,2018-11-06T21:49:08Z,3,MERGED,2,0,1,73,3.873611111111111,3,5
+3,Add new tools,https://github.com/trimstray/the-book-of-secret-knowledge/pull/4,2018-11-07T16:19:39Z,2018-11-08T07:23:14Z,7,MERGED,3,0,1,50,15.059722222222222,1,2
+4,Add dkimvalidator.com under mail section (and other important tools).,https://github.com/trimstray/the-book-of-secret-knowledge/pull/32,2018-12-22T08:14:29Z,2018-12-23T10:14:21Z,1,MERGED,6,0,1,0,25.997777777777777,1,3
+5,Added PbScan in network section,https://github.com/trimstray/the-book-of-secret-knowledge/pull/38,2018-12-26T22:58:06Z,2018-12-27T08:39:14Z,1,MERGED,1,0,1,0,9.685555555555556,2,3
+6,Adding Etherate to 'Networking',https://github.com/trimstray/the-book-of-secret-knowledge/pull/43,2018-12-28T09:40:28Z,2019-01-04T10:57:51Z,1,MERGED,1,0,1,0,169.28972222222222,0,3
+7,Add CLI creators to CLI section,https://github.com/trimstray/the-book-of-secret-knowledge/pull/61,2019-01-14T17:16:48Z,2019-02-13T08:49:37Z,1,MERGED,1,0,1,0,711.5469444444444,2,3
+1,Arrays example is very confusing,https://github.com/airbnb/javascript/pull/33,2012-11-19T15:51:10Z,2012-11-22T22:12:06Z,1,MERGED,33,5,1,39,78.3488888888889,1,3
+1,Fix ineffective no_decay bug when using BERTAdam,https://github.com/huggingface/transformers/pull/32,2018-11-18T08:21:37Z,2018-11-20T09:11:47Z,1,MERGED,2,2,1,126,48.83611111111111,3,4
+2,run_classifier.py improvements,https://github.com/huggingface/transformers/pull/91,2018-12-05T17:22:31Z,2018-12-11T10:12:05Z,3,MERGED,24,30,1,417,136.82611111111112,1,2
+3,BertForMultipleChoice and Swag dataset example.,https://github.com/huggingface/transformers/pull/96,2018-12-06T18:34:05Z,2018-12-13T11:05:12Z,1,MERGED,658,7,4,969,160.5186111111111,14,7
+4,Add example for fine tuning BERT language model,https://github.com/huggingface/transformers/pull/124,2018-12-18T09:48:12Z,2019-01-07T11:03:51Z,7,MERGED,678,4,2,909,481.2608333333333,12,5
+5,Correct the  wrong note,https://github.com/huggingface/transformers/pull/145,2018-12-22T12:31:58Z,2019-01-07T11:23:06Z,1,MERGED,1,1,1,31,382.8522222222222,1,3
+1,Open tab when running next dev,https://github.com/vercel/next.js/pull/8,2016-10-15T17:04:39Z,2016-10-17T01:49:33Z,10,MERGED,12,1,1,0,32.748333333333335,2,3
+2,Added async props test,https://github.com/vercel/next.js/pull/9,2016-10-15T17:49:48Z,2016-10-16T04:32:58Z,1,MERGED,24,1,2,0,10.719444444444445,0,2
+3,Reverting default props for errors.,https://github.com/vercel/next.js/pull/12,2016-10-16T04:56:23Z,2016-10-16T22:44:26Z,1,MERGED,15,16,3,0,17.800833333333333,0,2
+4,Added warning when pages dir is not present,https://github.com/vercel/next.js/pull/14,2016-10-16T05:50:18Z,2016-10-17T01:04:35Z,1,MERGED,11,2,1,136,19.238055555555555,0,2
+5,Added next init command for starting a new project,https://github.com/vercel/next.js/pull/15,2016-10-16T06:34:49Z,2016-10-16T23:55:30Z,1,MERGED,57,0,2,123,17.344722222222224,0,2
+6,Load client js from cdn with fallback,https://github.com/vercel/next.js/pull/34,2016-10-17T08:36:50Z,2016-10-25T05:50:33Z,2,MERGED,27,1,1,48,189.22861111111112,1,2
+7,Added glamor css,https://github.com/vercel/next.js/pull/38,2016-10-20T02:12:40Z,2016-10-21T16:39:20Z,2,MERGED,87,109,16,25,38.44444444444444,0,2
+8,Exposing glamor style as default,https://github.com/vercel/next.js/pull/39,2016-10-22T07:46:33Z,2016-10-25T06:57:44Z,2,MERGED,20,1,1,51,71.18638888888889,0,3
+9,Use detect-port to check if 3000 is already used.,https://github.com/vercel/next.js/pull/68,2016-10-25T20:37:42Z,2016-12-17T03:37:00Z,4,MERGED,55,7,6,284,1254.9883333333332,15,9
+10,Add license MIT,https://github.com/vercel/next.js/pull/93,2016-10-26T16:27:15Z,2016-10-29T10:56:46Z,11,MERGED,21,0,1,0,66.49194444444444,1,5
+11,Fix issue #85,https://github.com/vercel/next.js/pull/97,2016-10-26T18:10:16Z,2016-10-26T23:49:05Z,1,MERGED,3,0,1,467,5.646944444444444,1,3
+12,README: improve getting started & contributing,https://github.com/vercel/next.js/pull/101,2016-10-26T19:48:39Z,2017-01-05T17:30:31Z,3,MERGED,56,38,1,183,1701.6977777777777,9,5
+1,English 翻译数据结构系列/单调队列.md,https://github.com/labuladong/fucking-algorithm/pull/61,2020-02-29T09:27:49Z,2020-03-01T12:32:47Z,2,MERGED,183,185,3,24,27.08277777777778,4,2
+2,翻译了数据结构系列，二叉堆实现优先队列,https://github.com/labuladong/fucking-algorithm/pull/78,2020-03-01T02:33:00Z,2020-03-01T05:09:21Z,3,MERGED,213,216,2,117,2.6058333333333334,1,2
+3,The Longest Palindromic Substring.md English,https://github.com/labuladong/fucking-algorithm/pull/87,2020-03-01T05:13:32Z,2020-03-01T11:10:42Z,1,MERGED,119,104,4,84,5.9527777777777775,4,2
+4,translate the article UnionFind 算法应用,https://github.com/labuladong/fucking-algorithm/pull/89,2020-03-01T07:02:12Z,2020-03-01T11:41:33Z,1,MERGED,220,225,6,121,4.655833333333334,3,2
+5,translate 数据结构系列/单调栈,https://github.com/labuladong/fucking-algorithm/pull/90,2020-03-01T07:19:22Z,2020-03-01T12:43:16Z,1,MERGED,122,119,2,13,5.398333333333333,0,2
+6,translate 高频面试系列/座位调度.md ,https://github.com/labuladong/fucking-algorithm/pull/97,2020-03-01T10:09:54Z,2020-03-02T11:17:15Z,1,MERGED,223,0,10,30,25.1225,2,2
+7,translate 动态规划系列/编辑距离.md,https://github.com/labuladong/fucking-algorithm/pull/98,2020-03-01T11:36:46Z,2020-03-01T13:10:20Z,1,MERGED,271,263,9,21,1.5594444444444444,2,2
+8,算法学习之路全文翻译,https://github.com/labuladong/fucking-algorithm/pull/107,2020-03-01T23:12:24Z,2020-03-02T04:06:59Z,1,MERGED,94,81,2,37,4.909722222222222,5,2
+9,translate 算法思路系列/双指针技巧,https://github.com/labuladong/fucking-algorithm/pull/115,2020-03-02T05:38:31Z,2020-03-02T11:39:51Z,1,MERGED,199,199,2,22,6.022222222222222,0,2
+1,Added capitalize first letter of every word,https://github.com/Chalarangelo/30-seconds-of-code/pull/1,2017-12-11T19:26:34Z,2017-12-12T13:37:53Z,2,MERGED,9,0,1,0,18.18861111111111,1,2
+2,simple ES6 unique array  values,https://github.com/Chalarangelo/30-seconds-of-code/pull/5,2017-12-11T20:20:36Z,2017-12-12T00:29:50Z,1,MERGED,2,8,1,0,4.153888888888889,1,3
+3,Update unique-values-of-array.md,https://github.com/Chalarangelo/30-seconds-of-code/pull/7,2017-12-12T00:47:57Z,2017-12-12T08:56:25Z,1,MERGED,14,8,1,0,8.141111111111112,2,2
+4,Replace the usage of ìndexOf` for `includes`,https://github.com/Chalarangelo/30-seconds-of-code/pull/8,2017-12-12T01:34:13Z,2017-12-12T09:08:33Z,1,MERGED,5,4,1,0,7.572222222222222,0,2
+5,Update RGB to hexadecimal to new bitwise version,https://github.com/Chalarangelo/30-seconds-of-code/pull/9,2017-12-12T01:55:09Z,2017-12-12T18:52:34Z,2,MERGED,16,4,1,96,16.956944444444446,7,4
+6,Capitalize first letter: safe against empty string,https://github.com/Chalarangelo/30-seconds-of-code/pull/10,2017-12-12T02:29:46Z,2017-12-12T09:16:01Z,1,MERGED,1,1,1,48,6.770833333333333,0,2
+7,Fixes a typo,https://github.com/Chalarangelo/30-seconds-of-code/pull/11,2017-12-12T06:44:04Z,2017-12-12T09:13:49Z,1,MERGED,1,1,1,0,2.495833333333333,0,2
+8,Add reverseString,https://github.com/Chalarangelo/30-seconds-of-code/pull/12,2017-12-12T06:59:48Z,2017-12-12T09:25:35Z,1,MERGED,9,1,1,0,2.4297222222222223,2,2
+9,Directly return object from arrow function,https://github.com/Chalarangelo/30-seconds-of-code/pull/13,2017-12-12T07:11:37Z,2017-12-12T14:07:36Z,6,MERGED,4,6,2,82,6.933055555555556,2,3
+10,Create Check_for_palindrome.md,https://github.com/Chalarangelo/30-seconds-of-code/pull/25,2017-12-12T10:39:03Z,2017-12-12T14:23:01Z,3,MERGED,8,0,1,0,3.7327777777777778,4,2
+11,Anagrams recursion refactor (code legibility),https://github.com/Chalarangelo/30-seconds-of-code/pull/31,2017-12-12T12:40:16Z,2017-12-12T16:23:00Z,1,MERGED,11,7,1,110,3.712222222222222,2,2
+12,Added async function chain,https://github.com/Chalarangelo/30-seconds-of-code/pull/37,2017-12-12T16:30:27Z,2017-12-13T10:12:43Z,4,MERGED,14,0,1,208,17.704444444444444,1,2
+13,Add chunk array,https://github.com/Chalarangelo/30-seconds-of-code/pull/38,2017-12-12T16:37:36Z,2017-12-13T10:04:56Z,2,MERGED,13,0,1,148,17.455555555555556,1,2
+14,get minimum value from an array,https://github.com/Chalarangelo/30-seconds-of-code/pull/42,2017-12-12T17:53:37Z,2017-12-12T18:56:31Z,2,MERGED,8,0,1,72,1.0483333333333333,2,3
+15,Refactor measure-time-taken-by-function from spread syntax to callback function,https://github.com/Chalarangelo/30-seconds-of-code/pull/44,2017-12-12T18:25:00Z,2017-12-13T11:54:38Z,1,MERGED,3,3,1,397,17.49388888888889,2,3
+16,Added getType function,https://github.com/Chalarangelo/30-seconds-of-code/pull/45,2017-12-12T19:35:31Z,2017-12-13T09:31:51Z,1,MERGED,9,0,1,70,13.938888888888888,5,4
+17,Collatz algorithm,https://github.com/Chalarangelo/30-seconds-of-code/pull/46,2017-12-12T19:37:56Z,2017-12-14T12:52:35Z,1,MERGED,11,0,1,133,41.244166666666665,9,6
+18,"Make ""Anagrams of string"" fully functional",https://github.com/Chalarangelo/30-seconds-of-code/pull/47,2017-12-12T20:32:03Z,2017-12-13T10:37:50Z,1,MERGED,3,6,2,214,14.096388888888889,1,2
+19,refactor curry to account for variadic functions,https://github.com/Chalarangelo/30-seconds-of-code/pull/51,2017-12-12T22:26:27Z,2017-12-13T11:33:50Z,2,MERGED,11,3,1,264,13.123055555555556,4,2
+20,Create median-of-array-of-numbers.md,https://github.com/Chalarangelo/30-seconds-of-code/pull/53,2017-12-12T23:04:02Z,2017-12-13T09:46:56Z,1,MERGED,17,0,1,0,10.715,6,2
+21,Add bottomVisible,https://github.com/Chalarangelo/30-seconds-of-code/pull/54,2017-12-13T05:48:51Z,2017-12-13T12:14:47Z,1,MERGED,27,0,2,81,6.432222222222222,0,2
+22,Add value or default,https://github.com/Chalarangelo/30-seconds-of-code/pull/55,2017-12-13T07:37:25Z,2017-12-13T09:36:29Z,1,MERGED,8,0,1,81,1.9844444444444445,0,2
+1,Fix link,https://github.com/yangshun/tech-interview-handbook/pull/1,2017-09-25T06:25:27Z,2017-09-25T08:03:20Z,1,MERGED,1,1,1,0,1.631388888888889,1,2
+2,Changed to gender neutral rather than male only,https://github.com/yangshun/tech-interview-handbook/pull/3,2017-09-25T21:27:24Z,2017-09-25T23:39:01Z,1,MERGED,2,2,1,0,2.193611111111111,1,2
+3,return -1 if target is not in array,https://github.com/yangshun/tech-interview-handbook/pull/9,2017-09-28T16:00:37Z,2017-09-30T13:51:37Z,2,MERGED,14,14,2,84,45.85,5,2
+4,"Grammar fixes for tense, punctuation and wording.",https://github.com/yangshun/tech-interview-handbook/pull/17,2017-10-01T15:57:48Z,2017-10-01T17:20:37Z,3,MERGED,2,2,1,107,1.3802777777777777,2,2
+5,Added Elevator Pitch section,https://github.com/yangshun/tech-interview-handbook/pull/30,2017-10-03T21:42:09Z,2017-10-04T17:00:29Z,2,MERGED,17,0,1,0,19.305555555555557,4,2
+6,Create mergeSort.js,https://github.com/yangshun/tech-interview-handbook/pull/38,2017-10-09T18:01:44Z,2017-10-10T02:48:24Z,1,MERGED,54,0,1,0,8.777777777777779,2,2
+1,"add ""Contributed by: @contributorID""",https://github.com/f/awesome-chatgpt-prompts/pull/60,2022-12-12T23:46:35Z,2022-12-13T06:24:49Z,3,MERGED,109,95,1,20,6.637222222222222,0,3
+2,"Added ""Act as an IT Expert""",https://github.com/f/awesome-chatgpt-prompts/pull/88,2022-12-14T11:12:16Z,2022-12-14T14:49:06Z,2,MERGED,11,12,2,0,3.613888888888889,0,2
+1,fix a couple typos,https://github.com/microsoft/PowerToys/pull/2,2019-05-06T23:33:59Z,2019-05-09T15:53:16Z,2,MERGED,1,1,1,61,64.32138888888889,1,4
+2,s/expereince/experience,https://github.com/microsoft/PowerToys/pull/9,2019-05-07T03:37:11Z,2019-05-09T15:57:30Z,1,MERGED,1,1,1,0,60.33861111111111,1,3
+3,Images for Specs,https://github.com/microsoft/PowerToys/pull/133,2019-05-29T21:43:06Z,2019-11-11T21:49:56Z,2,MERGED,60,0,6,0,3984.113888888889,1,8
+4,Fixed typo in readme,https://github.com/microsoft/PowerToys/pull/153,2019-09-05T16:40:42Z,2019-09-06T17:01:40Z,2,MERGED,1,1,1,948,24.349444444444444,1,3
+5,update backlog links,https://github.com/microsoft/PowerToys/pull/201,2019-09-05T18:47:24Z,2019-09-06T17:02:33Z,1,MERGED,26,26,2,367,22.2525,0,2
+6,Fixed typo,https://github.com/microsoft/PowerToys/pull/240,2019-09-06T11:54:46Z,2019-09-06T17:18:45Z,1,MERGED,1,1,1,12,5.3997222222222225,1,3
+7,Update README.md,https://github.com/microsoft/PowerToys/pull/242,2019-09-06T13:09:15Z,2019-09-06T17:19:45Z,1,MERGED,1,1,1,1154,4.175,1,3
+8,Fix typo,https://github.com/microsoft/PowerToys/pull/251,2019-09-06T14:16:20Z,2019-09-06T17:23:06Z,2,MERGED,1,1,1,76,3.1127777777777776,1,3
+9,Fixed spelling in ReadMe,https://github.com/microsoft/PowerToys/pull/258,2019-09-06T15:18:56Z,2019-09-06T17:42:58Z,1,MERGED,5,5,1,1271,2.4005555555555556,1,3
+10,Advertise shortcuts,https://github.com/microsoft/PowerToys/pull/273,2019-09-06T21:01:28Z,2019-09-09T16:19:17Z,1,MERGED,19,33,3,625,67.29694444444445,4,2
+11,Slight web bits cleanup,https://github.com/microsoft/PowerToys/pull/280,2019-09-06T23:38:59Z,2019-09-09T11:47:19Z,1,MERGED,35,64,10,277,60.138888888888886,4,4
+12,Update CI pipeline,https://github.com/microsoft/PowerToys/pull/318,2019-09-09T08:59:01Z,2019-09-09T13:13:22Z,1,MERGED,1,1,3,829,4.239166666666667,0,2
+1,Document how to install on Fedora,https://github.com/Genymobile/scrcpy/pull/29,2018-03-10T11:11:28Z,2018-03-11T21:10:02Z,5,MERGED,8,0,1,195,33.97611111111111,7,2
+2,macOS specific README changes,https://github.com/Genymobile/scrcpy/pull/56,2018-03-13T03:02:04Z,2018-03-28T12:17:22Z,5,MERGED,39,4,1,235,369.255,3,2
+3,"Add support for CTRL+S to send hardware ""shake"" to device",https://github.com/Genymobile/scrcpy/pull/85,2018-03-21T01:14:46Z,2018-03-23T09:15:10Z,1,MERGED,11,0,3,255,56.00666666666667,9,5
+4,[Feature] Drag and drop to install apk files from your computer,https://github.com/Genymobile/scrcpy/pull/133,2018-04-28T22:28:38Z,2018-05-28T20:58:57Z,4,MERGED,229,0,6,164,718.5052777777778,14,2
+5,Added a useful guide link for the FAQ,https://github.com/Genymobile/scrcpy/pull/142,2018-05-04T01:56:26Z,2018-08-15T13:24:38Z,1,MERGED,4,0,1,156,2483.47,1,2
+6,support drag & drop file to device /sdcard,https://github.com/Genymobile/scrcpy/pull/226,2018-08-11T13:59:58Z,2018-08-15T15:25:45Z,9,MERGED,278,231,7,338,97.42972222222222,6,2
+7,check adb runnable before starting scrcpy,https://github.com/Genymobile/scrcpy/pull/236,2018-08-21T13:34:33Z,2018-09-04T06:50:12Z,12,MERGED,93,14,4,293,329.2608333333333,8,2
+8,Work around for multiple displays with respective scales,https://github.com/Genymobile/scrcpy/pull/245,2018-08-26T11:52:13Z,2019-10-31T20:29:39Z,12,MERGED,37,0,3,298,10352.62388888889,23,8
+9,Added new command line parameter to start in fullscreen,https://github.com/Genymobile/scrcpy/pull/252,2018-09-04T13:57:59Z,2018-09-04T16:49:56Z,1,MERGED,15,1,3,164,2.8658333333333332,1,3
+10,Return specific error for missing adb binary on Windows,https://github.com/Genymobile/scrcpy/pull/254,2018-09-08T01:24:31Z,2018-09-09T13:36:34Z,1,MERGED,10,1,2,628,36.200833333333335,1,2
+11,prevent closing console right after process error in windows,https://github.com/Genymobile/scrcpy/pull/261,2018-09-14T12:37:43Z,2018-09-18T06:56:41Z,1,MERGED,6,0,1,46,90.31611111111111,0,2
+12,Record screen to file,https://github.com/Genymobile/scrcpy/pull/292,2018-10-09T02:25:14Z,2018-11-11T22:40:26Z,4,MERGED,74,9,5,100,812.2533333333333,21,3
+13,Desktop entry file for Linux app launchers (resolves #295),https://github.com/Genymobile/scrcpy/pull/296,2018-10-14T08:57:43Z,2022-09-09T17:13:53Z,6,MERGED,16,0,2,182,34232.26944444444,4,6
+14,app: add always_on_top,https://github.com/Genymobile/scrcpy/pull/412,2019-01-27T11:10:58Z,2019-01-27T13:09:19Z,2,MERGED,44,15,6,201,1.9725,4,2
+15,Added a new option : -n/--no-window,https://github.com/Genymobile/scrcpy/pull/418,2019-02-01T22:22:54Z,2019-03-02T17:42:37Z,5,MERGED,32,4,4,130,691.3286111111111,12,4
+16,add KeyCharacterMap.UnavailableException,https://github.com/Genymobile/scrcpy/pull/478,2019-03-27T08:10:47Z,2019-10-31T20:19:53Z,1,MERGED,11,1,1,51,5244.151666666667,6,3
+17,Return success count in injectText,https://github.com/Genymobile/scrcpy/pull/542,2019-05-19T01:04:14Z,2019-05-20T07:06:09Z,1,MERGED,5,3,1,144,30.031944444444445,2,2
+1,Don't assume the project is hosted at the root,https://github.com/facebook/create-react-app/pull/94,2016-07-22T19:17:34Z,2016-07-24T23:07:33Z,1,MERGED,34,8,3,104,51.83305555555555,20,6
+1,Fixed typo,https://github.com/goldbergyoni/nodebestpractices/pull/9,2017-11-03T05:29:59Z,2017-11-03T15:28:15Z,1,MERGED,1,1,1,54,9.971111111111112,1,3
+2,Fix typo pitfal to pitfall,https://github.com/goldbergyoni/nodebestpractices/pull/10,2017-11-03T10:53:36Z,2017-11-03T15:31:24Z,1,MERGED,1,1,1,0,4.63,1,3
+3,Update README.md,https://github.com/goldbergyoni/nodebestpractices/pull/14,2017-11-03T14:26:53Z,2017-11-03T15:32:48Z,1,MERGED,2,2,1,48,1.0986111111111112,1,3
+4,Add spanish translation skeleton,https://github.com/goldbergyoni/nodebestpractices/pull/16,2017-11-03T20:06:10Z,2019-04-04T07:50:50Z,3,MERGED,131,137,7,55,12395.744444444445,20,6
+5,Fixed some typos,https://github.com/goldbergyoni/nodebestpractices/pull/20,2017-11-04T12:01:21Z,2017-11-05T21:19:01Z,1,MERGED,43,42,1,40,33.294444444444444,3,3
+6,[errorhandling] Format js code in the blog section,https://github.com/goldbergyoni/nodebestpractices/pull/23,2017-11-04T17:33:15Z,2017-11-04T21:00:51Z,1,MERGED,4,4,1,145,3.46,1,3
+7,Update README.md,https://github.com/goldbergyoni/nodebestpractices/pull/24,2017-11-04T21:57:40Z,2017-11-05T15:49:28Z,1,MERGED,1,1,1,0,17.863333333333333,0,3
+8,Fixed typos and optimized sentence syntax of sections,https://github.com/goldbergyoni/nodebestpractices/pull/29,2017-11-06T18:24:01Z,2017-11-09T20:21:00Z,1,MERGED,27,27,22,0,73.94972222222222,5,3
+9,corrected typos in readme,https://github.com/goldbergyoni/nodebestpractices/pull/35,2017-11-08T06:20:46Z,2017-11-08T19:54:03Z,1,MERGED,6,6,1,151,13.554722222222223,1,2
+10,Add Keymetrics to APM section,https://github.com/goldbergyoni/nodebestpractices/pull/39,2017-11-08T13:39:48Z,2018-09-19T08:36:36Z,1,MERGED,7,3,2,0,7554.946666666667,7,5
+11,Fix link formatting,https://github.com/goldbergyoni/nodebestpractices/pull/48,2017-11-09T14:54:00Z,2017-11-09T20:45:13Z,2,MERGED,2,2,1,0,5.853611111111111,1,2
+12,Fixing #51,https://github.com/goldbergyoni/nodebestpractices/pull/52,2017-11-10T04:59:56Z,2017-11-14T19:23:55Z,1,MERGED,7,15,1,983,110.39972222222222,4,3
+13,Fix code sample syntax issue for bullet 3.3,https://github.com/goldbergyoni/nodebestpractices/pull/56,2017-11-10T08:29:49Z,2017-11-11T10:03:38Z,1,MERGED,2,2,1,103,25.56361111111111,1,2
+14,Fixup a couple of code examples,https://github.com/goldbergyoni/nodebestpractices/pull/57,2017-11-10T09:20:14Z,2017-11-11T20:16:37Z,1,MERGED,3,3,2,78,34.93972222222222,0,2
+15,Update productoncode.md,https://github.com/goldbergyoni/nodebestpractices/pull/58,2017-11-10T13:52:12Z,2017-11-11T10:00:52Z,1,MERGED,1,1,1,39,20.144444444444446,1,2
+16,Add section on healthchecks,https://github.com/goldbergyoni/nodebestpractices/pull/60,2017-11-11T15:22:36Z,2018-05-08T07:21:29Z,1,MERGED,25,0,2,1233,4263.981388888889,5,3
+17,Remove unneeded image and replace with code block,https://github.com/goldbergyoni/nodebestpractices/pull/61,2017-11-12T14:53:13Z,2017-11-14T19:18:38Z,1,MERGED,17,1,2,168,52.423611111111114,2,3
+18,Clean up some grammar,https://github.com/goldbergyoni/nodebestpractices/pull/62,2017-11-13T00:56:37Z,2017-11-14T13:00:45Z,1,MERGED,5,5,1,35,36.068888888888885,0,2
+19,Typo,https://github.com/goldbergyoni/nodebestpractices/pull/64,2017-11-14T09:33:28Z,2017-11-14T12:49:17Z,1,MERGED,1,1,1,167,3.263611111111111,4,3
+20,Tiny grammar fix in section 1.2,https://github.com/goldbergyoni/nodebestpractices/pull/65,2017-11-14T17:38:30Z,2017-11-14T19:17:15Z,1,MERGED,2,2,1,80,1.6458333333333333,3,2
+21,tiny ToC fix,https://github.com/goldbergyoni/nodebestpractices/pull/70,2017-11-15T09:33:23Z,2017-11-15T10:47:48Z,1,MERGED,1,1,1,0,1.2402777777777778,0,2
+22,Add 'milestones' section to README,https://github.com/goldbergyoni/nodebestpractices/pull/76,2017-11-15T17:20:21Z,2017-11-16T16:08:03Z,1,MERGED,5,0,1,0,22.795,0,3
+1,feat(computational_complexity/two_sum): add go code,https://github.com/krahets/hello-algo/pull/8,2022-11-24T14:59:50Z,2022-11-25T03:54:47Z,20,MERGED,93,2,5,49,12.915833333333333,4,2
+2,Python sorting algorithm,https://github.com/krahets/hello-algo/pull/17,2022-11-25T07:49:25Z,2022-11-25T15:54:55Z,1,MERGED,239,12,4,0,8.091666666666667,3,2
+3,feat(pkg): support go basic pkg,https://github.com/krahets/hello-algo/pull/20,2022-11-25T12:27:45Z,2022-11-25T18:12:15Z,4,MERGED,359,0,9,28,5.741666666666666,1,2
+4,sort,https://github.com/krahets/hello-algo/pull/21,2022-11-25T15:55:37Z,2022-11-25T16:59:47Z,3,MERGED,238,12,4,0,1.0694444444444444,2,2
+5,feat(tree): add go code,https://github.com/krahets/hello-algo/pull/29,2022-11-26T06:42:30Z,2022-11-26T08:40:12Z,8,MERGED,370,16,11,0,1.9616666666666667,1,2
+6,Update binary_tree.md,https://github.com/krahets/hello-algo/pull/30,2022-11-26T11:44:25Z,2022-11-26T14:14:58Z,1,MERGED,4,4,1,0,2.5091666666666668,1,2
+7,Update binary_search_tree.md,https://github.com/krahets/hello-algo/pull/31,2022-11-26T11:47:12Z,2022-11-26T14:15:44Z,1,MERGED,1,1,1,0,2.4755555555555557,1,2
+8,add javascript codes for Array,https://github.com/krahets/hello-algo/pull/34,2022-11-27T10:36:14Z,2022-11-27T12:11:11Z,5,MERGED,182,0,2,9,1.5825,2,2
+9,Update stack.cpp,https://github.com/krahets/hello-algo/pull/35,2022-11-27T16:52:19Z,2022-11-28T12:23:08Z,3,MERGED,30,0,1,11,19.51361111111111,1,2
+10,Update PrintUtil.hpp,https://github.com/krahets/hello-algo/pull/36,2022-11-27T16:53:23Z,2022-11-28T12:22:46Z,3,MERGED,28,14,1,11,19.489722222222223,1,2
+11,Update stack.cpp,https://github.com/krahets/hello-algo/pull/39,2022-11-28T01:06:05Z,2022-11-28T12:52:45Z,1,MERGED,33,2,1,16,11.777777777777779,1,2
+12,Update PrintUtil.hpp,https://github.com/krahets/hello-algo/pull/40,2022-11-28T01:34:48Z,2022-11-28T12:51:58Z,1,MERGED,28,0,1,47,11.286111111111111,1,2
+13,Update linkedlist_stack.cpp,https://github.com/krahets/hello-algo/pull/41,2022-11-28T02:15:38Z,2022-11-28T13:11:42Z,1,MERGED,74,2,1,6,10.934444444444445,1,2
+14,Update array_stack.cpp,https://github.com/krahets/hello-algo/pull/42,2022-11-28T02:43:28Z,2022-11-28T16:30:03Z,5,MERGED,38,2,1,6,13.776388888888889,2,2
+15,Update array_stack.cpp,https://github.com/krahets/hello-algo/pull/44,2022-11-28T14:24:35Z,2022-11-28T16:29:25Z,1,MERGED,76,2,1,40,2.0805555555555557,1,2
+16,feat(stack_and_queue): add go code.,https://github.com/krahets/hello-algo/pull/45,2022-11-28T17:14:06Z,2022-11-29T12:28:59Z,8,MERGED,730,2,14,125,19.248055555555556,1,2
+17,栈的python代码,https://github.com/krahets/hello-algo/pull/50,2022-11-29T06:04:10Z,2022-11-29T15:12:46Z,11,MERGED,176,9,3,0,9.143333333333333,5,2
+18,Add python code for queue,https://github.com/krahets/hello-algo/pull/53,2022-11-30T04:17:26Z,2022-12-01T14:55:24Z,4,MERGED,265,12,4,0,34.632777777777775,1,2
+19,Update array_stack.py,https://github.com/krahets/hello-algo/pull/55,2022-11-30T22:51:00Z,2022-12-01T14:57:33Z,1,MERGED,3,3,1,20,16.109166666666667,1,2
+20,fix(codes/cpp/include/TreeNode.hpp):  fix 'vecToTree' function,https://github.com/krahets/hello-algo/pull/56,2022-12-01T01:20:35Z,2022-12-01T14:47:29Z,1,MERGED,17,14,1,0,13.448333333333334,1,2
+21,add sort for javascript codes,https://github.com/krahets/hello-algo/pull/57,2022-12-01T10:29:56Z,2022-12-01T14:41:33Z,3,MERGED,479,0,8,29,4.193611111111111,2,2
+22,新增双指针算法技巧的代码与文章,https://github.com/krahets/hello-algo/pull/67,2022-12-03T08:15:55Z,2022-12-04T08:32:21Z,21,MERGED,19,65,2,38,24.273888888888887,1,2
+23, Create 'avl_tree' and modify 'TreeNode.hpp' to support 'avl_tree',https://github.com/krahets/hello-algo/pull/68,2022-12-03T09:37:51Z,2022-12-10T18:33:20Z,9,MERGED,872,4,16,0,176.92472222222221,3,2
+24,search,https://github.com/krahets/hello-algo/pull/69,2022-12-03T14:57:42Z,2022-12-03T17:33:19Z,1,MERGED,106,6,3,0,2.593611111111111,1,2
+25,Update stack.md,https://github.com/krahets/hello-algo/pull/70,2022-12-03T15:00:35Z,2022-12-04T05:07:09Z,3,MERGED,100,0,3,39,14.109444444444444,4,3
+26,add JavaScript codes for Tree,https://github.com/krahets/hello-algo/pull/71,2022-12-04T04:26:37Z,2022-12-04T16:15:33Z,4,MERGED,554,6,8,29,11.815555555555555,1,2
+27,go语言数组,https://github.com/krahets/hello-algo/pull/74,2022-12-05T01:10:35Z,2022-12-16T12:49:39Z,5,MERGED,67,0,1,0,275.6511111111111,2,3
+28,Update binary_search.md,https://github.com/krahets/hello-algo/pull/75,2022-12-05T09:10:56Z,2022-12-05T12:47:21Z,1,MERGED,107,3,3,54,3.6069444444444443,2,2
+29,binary_search using go,https://github.com/krahets/hello-algo/pull/76,2022-12-05T12:48:33Z,2022-12-05T14:48:26Z,1,MERGED,107,3,3,0,1.9980555555555555,1,2
+30,bubble sort using go,https://github.com/krahets/hello-algo/pull/79,2022-12-06T16:33:12Z,2022-12-07T10:39:30Z,2,MERGED,89,2,3,0,18.105,1,2
+31,Bubble sort using go,https://github.com/krahets/hello-algo/pull/80,2022-12-07T10:40:52Z,2022-12-07T13:32:42Z,1,MERGED,89,2,3,16,2.863888888888889,1,2
+32,Array stack in js and ts,https://github.com/krahets/hello-algo/pull/81,2022-12-08T16:06:41Z,2022-12-09T18:59:20Z,5,MERGED,252,2,3,24,26.8775,2,2
+33,Hashing search using go,https://github.com/krahets/hello-algo/pull/91,2022-12-12T08:45:52Z,2022-12-12T15:20:36Z,5,MERGED,84,2,3,22,6.578888888888889,1,2
+34,Insertion sort using go,https://github.com/krahets/hello-algo/pull/92,2022-12-12T10:36:28Z,2022-12-12T12:00:59Z,4,MERGED,49,1,3,0,1.408611111111111,1,2
+35,Js dev,https://github.com/krahets/hello-algo/pull/93,2022-12-12T13:31:33Z,2022-12-12T14:59:43Z,1,MERGED,570,46,8,43,1.4694444444444446,1,2
+36,Quick sort using go,https://github.com/krahets/hello-algo/pull/94,2022-12-12T13:34:29Z,2022-12-12T15:02:54Z,2,MERGED,226,3,3,0,1.4736111111111112,1,2
+37,Array queue in js and ts,https://github.com/krahets/hello-algo/pull/97,2022-12-12T16:01:36Z,2022-12-19T16:58:55Z,3,MERGED,5174,575,97,24,168.95527777777778,13,10
+1,[WIP] use wildcard to check test outputs,https://github.com/denoland/deno/pull/3,2018-05-29T09:44:18Z,2018-05-30T12:33:56Z,2,MERGED,141,27,10,0,26.827222222222222,3,3
+2,Implement FileWrite,https://github.com/denoland/deno/pull/5,2018-05-29T11:55:17Z,2018-06-22T13:33:24Z,3,MERGED,53,4,5,0,577.6352777777778,5,5
+3,Remove hand crafted types for text-encoding,https://github.com/denoland/deno/pull/6,2018-05-29T16:16:58Z,2018-06-01T20:20:34Z,9,MERGED,5,72,4,645,76.06,10,6
+4,[WIP] Init Dockerfile,https://github.com/denoland/deno/pull/16,2018-05-30T13:28:50Z,2018-06-01T15:06:42Z,8,MERGED,26,0,2,81,49.63111111111111,1,5
+5,Remove extra out argument sent to Parcel and reduce logging in output,https://github.com/denoland/deno/pull/22,2018-05-30T18:29:36Z,2018-05-31T00:03:11Z,2,MERGED,1,1,1,196,5.559722222222222,0,3
+6,Update compile instructions in README,https://github.com/denoland/deno/pull/24,2018-05-31T04:09:45Z,2018-05-31T14:04:38Z,1,MERGED,17,10,1,125,9.914722222222222,2,4
+7,"optimize the timer ts impl, and correct the duration if less than 10",https://github.com/denoland/deno/pull/54,2018-05-31T15:31:38Z,2018-05-31T21:39:45Z,16,MERGED,27,29,3,211,6.135277777777778,6,5
+8,Rename LICENSE,https://github.com/denoland/deno/pull/57,2018-05-31T17:31:17Z,2018-05-31T21:17:33Z,1,MERGED,0,0,1,125,3.7711111111111113,2,4
+9,Enhance README,https://github.com/denoland/deno/pull/58,2018-05-31T18:35:23Z,2018-05-31T21:32:03Z,2,MERGED,37,34,1,240,2.9444444444444446,1,4
+10,Use docker for local development,https://github.com/denoland/deno/pull/63,2018-06-01T05:44:18Z,2018-06-22T13:34:24Z,3,MERGED,140,36,5,4744,511.835,7,5
+11,update build step ,https://github.com/denoland/deno/pull/65,2018-06-01T06:15:38Z,2018-06-01T18:36:05Z,1,MERGED,1,0,1,32,12.340833333333334,8,4
+12,Avoid apply and move arrayToStr to util,https://github.com/denoland/deno/pull/72,2018-06-01T09:07:55Z,2018-06-04T06:56:58Z,2,MERGED,5,5,2,133,69.8175,1,4
+13,format runtime.ts,https://github.com/denoland/deno/pull/73,2018-06-01T09:29:16Z,2018-06-01T18:33:17Z,1,MERGED,1,1,1,0,9.066944444444445,2,4
+14,[fix] fix some code to satisfied tslint,https://github.com/denoland/deno/pull/83,2018-06-01T12:39:17Z,2018-06-04T06:59:02Z,2,MERGED,4,4,3,271,66.32916666666667,0,3
+15,docs: add issue template,https://github.com/denoland/deno/pull/90,2018-06-01T14:02:51Z,2018-06-01T18:34:59Z,1,MERGED,2,0,1,82,4.535555555555556,2,4
+16,Check if prettier is run in lint task,https://github.com/denoland/deno/pull/93,2018-06-01T16:24:44Z,2018-06-04T07:03:43Z,1,MERGED,2,0,2,71,62.64972222222222,2,3
+17,feat: ( os ) Implement FileStateSync and test in test.ts,https://github.com/denoland/deno/pull/98,2018-06-02T00:49:10Z,2018-06-22T13:35:46Z,8,MERGED,68,4,7,0,492.77666666666664,3,5
+18,fix typescript warning,https://github.com/denoland/deno/pull/99,2018-06-02T05:21:51Z,2018-06-04T07:06:42Z,1,MERGED,2,2,1,82,49.7475,3,5
+19,os: implement tempDirSync and use in tests.ts,https://github.com/denoland/deno/pull/100,2018-06-02T06:33:18Z,2018-06-05T10:19:09Z,4,MERGED,0,0,0,50,75.76416666666667,2,4
+20,Add `console.assert`,https://github.com/denoland/deno/pull/102,2018-06-02T09:46:56Z,2018-06-05T07:58:51Z,7,MERGED,19,0,2,68,70.1986111111111,10,6
+21,📝 Update install instructions around known error,https://github.com/denoland/deno/pull/110,2018-06-02T20:08:01Z,2018-06-04T07:41:51Z,5,MERGED,11,4,1,233,35.56388888888889,3,6
+22,Enhance error check in dispatch.go,https://github.com/denoland/deno/pull/111,2018-06-03T05:24:20Z,2018-06-04T08:03:49Z,1,MERGED,1,3,1,44,26.658055555555556,2,4
+23,Enhance README.md,https://github.com/denoland/deno/pull/129,2018-06-04T09:41:09Z,2018-06-05T08:16:07Z,1,MERGED,13,14,1,302,22.58277777777778,3,4
+24,Use object destructing,https://github.com/denoland/deno/pull/130,2018-06-04T09:42:45Z,2018-06-05T08:43:01Z,3,MERGED,11,10,2,54,23.004444444444445,1,5
+25,[fix] rename sendMsg to pubInternal and refactor some import statements,https://github.com/denoland/deno/pull/136,2018-06-05T03:36:06Z,2018-06-05T08:10:28Z,1,MERGED,14,15,4,217,4.572777777777778,0,2
+26,Use check() to improve error check,https://github.com/denoland/deno/pull/139,2018-06-05T06:45:46Z,2018-06-05T08:07:40Z,1,MERGED,8,21,3,0,1.365,0,2
+1,Add a switch for exporting settings,https://github.com/microsoft/terminal/pull/19,2017-08-15T16:17:16Z,2018-04-25T21:18:49Z,5,MERGED,66,4,4,118,6077.025833333333,0,7
+2,Dynamically generate list of parsers,https://github.com/microsoft/terminal/pull/25,2017-08-28T17:06:15Z,2018-04-25T21:23:47Z,1,MERGED,30,12,6,1426,5764.292222222222,1,4
+3,Add support for using ColorTool in WSL,https://github.com/microsoft/terminal/pull/50,2018-01-19T21:51:17Z,2018-10-02T17:24:39Z,2,MERGED,334,154,3,385,6139.556111111111,8,4
+4,Change listing of available schemes to use directory of executable,https://github.com/microsoft/terminal/pull/164,2018-04-29T15:46:49Z,2018-04-30T15:26:33Z,1,MERGED,4,2,1,250,23.662222222222223,1,2
+5,Adjust 'ANSI 8' color to be more visible against background. Fixes #180,https://github.com/microsoft/terminal/pull/181,2018-05-16T16:52:11Z,2018-10-02T16:11:50Z,1,MERGED,5,5,2,0,3335.3275,2,4
+6,"Markdown fixes, also add a description",https://github.com/microsoft/terminal/pull/184,2018-05-17T10:29:06Z,2018-05-17T15:18:04Z,1,MERGED,4,2,1,0,4.816111111111111,0,2
+7,Consolidate schemes path search code,https://github.com/microsoft/terminal/pull/197,2018-05-31T11:01:45Z,2018-06-06T21:54:30Z,1,MERGED,51,69,3,310,154.87916666666666,2,3
+8,Fix UIntTocolor,https://github.com/microsoft/terminal/pull/236,2018-08-19T05:16:39Z,2018-10-02T16:09:49Z,1,MERGED,3,4,1,119,1066.8861111111112,0,2
+9,Add an example application that uses the pseudoconsole APIs,https://github.com/microsoft/terminal/pull/247,2018-08-31T00:03:48Z,2018-09-11T03:07:18Z,31,MERGED,486,0,8,73,267.05833333333334,1,3
+10,Add csharp conpty sample,https://github.com/microsoft/terminal/pull/260,2018-09-20T15:21:40Z,2018-10-04T17:18:35Z,5,MERGED,740,0,14,1304,337.9486111111111,5,4
+11,Add the new ConPTY samples to the readme,https://github.com/microsoft/terminal/pull/272,2018-10-06T10:53:24Z,2018-10-08T16:09:02Z,1,MERGED,3,1,1,204,53.260555555555555,1,2
+12,Added location flag to colortool and updated help.,https://github.com/microsoft/terminal/pull/278,2018-10-10T20:26:41Z,2019-03-28T23:59:38Z,7,MERGED,182,171,2,45,4059.5491666666667,4,8
+13,Add GUIConsole sample,https://github.com/microsoft/terminal/pull/285,2018-10-14T13:22:47Z,2019-05-18T18:17:37Z,7,MERGED,1193,0,22,463,5188.913888888889,20,6
+14,Retargeted EchoCon sample project to 17763 now Win10 1809 has shipped,https://github.com/microsoft/terminal/pull/340,2019-01-04T19:20:11Z,2019-04-25T00:20:21Z,2,MERGED,1,1,1,0,2645.0027777777777,0,3
+15,Don't report scheme parse errors by default,https://github.com/microsoft/terminal/pull/378,2019-02-27T16:41:37Z,2019-02-27T20:57:12Z,6,MERGED,38,31,6,640,4.259722222222222,1,3
+16,Back and forground index export,https://github.com/microsoft/terminal/pull/400,2019-03-29T16:33:48Z,2019-04-02T17:21:23Z,5,MERGED,126,18,6,838,96.79305555555555,2,3
+17,added Support for parsing screen color in json,https://github.com/microsoft/terminal/pull/402,2019-03-29T20:58:13Z,2019-04-02T02:16:01Z,2,MERGED,21,1,1,26,77.29666666666667,1,3
+18,ReadConsoleInputStream demo,https://github.com/microsoft/terminal/pull/414,2019-04-21T17:35:08Z,2019-04-25T17:08:53Z,50,MERGED,474,0,6,1511,95.5625,2,3
+19,"Fix ColorTool parser and registry bugs, and refactor",https://github.com/microsoft/terminal/pull/418,2019-04-25T11:49:37Z,2019-04-29T19:12:02Z,9,MERGED,883,774,17,919,103.37361111111112,3,3
+1,Harrison/add huggingface hub,https://github.com/langchain-ai/langchain/pull/23,2022-10-26T03:23:09Z,2022-10-26T05:00:34Z,7,MERGED,228,28,11,168,1.6236111111111111,0,2
+2,[RFC] Self-consistent Draft,https://github.com/langchain-ai/langchain/pull/31,2022-10-27T13:33:00Z,2023-04-12T00:36:50Z,3,MERGED,602,36,19,429,3995.063888888889,1,2
+3,Fix cohere integration,https://github.com/langchain-ai/langchain/pull/33,2022-10-27T19:12:22Z,2022-10-28T01:17:04Z,1,MERGED,1,1,1,119,6.078333333333333,1,3
+4,prompt templating,https://github.com/langchain-ai/langchain/pull/41,2022-10-28T16:02:40Z,2022-10-30T16:45:28Z,3,MERGED,65,21,3,0,48.71333333333333,6,2
+5,add developer guide,https://github.com/langchain-ai/langchain/pull/44,2022-10-31T01:21:57Z,2022-10-31T05:48:52Z,1,MERGED,25,0,1,63,4.448611111111111,0,2
+6,FAISS and embedding support ,https://github.com/langchain-ai/langchain/pull/48,2022-11-01T04:33:38Z,2022-11-02T04:29:40Z,2,MERGED,427,5,19,46,23.933888888888887,5,2
+7,DynamicPrompt class creation,https://github.com/langchain-ai/langchain/pull/49,2022-11-01T04:58:32Z,2022-11-05T19:43:22Z,6,MERGED,219,2,3,115,110.74722222222222,2,2
+8,Add BasePrompt as abstract base class,https://github.com/langchain-ai/langchain/pull/60,2022-11-03T21:47:38Z,2022-11-04T15:42:45Z,1,MERGED,32,6,4,0,17.91861111111111,0,2
+1,refactor,https://github.com/ollama/ollama/pull/1,2023-06-27T19:29:54Z,2023-06-27T20:49:08Z,3,MERGED,196,216,7,0,1.3205555555555555,0,2
+2,use poetry,https://github.com/ollama/ollama/pull/3,2023-06-27T21:44:37Z,2023-06-28T14:36:35Z,1,MERGED,1363,22,7,282,16.86611111111111,0,3
+3,add prompt templates as j2 templates,https://github.com/ollama/ollama/pull/7,2023-06-27T22:50:30Z,2023-06-28T14:37:03Z,1,MERGED,196,440,16,147,15.775833333333333,0,3
+4,add with symlink,https://github.com/ollama/ollama/pull/10,2023-06-28T16:26:42Z,2023-06-30T18:54:22Z,2,MERGED,4,2,1,0,50.46111111111111,1,2
+5,batch model,https://github.com/ollama/ollama/pull/15,2023-06-28T21:34:34Z,2023-06-29T00:10:39Z,1,MERGED,22,13,2,141,2.6013888888888888,0,2
+6,update python version,https://github.com/ollama/ollama/pull/16,2023-06-28T21:46:35Z,2023-06-29T00:12:03Z,1,MERGED,166,356,3,49,2.4244444444444446,1,2
+7,use ctransformers as backup to llama.cpp,https://github.com/ollama/ollama/pull/17,2023-06-29T00:26:07Z,2023-06-30T18:46:14Z,4,MERGED,823,74,12,0,42.335277777777776,0,3
+8,use difflib.get_close_matches,https://github.com/ollama/ollama/pull/20,2023-06-29T16:43:57Z,2023-06-30T18:54:07Z,1,MERGED,3,13,1,26,26.169444444444444,0,2
+9,just in time install llama-cpp-python,https://github.com/ollama/ollama/pull/32,2023-07-01T00:04:44Z,2023-07-06T16:30:31Z,1,MERGED,33,7,5,0,136.4297222222222,0,2
+10,upgrade fuzzy search library,https://github.com/ollama/ollama/pull/37,2023-07-05T18:16:14Z,2023-07-05T19:16:19Z,3,MERGED,28,31,4,144,1.0013888888888889,1,2
+11,Go run,https://github.com/ollama/ollama/pull/49,2023-07-06T23:03:39Z,2023-07-07T00:18:58Z,1,MERGED,235,187,7,0,1.2552777777777777,1,2
+12,pass model and predict options,https://github.com/ollama/ollama/pull/52,2023-07-07T00:12:59Z,2023-07-07T17:59:11Z,3,MERGED,151,16,3,0,17.77,1,3
+13,"if directory cannot be resolved, do not fail",https://github.com/ollama/ollama/pull/56,2023-07-07T19:28:14Z,2023-07-08T03:18:25Z,5,MERGED,36,1,3,22,7.836388888888889,1,3
+14,take all args as one prompt,https://github.com/ollama/ollama/pull/57,2023-07-07T20:16:27Z,2023-07-10T10:05:09Z,1,MERGED,11,12,2,570,61.81166666666667,3,3
+15,return error in generate response,https://github.com/ollama/ollama/pull/58,2023-07-07T21:27:14Z,2023-07-10T21:03:47Z,2,MERGED,38,7,4,0,71.60916666666667,1,3
+16,llama: replace bindings with `llama_*` calls,https://github.com/ollama/ollama/pull/62,2023-07-10T02:44:43Z,2023-07-10T22:51:37Z,2,MERGED,101,983,10,415,20.115,2,2
+17,Do not seg fault on client disconnect,https://github.com/ollama/ollama/pull/64,2023-07-10T11:46:30Z,2023-07-10T15:00:45Z,1,MERGED,30,14,2,103,3.2375,0,2
+18,call llama.cpp directly from go,https://github.com/ollama/ollama/pull/65,2023-07-10T20:36:56Z,2023-07-11T19:01:03Z,10,MERGED,35552,1292,29,0,22.401944444444446,2,3
+19,embeddings endpoint,https://github.com/ollama/ollama/pull/66,2023-07-11T16:39:48Z,2023-08-10T15:49:55Z,11,MERGED,85,31,2,0,719.1686111111111,6,4
+20,app: write logs to ~/.ollama/logs,https://github.com/ollama/ollama/pull/67,2023-07-11T17:42:13Z,2023-07-11T18:45:21Z,2,MERGED,261,24,3,0,1.0522222222222222,0,2
+21,Use embeddings to give the chat client session memory,https://github.com/ollama/ollama/pull/69,2023-07-11T20:53:44Z,2023-07-20T18:04:37Z,1,MERGED,174,9,7,316,213.18138888888888,1,1
+22,offline fixes,https://github.com/ollama/ollama/pull/70,2023-07-11T20:57:54Z,2023-07-11T22:50:19Z,3,MERGED,143,144,6,621,1.8736111111111111,0,2
+23,error checking new model,https://github.com/ollama/ollama/pull/71,2023-07-12T00:09:31Z,2023-07-12T16:20:33Z,1,MERGED,7,0,1,51,16.183888888888887,0,2
+24,fix eof error in generate,https://github.com/ollama/ollama/pull/73,2023-07-12T16:36:33Z,2023-07-12T18:09:23Z,1,MERGED,16,20,4,21,1.5472222222222223,0,1
+25,Timings,https://github.com/ollama/ollama/pull/74,2023-07-13T01:20:54Z,2023-07-13T17:17:14Z,1,MERGED,117,32,4,0,15.938888888888888,0,2
+26,continue conversation,https://github.com/ollama/ollama/pull/77,2023-07-13T18:30:47Z,2023-07-14T21:57:42Z,1,MERGED,47,10,11,32,27.448611111111113,0,2
+27,basic distribution w/ push/pull,https://github.com/ollama/ollama/pull/78,2023-07-14T00:19:28Z,2023-07-17T00:02:22Z,1,MERGED,1154,214,7,751,71.715,0,2
+1,Number of arguments section.,https://github.com/ryanmcdermott/clean-code-javascript/pull/12,2017-01-04T22:26:03Z,2017-01-10T03:29:22Z,2,MERGED,1,1,1,273,125.05527777777777,5,5
+2,Rephrase default value advice,https://github.com/ryanmcdermott/clean-code-javascript/pull/34,2017-01-06T04:16:49Z,2017-01-11T03:23:09Z,1,MERGED,7,28,1,543,119.10555555555555,4,2
+3,Use destructuring for explanatory variables,https://github.com/ryanmcdermott/clean-code-javascript/pull/37,2017-01-06T08:52:10Z,2017-01-11T03:29:28Z,2,MERGED,6,6,1,154,114.62166666666667,5,4
+4,Feature/change var,https://github.com/ryanmcdermott/clean-code-javascript/pull/38,2017-01-06T12:02:18Z,2017-01-08T16:58:10Z,3,MERGED,70,70,1,108,52.931111111111115,1,4
+5,Add: Error Handling Section,https://github.com/ryanmcdermott/clean-code-javascript/pull/43,2017-01-06T16:42:18Z,2017-01-07T03:13:30Z,4,MERGED,78,4,1,0,10.52,3,2
+6,Change var and let where necessary,https://github.com/ryanmcdermott/clean-code-javascript/pull/51,2017-01-06T22:02:49Z,2017-01-08T16:42:27Z,3,MERGED,109,110,1,64,42.660555555555554,3,3
+1,"Add lint package.json lint script, .editorconfig file, fix linting errors",https://github.com/puppeteer/puppeteer/pull/17,2017-06-19T21:43:22Z,2017-06-19T22:58:31Z,2,MERGED,14,4,3,16,1.2525,1,2
+2,WIP: use chrome-launcher for handling the browser.,https://github.com/puppeteer/puppeteer/pull/23,2017-06-19T23:50:38Z,2017-07-11T23:43:43Z,4,MERGED,897,88,3,159,527.8847222222222,4,4
+3,Make InPageCallback async,https://github.com/puppeteer/puppeteer/pull/24,2017-06-20T01:04:02Z,2017-06-20T21:54:54Z,1,MERGED,59,81,6,31,20.84777777777778,2,3
+4,Tweaks to readme. API doc link,https://github.com/puppeteer/puppeteer/pull/25,2017-06-20T02:17:49Z,2017-06-20T18:32:21Z,5,MERGED,49,28,1,72,16.24222222222222,0,2
+5,Add travis config,https://github.com/puppeteer/puppeteer/pull/29,2017-06-20T22:29:42Z,2017-06-21T00:04:25Z,4,MERGED,606,5,3,314,1.5786111111111112,0,3
+6,Extract navigator logic that waits for network idle!,https://github.com/puppeteer/puppeteer/pull/32,2017-06-20T23:58:00Z,2017-06-21T20:44:12Z,4,MERGED,103,11,2,0,20.77,1,2
+7,Allow emulating devices,https://github.com/puppeteer/puppeteer/pull/37,2017-06-21T21:33:17Z,2017-07-18T01:57:50Z,1,MERGED,1439,32,3,0,628.4091666666667,1,2
+8,fix(Navigator): add better network idle definition,https://github.com/puppeteer/puppeteer/pull/38,2017-06-23T00:53:27Z,2017-06-28T21:39:37Z,16,MERGED,203,28,5,333,140.76944444444445,7,3
+9,Basic input,https://github.com/puppeteer/puppeteer/pull/45,2017-06-27T22:50:02Z,2017-06-28T01:27:23Z,7,MERGED,139,0,4,79,2.6225,0,2
+10,add navigator test,https://github.com/puppeteer/puppeteer/pull/46,2017-06-28T00:08:16Z,2017-06-28T05:02:46Z,11,MERGED,106,0,4,74,4.908333333333333,0,2
+11,Implement documentation linter,https://github.com/puppeteer/puppeteer/pull/47,2017-06-28T02:34:01Z,2017-07-07T16:36:45Z,3,MERGED,1715,61,11,1372,230.04555555555555,10,4
+12,$ and $$ for querySelector and querySelectorAll,https://github.com/puppeteer/puppeteer/pull/58,2017-07-07T20:36:04Z,2017-07-12T22:17:05Z,2,MERGED,1428,468,28,0,121.6836111111111,4,9
+13,Added frame.waitFor(selector),https://github.com/puppeteer/puppeteer/pull/59,2017-07-07T20:49:37Z,2017-07-07T22:39:03Z,6,MERGED,104,0,4,56,1.823888888888889,0,3
+14,Page.uploadFile,https://github.com/puppeteer/puppeteer/pull/61,2017-07-08T00:54:01Z,2017-07-10T18:21:47Z,10,MERGED,75,8,8,3,65.46277777777777,0,3
+15,Add tests for all public methods on Page,https://github.com/puppeteer/puppeteer/pull/62,2017-07-08T02:14:27Z,2017-07-10T17:09:59Z,3,MERGED,67,2,3,3,62.925555555555555,0,2
+16,Mouse input,https://github.com/puppeteer/puppeteer/pull/69,2017-07-11T00:00:07Z,2017-07-21T21:16:03Z,3,MERGED,177,20,6,70,261.2655555555556,2,3
+17,Add use cases and FAQ on Selenium,https://github.com/puppeteer/puppeteer/pull/70,2017-07-11T18:03:31Z,2017-07-11T23:27:46Z,1,MERGED,11,0,1,464,5.404166666666667,0,2
+18,Capture native resolution while emulating.,https://github.com/puppeteer/puppeteer/pull/72,2017-07-11T22:38:04Z,2017-07-18T01:13:04Z,2,MERGED,1430,41,9,0,146.58333333333334,0,2
+19,Cleanup _frameIdToExecutionContextId properly,https://github.com/puppeteer/puppeteer/pull/73,2017-07-12T00:51:09Z,2017-07-12T04:52:09Z,2,MERGED,2,5,1,0,4.016666666666667,0,2
+20,Keyboard,https://github.com/puppeteer/puppeteer/pull/74,2017-07-12T19:27:55Z,2017-07-18T01:49:53Z,18,MERGED,576,38,11,70,126.36611111111111,3,2
+21,$ and $$ as shortcuts for querySelector and querySelectorAll,https://github.com/puppeteer/puppeteer/pull/75,2017-07-12T22:23:10Z,2017-07-18T01:56:56Z,17,MERGED,158,9,8,86,123.56277777777778,5,4
+22,Addded builtins object,https://github.com/puppeteer/puppeteer/pull/82,2017-07-14T23:55:38Z,2017-08-01T00:32:22Z,3,MERGED,77,25,3,148,408.6122222222222,0,3
+23,Introduce waitForNavigation.,https://github.com/puppeteer/puppeteer/pull/94,2017-07-18T19:09:35Z,2017-07-19T01:54:25Z,1,MERGED,74,35,5,0,6.747222222222222,0,2
+24,Remove keyboard.type and keyboard.press,https://github.com/puppeteer/puppeteer/pull/98,2017-07-19T22:28:55Z,2017-07-22T03:00:09Z,2,MERGED,31,66,4,43,52.52055555555555,0,2
+1,Einstein’s 1905 Paper,https://github.com/papers-we-love/papers-we-love/pull/46,2014-03-10T22:34:51Z,2014-03-19T12:05:43Z,1,MERGED,10,0,2,250,205.51444444444445,17,6
+1,Update in.m3u,https://github.com/iptv-org/iptv/pull/2,2019-03-24T18:12:04Z,2019-03-25T05:09:59Z,1,MERGED,2,0,1,0,10.965277777777779,2,2
+1,Features from animelover1984/youtube-dl,https://github.com/yt-dlp/yt-dlp/pull/31,2021-01-24T07:35:40Z,2021-01-27T15:02:52Z,8,MERGED,587,72,12,1482,79.45333333333333,6,3
+2,[niconico] Improvement niconico douga from another approach. (Support encrypted movies and old server source movies),https://github.com/yt-dlp/yt-dlp/pull/49,2021-02-02T08:50:15Z,2021-02-10T06:45:21Z,32,MERGED,346,176,4,3099,189.91833333333332,13,4
+3,Aria2c support for MPEG-DASH and HLS,https://github.com/yt-dlp/yt-dlp/pull/55,2021-02-07T15:18:55Z,2021-02-08T16:46:02Z,13,MERGED,179,35,5,1484,25.451944444444443,4,2
+4,Implement self updater,https://github.com/yt-dlp/yt-dlp/pull/64,2021-02-08T20:57:51Z,2021-02-09T12:34:01Z,2,MERGED,34,63,4,1494,15.602777777777778,3,2
+5,Allow downloading of unplayable formats,https://github.com/yt-dlp/yt-dlp/pull/70,2021-02-10T17:55:29Z,2021-02-12T03:52:00Z,4,MERGED,106,47,29,1543,33.941944444444445,0,2
+6,Fix HLS AES-128 with multiple keys in external downloaders,https://github.com/yt-dlp/yt-dlp/pull/79,2021-02-13T02:27:27Z,2021-02-13T16:15:41Z,1,MERGED,12,5,2,1762,13.803888888888888,0,2
+7,Use one project name,https://github.com/yt-dlp/yt-dlp/pull/85,2021-02-14T23:29:02Z,2021-02-24T18:45:56Z,1,MERGED,501,506,927,2337,235.28166666666667,2,1
+8,use new POST API for live chat,https://github.com/yt-dlp/yt-dlp/pull/86,2021-02-15T00:35:55Z,2021-02-15T09:57:21Z,12,MERGED,45,38,3,1824,9.357222222222223,2,2
+9,[niconico] Support metadata 'channel' and 'channel_id' (fix #77).,https://github.com/yt-dlp/yt-dlp/pull/90,2021-02-16T07:37:14Z,2021-02-16T10:49:38Z,1,MERGED,22,2,1,1628,3.2066666666666666,0,2
+10,[Zee5] Add new extractor,https://github.com/yt-dlp/yt-dlp/pull/100,2021-02-20T12:21:06Z,2021-02-22T17:20:43Z,4,MERGED,114,0,2,1830,52.993611111111115,1,2
+11,Basic support for HLS media initialization,https://github.com/yt-dlp/yt-dlp/pull/103,2021-02-23T00:03:31Z,2021-02-23T16:00:56Z,1,MERGED,62,32,1,1517,15.956944444444444,0,2
+12,Better support HLS media discontinuity and fully support media initialization,https://github.com/yt-dlp/yt-dlp/pull/105,2021-02-24T00:35:55Z,2021-02-24T14:47:53Z,1,MERGED,429,475,13,1595,14.199444444444444,1,2
+13,[nebula] Add Nebula (watchnebula.com) extractor,https://github.com/yt-dlp/yt-dlp/pull/122,2021-02-28T22:34:42Z,2021-04-09T11:25:33Z,24,MERGED,207,1,2,2625,948.8475,10,2
+14,[YouTube] Use new browse API for continuation page extraction.,https://github.com/yt-dlp/yt-dlp/pull/131,2021-03-03T02:24:55Z,2021-03-03T10:32:41Z,2,MERGED,38,34,1,2209,8.129444444444445,2,4
+15,[cbs] Add support for ParamountPlus,https://github.com/yt-dlp/yt-dlp/pull/138,2021-03-04T13:40:30Z,2021-03-04T14:50:07Z,2,MERGED,7,4,1,1495,1.1602777777777777,0,2
+16,[MXPlayer] Rewrite Extractor,https://github.com/yt-dlp/yt-dlp/pull/141,2021-03-05T04:16:35Z,2021-03-05T19:41:02Z,7,MERGED,84,60,1,1527,15.4075,0,2
+1,add osx security awesome,https://github.com/Hack-with-Github/Awesome-Hacking/pull/6,2017-03-12T21:33:27Z,2017-05-29T12:04:06Z,1,MERGED,1,0,1,48,1862.5108333333333,5,5
+2,Add an Awesome Vulnerability Research,https://github.com/Hack-with-Github/Awesome-Hacking/pull/12,2017-07-23T23:27:34Z,2017-07-25T17:36:56Z,1,MERGED,1,0,1,90,42.15611111111111,0,2
+3,Added the How2Heap repository to the list of awesome repos,https://github.com/Hack-with-Github/Awesome-Hacking/pull/41,2018-10-07T23:29:11Z,2021-07-31T15:43:21Z,3,MERGED,1,0,1,60,24664.23611111111,2,7
+4,README.md: header level should increment by 1,https://github.com/Hack-with-Github/Awesome-Hacking/pull/42,2018-10-15T22:53:28Z,2018-10-25T06:33:58Z,1,MERGED,4,4,1,41,223.675,0,2
+5,Update README.md,https://github.com/Hack-with-Github/Awesome-Hacking/pull/45,2018-10-31T07:17:25Z,2018-11-07T12:06:14Z,1,MERGED,1,0,1,46,172.8136111111111,0,2
+6,Added the awesome-serverless-security repo,https://github.com/Hack-with-Github/Awesome-Hacking/pull/48,2019-02-03T20:48:34Z,2019-02-09T09:00:42Z,1,MERGED,1,0,1,0,132.20222222222222,1,2
+7,Add: hacker-roadmap awesome repository,https://github.com/Hack-with-Github/Awesome-Hacking/pull/50,2019-04-13T21:51:32Z,2019-04-26T03:31:38Z,1,MERGED,1,0,1,0,293.66833333333335,1,3
+8,Fixed gray-hacker-resources broken link,https://github.com/Hack-with-Github/Awesome-Hacking/pull/52,2019-07-19T17:52:59Z,2019-07-31T16:43:23Z,1,MERGED,1,1,1,0,286.84,1,3
+9,Added link to Awesome-Asset-Discovery,https://github.com/Hack-with-Github/Awesome-Hacking/pull/54,2019-10-02T10:46:16Z,2019-10-03T15:22:23Z,1,MERGED,1,0,1,95,28.601944444444445,0,2
+10,Remove link to Malware Scripts due to 404,https://github.com/Hack-with-Github/Awesome-Hacking/pull/55,2019-10-02T10:57:24Z,2019-10-03T15:21:17Z,2,MERGED,0,1,1,63,28.398055555555555,0,4
+1,feat(proton) initial packages for webview and binding-rust,https://github.com/tauri-apps/tauri/pull/2,2019-07-14T02:55:46Z,2019-07-14T12:47:29Z,4,MERGED,6486,8,72,123,9.861944444444445,1,2
+2,fix(ffi) define struct,https://github.com/tauri-apps/tauri/pull/5,2019-07-20T09:50:37Z,2019-07-20T17:50:07Z,1,MERGED,2,1,1,1914,7.991666666666666,0,2
+3,chore(merge) feature/bundle fork,https://github.com/tauri-apps/tauri/pull/6,2019-07-20T19:50:44Z,2019-07-20T21:42:08Z,1,MERGED,5062,32,29,1739,1.8566666666666667,0,2
+4,feat(MSI bundler) Basic functionality. ,https://github.com/tauri-apps/tauri/pull/14,2019-08-07T22:42:56Z,2019-08-20T14:33:49Z,3,MERGED,1576,612,9,1440,303.84805555555556,4,3
+5,chore(project) rename to tauri,https://github.com/tauri-apps/tauri/pull/15,2019-08-13T23:34:05Z,2019-08-14T11:24:09Z,1,MERGED,124,124,49,1488,11.834444444444445,0,2
+6,feat(tauri) core template isolated,https://github.com/tauri-apps/tauri/pull/18,2019-08-16T02:51:53Z,2019-08-16T10:58:31Z,2,MERGED,234,175,8,1487,8.110555555555555,0,2
+7,feat(tauri) initial work for the CLI,https://github.com/tauri-apps/tauri/pull/20,2019-08-18T21:49:47Z,2019-08-19T21:09:30Z,11,MERGED,1253,6,18,1487,23.328611111111112,1,2
+8,fix(tauri) embedded-server edge case with config host,https://github.com/tauri-apps/tauri/pull/26,2019-08-22T01:25:07Z,2019-08-22T07:52:02Z,1,MERGED,43,21,6,2078,6.448611111111111,0,2
+9,fix(tauri) event system init on windows fixed,https://github.com/tauri-apps/tauri/pull/29,2019-08-23T13:30:01Z,2019-08-23T14:39:42Z,3,MERGED,46,39,4,1487,1.1613888888888888,0,2
+10,feat(ui) webview impl on separate files,https://github.com/tauri-apps/tauri/pull/32,2019-08-25T12:00:56Z,2019-09-12T19:37:40Z,2,MERGED,2119,2111,9,1579,439.6122222222222,2,3
+11,feat(docs): purge for external documentation page,https://github.com/tauri-apps/tauri/pull/36,2019-09-14T17:04:31Z,2019-09-15T08:52:08Z,1,MERGED,1,11750,111,95,15.793611111111112,1,2
+12,feat(bundler) appimage,https://github.com/tauri-apps/tauri/pull/37,2019-09-24T22:09:22Z,2019-11-26T20:16:21Z,1,MERGED,420,14,9,197,1510.1163888888889,1,2
+13,Feat(bundler) dmg bundler,https://github.com/tauri-apps/tauri/pull/38,2019-09-25T17:10:33Z,2019-10-07T20:03:19Z,1,MERGED,228,0,6,185,290.87944444444446,0,3
+14,Refactor(Tauri) Rust 2018,https://github.com/tauri-apps/tauri/pull/39,2019-09-25T17:32:09Z,2019-10-07T11:15:34Z,1,MERGED,3,14,7,226,281.7236111111111,3,3
+15,Feature/edge(ui),https://github.com/tauri-apps/tauri/pull/40,2019-10-05T21:34:12Z,2019-10-07T18:42:26Z,1,MERGED,1205,0,2,1510,45.13722222222222,0,2
+16,Github Actions CI Process - Build Rust,https://github.com/tauri-apps/tauri/pull/49,2019-10-31T13:55:06Z,2019-11-02T08:36:16Z,1,MERGED,72,0,1,1355,42.68611111111111,0,2
+17,feat(icons): add and test icon generation for tauri,https://github.com/tauri-apps/tauri/pull/55,2019-11-17T16:03:17Z,2019-11-17T21:30:15Z,1,MERGED,2135,88,19,521,5.4494444444444445,0,2
+1,Update README,https://github.com/microsoft/Web-Dev-For-Beginners/pull/4,2020-11-14T12:26:37Z,2020-11-14T16:55:58Z,1,MERGED,1,1,1,0,4.489166666666667,0,3
+2,Update post-lecture-quiz.md,https://github.com/microsoft/Web-Dev-For-Beginners/pull/5,2020-11-14T13:10:14Z,2020-11-14T16:55:06Z,1,MERGED,1,1,1,0,3.747777777777778,0,2
+3,Fix broken quiz links,https://github.com/microsoft/Web-Dev-For-Beginners/pull/8,2020-11-15T03:55:27Z,2020-11-15T14:11:04Z,1,MERGED,48,48,24,191,10.260277777777778,1,2
+4,Fix broken image link in Introduction to GitHub,https://github.com/microsoft/Web-Dev-For-Beginners/pull/13,2020-11-15T10:40:38Z,2020-11-15T14:06:53Z,1,MERGED,1,1,1,186,3.4375,0,2
+5,literlly nothing,https://github.com/microsoft/Web-Dev-For-Beginners/pull/15,2020-11-15T15:36:10Z,2020-11-15T17:17:30Z,1,MERGED,2,2,1,0,1.6888888888888889,1,2
+6,"Major Fixes,",https://github.com/microsoft/Web-Dev-For-Beginners/pull/16,2020-11-15T17:57:06Z,2020-11-18T13:39:54Z,5,MERGED,5,3,1,24,67.71333333333334,4,2
+7,Update pre-lecture-quiz.md,https://github.com/microsoft/Web-Dev-For-Beginners/pull/20,2020-11-16T00:36:25Z,2020-11-16T02:02:38Z,1,MERGED,1,1,1,54,1.4369444444444444,1,3
+8,Removing Extra Spacing,https://github.com/microsoft/Web-Dev-For-Beginners/pull/22,2020-11-16T10:21:35Z,2020-11-16T12:40:09Z,1,MERGED,0,2,1,0,2.3094444444444444,1,2
+9,Add Indonesian translations,https://github.com/microsoft/Web-Dev-For-Beginners/pull/27,2020-11-16T15:16:21Z,2020-11-16T17:56:32Z,2,MERGED,558,0,7,54,2.669722222222222,6,2
+10,[WIP] Add korean translations,https://github.com/microsoft/Web-Dev-For-Beginners/pull/39,2020-11-17T13:04:11Z,2020-11-29T16:19:26Z,1,MERGED,5550,0,30,398,291.25416666666666,7,3
+11,Added missing div tag,https://github.com/microsoft/Web-Dev-For-Beginners/pull/44,2020-11-17T16:26:09Z,2020-11-17T17:54:44Z,1,MERGED,4,3,2,78,1.476388888888889,2,2
+12,Add indonesian translations (2-js-basics),https://github.com/microsoft/Web-Dev-For-Beginners/pull/53,2020-11-18T05:50:06Z,2020-12-31T14:44:48Z,1,MERGED,915,0,17,112,1040.9116666666666,5,5
+13,Issue Solved- 08. Terrarium: Introduction to HTML ../images missing files #52,https://github.com/microsoft/Web-Dev-For-Beginners/pull/54,2020-11-18T06:02:16Z,2020-11-18T13:56:58Z,1,MERGED,1,1,17,295,7.911666666666667,3,2
+14,Replace link to image folder,https://github.com/microsoft/Web-Dev-For-Beginners/pull/55,2020-11-18T07:40:56Z,2020-11-18T13:56:38Z,1,MERGED,1,1,1,13,6.261666666666667,1,3
+15,Update pre-lecture-quiz.md,https://github.com/microsoft/Web-Dev-For-Beginners/pull/57,2020-11-18T08:07:29Z,2020-11-18T13:55:35Z,1,MERGED,2,2,1,36,5.801666666666667,0,2
+16,Minor changes,https://github.com/microsoft/Web-Dev-For-Beginners/pull/59,2020-11-18T09:24:06Z,2020-11-19T06:32:59Z,1,MERGED,70,63,3,0,21.148055555555555,4,2
+17,Translated 1-intro-to-programming-languages into Dutch,https://github.com/microsoft/Web-Dev-For-Beginners/pull/61,2020-11-18T11:20:11Z,2020-12-05T20:54:43Z,4,MERGED,193,0,1,82,417.5755555555556,2,3
+18,js-basics: Fix setTimeout syntax,https://github.com/microsoft/Web-Dev-For-Beginners/pull/64,2020-11-18T15:11:51Z,2020-11-18T17:23:22Z,2,MERGED,5,5,1,0,2.1919444444444443,1,3
+19,Added commands for staging a particular file and unstaging a file or multiple files,https://github.com/microsoft/Web-Dev-For-Beginners/pull/68,2020-11-19T08:04:29Z,2020-11-19T14:22:48Z,2,MERGED,27,2,1,83,6.3052777777777775,1,3
+20,Update typo in game README.md,https://github.com/microsoft/Web-Dev-For-Beginners/pull/70,2020-11-19T14:16:55Z,2020-11-19T20:56:41Z,2,MERGED,2,2,1,46,6.6627777777777775,1,4
+21,Add Japanese translation Lesson 01.,https://github.com/microsoft/Web-Dev-For-Beginners/pull/71,2020-11-20T11:41:55Z,2020-11-20T18:13:26Z,2,MERGED,287,0,3,0,6.525277777777778,3,3
+22,Update making decisions README.md,https://github.com/microsoft/Web-Dev-For-Beginners/pull/72,2020-11-20T19:16:17Z,2020-11-21T14:32:51Z,1,MERGED,2,2,1,0,19.27611111111111,0,4
+23,Small improvement of the german Readme.md,https://github.com/microsoft/Web-Dev-For-Beginners/pull/76,2020-11-21T20:03:05Z,2020-11-30T18:13:39Z,1,MERGED,1,1,1,116,214.1761111111111,2,3
+24,Create German Readme.md translations,https://github.com/microsoft/Web-Dev-For-Beginners/pull/77,2020-11-21T20:22:58Z,2021-02-05T18:48:36Z,1,MERGED,50,0,2,390,1822.4272222222223,4,3
+25,fix loadAsset function in 6-space-game/2-drawing-to-canvas/README.md,https://github.com/microsoft/Web-Dev-For-Beginners/pull/78,2020-11-21T23:55:48Z,2020-11-26T00:25:38Z,3,MERGED,2,2,1,409,96.49722222222222,2,3
+26,Fix typo in readme ,https://github.com/microsoft/Web-Dev-For-Beginners/pull/80,2020-11-24T08:08:44Z,2020-11-24T14:23:08Z,1,MERGED,6,6,3,13,6.24,0,2
+1,Fix Stackoverflow link,https://github.com/mtdvio/every-programmer-should-know/pull/23,2017-09-07T01:08:31Z,2017-09-07T15:57:54Z,1,MERGED,1,1,1,0,14.823055555555555,1,3
+2,Add What Every Programmer Should Know About Memory,https://github.com/mtdvio/every-programmer-should-know/pull/37,2017-09-14T21:34:42Z,2017-09-16T16:16:12Z,1,MERGED,1,0,1,193,42.69166666666667,3,2
+3,Update README.md,https://github.com/mtdvio/every-programmer-should-know/pull/51,2017-09-18T07:26:45Z,2017-09-18T12:36:35Z,1,MERGED,1,1,1,61,5.163888888888889,1,2
+4,Slight typo in CONTRIBUTING.md,https://github.com/mtdvio/every-programmer-should-know/pull/67,2017-09-25T06:51:05Z,2017-09-28T11:47:04Z,1,MERGED,1,1,1,23,76.93305555555555,1,3
+1,Add cuDNN support for convolutions,https://github.com/pytorch/pytorch/pull/36,2016-09-15T22:55:49Z,2016-09-27T21:55:04Z,22,MERGED,576,64,13,0,286.9875,7,5
+2,"dataset/dataloader, multiprocess",https://github.com/pytorch/pytorch/pull/44,2016-09-21T01:26:33Z,2016-09-30T20:23:43Z,14,MERGED,246,108,5,198,234.95277777777778,0,5
+3,Combine autograd.Leaf and autograd.Variable,https://github.com/pytorch/pytorch/pull/52,2016-09-25T19:39:12Z,2016-09-26T00:21:14Z,8,MERGED,77,81,8,568,4.700555555555556,0,3
+4,Add data parallel functions to nn,https://github.com/pytorch/pytorch/pull/58,2016-09-27T00:04:06Z,2016-09-28T01:12:02Z,6,MERGED,0,0,0,64,25.13222222222222,0,4
+5,fixing CPU builds by making cuda imports optional,https://github.com/pytorch/pytorch/pull/61,2016-09-28T04:14:03Z,2016-09-28T15:58:00Z,1,MERGED,39,24,7,51,11.7325,0,2
+6,Add ffi utils for user C extensions,https://github.com/pytorch/pytorch/pull/62,2016-09-28T17:42:33Z,2016-09-29T16:36:16Z,1,MERGED,279,7,13,456,22.89527777777778,2,3
+7,Lazy load CUDA and THNN modules,https://github.com/pytorch/pytorch/pull/64,2016-09-28T20:49:56Z,2016-09-28T23:29:53Z,6,MERGED,170,157,20,277,2.6658333333333335,3,2
+8,Auto GPU for CUNN,https://github.com/pytorch/pytorch/pull/71,2016-09-29T20:34:10Z,2016-09-30T18:04:53Z,4,MERGED,62,56,7,0,21.511944444444445,0,2
+9,Use NCCL in comm.py if available,https://github.com/pytorch/pytorch/pull/78,2016-09-30T23:42:09Z,2016-10-14T21:44:11Z,5,MERGED,376,3,6,0,334.0338888888889,0,2
+10,"Support ""device"" keyword argument",https://github.com/pytorch/pytorch/pull/79,2016-10-01T19:13:38Z,2016-10-01T23:32:55Z,4,MERGED,44,70,4,97,4.3213888888888885,1,3
+11,Add Module.modules() and Module.children(),https://github.com/pytorch/pytorch/pull/90,2016-10-01T22:41:17Z,2016-10-02T01:18:53Z,8,MERGED,56,21,4,161,2.6266666666666665,0,3
+12,Serialization improvements,https://github.com/pytorch/pytorch/pull/99,2016-10-04T18:56:18Z,2016-10-05T01:11:42Z,1,MERGED,479,17,12,257,6.256666666666667,0,3
+1,Drag to move selection,https://github.com/excalidraw/excalidraw/pull/28,2020-01-02T09:09:11Z,2020-01-02T13:58:25Z,1,MERGED,43,2,1,157,4.820555555555556,1,2
+2,Select element on click,https://github.com/excalidraw/excalidraw/pull/29,2020-01-02T11:45:28Z,2020-01-02T15:37:14Z,5,MERGED,33,19,1,10,3.8627777777777776,3,2
+3,Setup git and lock deps,https://github.com/excalidraw/excalidraw/pull/30,2020-01-02T11:49:50Z,2020-01-02T14:46:32Z,2,MERGED,10184,0,2,112,2.945,0,2
+4,WIP: Migrate the elements array to react scope,https://github.com/excalidraw/excalidraw/pull/52,2020-01-02T22:55:33Z,2020-01-06T01:40:09Z,10,MERGED,185,155,1,360,74.74333333333334,5,3
+5,Save to local storage,https://github.com/excalidraw/excalidraw/pull/53,2020-01-02T23:08:31Z,2020-01-03T17:12:37Z,21,MERGED,33,0,1,114,18.06833333333333,7,5
+6,[WIP] Undo,https://github.com/excalidraw/excalidraw/pull/55,2020-01-02T23:41:52Z,2020-01-05T00:58:52Z,4,MERGED,45,17,1,149,49.28333333333333,6,4
+7,Add support for 'delete' key,https://github.com/excalidraw/excalidraw/pull/56,2020-01-03T00:30:06Z,2020-01-03T15:47:34Z,5,MERGED,33,13,2,136,15.29111111111111,2,5
+8,add cypress scaffolding,https://github.com/excalidraw/excalidraw/pull/66,2020-01-03T16:02:35Z,2020-01-12T05:25:09Z,6,MERGED,15804,11129,17,497,205.3761111111111,5,7
+9,Deploy static to gh-pages,https://github.com/excalidraw/excalidraw/pull/69,2020-01-03T16:46:04Z,2020-01-03T20:53:37Z,1,MERGED,11,1,3,10,4.1258333333333335,10,3
+10,[WIP] Scroll with mouse wheel,https://github.com/excalidraw/excalidraw/pull/74,2020-01-03T20:31:46Z,2020-01-03T22:06:54Z,2,MERGED,154,34,1,455,1.5855555555555556,4,3
+11,[WIP] Add node worklow,https://github.com/excalidraw/excalidraw/pull/75,2020-01-03T20:40:28Z,2020-01-03T22:18:43Z,1,MERGED,14815,24,4,0,1.6375,10,3
+12,[WIP] Adding README,https://github.com/excalidraw/excalidraw/pull/83,2020-01-03T21:57:19Z,2020-01-03T23:29:14Z,5,MERGED,40,0,1,82,1.5319444444444446,1,2
+1,Add responsive sample to default config,https://github.com/tailwindlabs/tailwindcss/pull/24,2017-11-01T16:12:45Z,2017-11-01T17:56:51Z,1,MERGED,2,0,1,54,1.735,1,3
+2,Min-width typo,https://github.com/tailwindlabs/tailwindcss/pull/38,2017-11-01T21:11:53Z,2017-11-01T22:33:27Z,2,MERGED,2,2,1,19,1.3594444444444445,1,3
+3,Add form examples,https://github.com/tailwindlabs/tailwindcss/pull/72,2017-11-03T05:47:11Z,2017-11-03T15:39:42Z,1,MERGED,171,1,2,139,9.875277777777777,2,4
+4,Register config file with Webpack for watching,https://github.com/tailwindlabs/tailwindcss/pull/77,2017-11-03T13:55:45Z,2017-11-03T15:04:09Z,5,MERGED,73,37,14,302,1.14,1,4
+5,Build dist assets on prepare,https://github.com/tailwindlabs/tailwindcss/pull/79,2017-11-03T14:19:35Z,2017-11-03T15:31:21Z,1,MERGED,1,2,1,227,1.1961111111111111,0,2
+6,Add all margin-auto utilities,https://github.com/tailwindlabs/tailwindcss/pull/82,2017-11-03T15:21:16Z,2017-11-06T16:22:59Z,2,MERGED,273,17,10,160,73.0286111111111,0,3
+7,Make docs config compatible with older versions of node,https://github.com/tailwindlabs/tailwindcss/pull/85,2017-11-03T16:22:43Z,2017-11-03T18:24:42Z,3,MERGED,12,19,1,139,2.0330555555555554,0,3
+8,Allow controlling where responsive utilities are rendered using optional `@tailwind screens;` directive,https://github.com/tailwindlabs/tailwindcss/pull/88,2017-11-03T18:47:33Z,2017-11-09T20:11:38Z,9,MERGED,92,6,5,429,145.4013888888889,4,2
+9,remove empty media queries,https://github.com/tailwindlabs/tailwindcss/pull/89,2017-11-03T19:54:11Z,2017-11-03T23:13:49Z,6,MERGED,12,1,2,339,3.3272222222222223,1,2
+1,Update README.md,https://github.com/gothinkster/realworld/pull/8,2017-04-20T02:59:48Z,2017-04-20T16:52:38Z,1,MERGED,5,5,1,0,13.880555555555556,0,2
+2,Parameterize email/password in API Postman collection,https://github.com/gothinkster/realworld/pull/151,2017-11-12T04:56:47Z,2017-11-12T22:12:00Z,1,MERGED,7,7,2,94,17.253611111111113,0,2
+3,Add Fullstack section and description,https://github.com/gothinkster/realworld/pull/153,2017-11-13T23:48:02Z,2017-11-15T19:01:10Z,1,MERGED,5,0,1,60,43.21888888888889,5,3
+4,README: Add WIP fullstack Firebase,https://github.com/gothinkster/realworld/pull/205,2018-04-16T15:02:48Z,2018-04-16T21:02:36Z,1,MERGED,1,1,1,0,5.996666666666667,1,2
+5,Add links to objective comparisons,https://github.com/gothinkster/realworld/pull/213,2018-05-04T09:21:51Z,2018-05-06T03:44:31Z,1,MERGED,3,0,1,0,42.37777777777778,1,2
+6,Generate README with ranked repos automatically,https://github.com/gothinkster/realworld/pull/224,2018-06-01T13:17:50Z,2018-06-04T13:10:52Z,1,MERGED,401,2,8,433,71.88388888888889,1,2
+7,Auto-update README,https://github.com/gothinkster/realworld/pull/225,2018-06-04T15:18:42Z,2018-06-04T20:15:20Z,1,MERGED,23,18,1,0,4.943888888888889,0,2
+8,doc how to use the supplied Postman configs,https://github.com/gothinkster/realworld/pull/238,2018-07-02T04:52:41Z,2018-07-02T16:02:07Z,2,MERGED,28,0,1,0,11.157222222222222,2,3
+1,Refactor: Add Kudos idea and update app description in README.md,https://github.com/florinpop17/app-ideas/pull/1,2019-03-01T00:13:44Z,2019-03-01T04:57:43Z,1,MERGED,49,3,2,86,4.733055555555556,0,2
+2,Feature/add string art,https://github.com/florinpop17/app-ideas/pull/3,2019-03-03T00:00:45Z,2019-03-03T20:36:22Z,3,MERGED,46,0,2,40,20.593611111111112,1,2
+3,Feature/add tz bot,https://github.com/florinpop17/app-ideas/pull/4,2019-03-03T21:07:33Z,2019-03-04T05:09:58Z,1,MERGED,38,0,2,28,8.040277777777778,0,2
+4,Feature: Add Windchill application specification,https://github.com/florinpop17/app-ideas/pull/5,2019-03-03T21:56:57Z,2019-03-04T18:55:42Z,9,MERGED,74,0,3,71,20.979166666666668,0,2
+5,Feature: Add Ripple Lights application specification,https://github.com/florinpop17/app-ideas/pull/6,2019-03-03T22:59:21Z,2019-03-04T18:58:11Z,3,MERGED,33,2,2,75,19.980555555555554,0,2
+6,Feature: Add Bin2Dec application specification,https://github.com/florinpop17/app-ideas/pull/8,2019-03-06T02:02:56Z,2019-03-07T19:14:10Z,1,MERGED,39,0,2,69,41.187222222222225,0,2
+7,Feature: Add TrueOrFalse app specification,https://github.com/florinpop17/app-ideas/pull/9,2019-03-06T15:14:22Z,2019-03-07T19:13:37Z,1,MERGED,38,0,2,65,27.9875,0,2
+8,Feature: Add Flip Image App specification,https://github.com/florinpop17/app-ideas/pull/10,2019-03-07T13:29:50Z,2019-03-07T19:12:50Z,1,MERGED,37,0,2,64,5.716666666666667,0,2
+9,Feature: Add Color Cycle application specification,https://github.com/florinpop17/app-ideas/pull/11,2019-03-09T16:31:06Z,2019-03-10T19:59:57Z,1,MERGED,41,0,2,73,27.480833333333333,1,2
+10,Feature/add causeeffect app,https://github.com/florinpop17/app-ideas/pull/12,2019-03-14T01:01:39Z,2019-03-14T20:10:08Z,1,MERGED,65,0,2,41,19.14138888888889,0,2
+11,Feature: Add Spell-It app specification,https://github.com/florinpop17/app-ideas/pull/15,2019-03-15T23:01:26Z,2019-03-16T21:03:53Z,1,MERGED,42,0,2,62,22.04083333333333,0,2
+12,Refactor: Add application summary information,https://github.com/florinpop17/app-ideas/pull/18,2019-03-17T20:51:08Z,2019-03-18T12:34:18Z,1,MERGED,104,27,23,272,15.719444444444445,1,2
+13,Feature: Add Sports Bracket Generator app specification,https://github.com/florinpop17/app-ideas/pull/20,2019-03-20T21:28:35Z,2019-03-21T12:38:30Z,1,MERGED,46,0,2,77,15.165277777777778,0,2
+14,[feature] Created the proposal for a Roman2Dec-App idea.,https://github.com/florinpop17/app-ideas/pull/21,2019-03-22T09:43:53Z,2019-03-25T17:38:01Z,2,MERGED,49,0,1,283,79.90222222222222,3,2
+15,Feature: Add Survey app specification,https://github.com/florinpop17/app-ideas/pull/22,2019-03-22T13:30:53Z,2019-03-24T13:57:52Z,4,MERGED,96,0,3,203,48.44972222222222,0,2
+16,Feature/add bbengine app,https://github.com/florinpop17/app-ideas/pull/23,2019-03-26T00:41:38Z,2019-03-26T05:16:15Z,1,MERGED,112,7,2,0,4.576944444444444,0,2
+17,Feature: Add RegExp Helper app specification,https://github.com/florinpop17/app-ideas/pull/25,2019-03-28T00:55:21Z,2019-03-29T12:39:49Z,4,MERGED,49,7,4,67,35.74111111111111,0,2
+18,Refactor: Update project documentation to match FCC article,https://github.com/florinpop17/app-ideas/pull/26,2019-03-29T00:47:27Z,2019-03-29T02:59:41Z,1,MERGED,3,4,1,81,2.203888888888889,0,2
+19,Feature: Add JSON2CSV app specification,https://github.com/florinpop17/app-ideas/pull/27,2019-03-31T13:38:16Z,2019-03-31T19:34:04Z,1,MERGED,55,0,2,62,5.93,2,2
+20,Feature: Add CSV2JSON app specification,https://github.com/florinpop17/app-ideas/pull/28,2019-04-02T00:41:20Z,2019-04-02T17:42:50Z,1,MERGED,59,0,2,62,17.025,1,2
+21,Feature/add highstriker app,https://github.com/florinpop17/app-ideas/pull/29,2019-04-02T22:22:25Z,2019-04-03T19:54:57Z,1,MERGED,52,0,3,86,21.54222222222222,1,2
+22,Feature: Add Elevator app specification,https://github.com/florinpop17/app-ideas/pull/30,2019-04-05T00:07:26Z,2019-04-05T01:12:27Z,1,MERGED,65,0,2,62,1.083611111111111,0,2
+23,Feature: Add FastFood simulator app specification,https://github.com/florinpop17/app-ideas/pull/31,2019-04-06T16:42:53Z,2019-04-06T20:43:24Z,1,MERGED,83,0,2,73,4.008611111111111,0,2
+24,Feature: Add Shell game app specification,https://github.com/florinpop17/app-ideas/pull/35,2019-04-08T00:33:24Z,2019-04-08T04:53:06Z,1,MERGED,54,0,2,64,4.328333333333333,0,2
+25,Feature: Add Typing Practice app specification,https://github.com/florinpop17/app-ideas/pull/37,2019-04-09T00:54:50Z,2019-04-09T04:40:41Z,1,MERGED,57,0,2,69,3.7641666666666667,0,2
+26,Feature: Add Recipe app specification,https://github.com/florinpop17/app-ideas/pull/41,2019-04-10T22:16:33Z,2019-04-11T20:02:25Z,1,MERGED,54,2,2,60,21.764444444444443,1,2
+27,Feature: Add Simple Online Store app specification,https://github.com/florinpop17/app-ideas/pull/42,2019-04-11T22:37:15Z,2019-04-12T04:09:40Z,1,MERGED,79,0,3,73,5.540277777777778,2,2
+28,Feature/countdown timer app,https://github.com/florinpop17/app-ideas/pull/43,2019-04-13T23:17:16Z,2019-04-14T09:53:38Z,1,MERGED,61,0,2,51,10.606111111111112,0,2
+29,Fix typo,https://github.com/florinpop17/app-ideas/pull/44,2019-04-14T18:53:13Z,2019-04-15T07:59:22Z,1,MERGED,1,1,1,89,13.1025,1,2
+30,Feature: Add Calorie Counter app specification,https://github.com/florinpop17/app-ideas/pull/45,2019-04-15T01:36:23Z,2019-04-15T08:00:26Z,1,MERGED,51,0,2,69,6.400833333333333,0,2
+31,Added Instagram Clone to Advanced app ideas,https://github.com/florinpop17/app-ideas/pull/46,2019-04-15T10:12:22Z,2019-04-15T12:30:46Z,3,MERGED,38,1,2,225,2.3066666666666666,1,2
+32,Feature/key value app,https://github.com/florinpop17/app-ideas/pull/47,2019-04-16T00:12:00Z,2019-04-16T19:52:21Z,5,MERGED,41,0,2,31,19.6725,0,2
+33,Feature: Add GitHub Status app specification,https://github.com/florinpop17/app-ideas/pull/48,2019-04-17T00:13:53Z,2019-04-17T04:15:51Z,1,MERGED,55,0,2,67,4.032777777777778,0,2
+34,Added example project built with react,https://github.com/florinpop17/app-ideas/pull/49,2019-04-18T16:48:59Z,2019-04-18T20:32:37Z,2,MERGED,1,0,1,103,3.727222222222222,3,2
+35,Added react example for the Binary to Decimal converter app idea,https://github.com/florinpop17/app-ideas/pull/52,2019-04-19T15:18:34Z,2019-04-23T04:19:21Z,2,MERGED,1,0,1,0,85.01305555555555,1,2
+36,Feature: Add MyPodcast Library app specification,https://github.com/florinpop17/app-ideas/pull/53,2019-04-19T22:40:23Z,2019-04-21T01:03:17Z,1,MERGED,95,0,3,71,26.381666666666668,0,2
+1,Convert character entities correctly,https://github.com/sveltejs/svelte/pull/89,2016-12-01T20:32:01Z,2016-12-02T16:43:04Z,1,MERGED,30,2,3,33,20.184166666666666,3,4
+2,Add links to gulp and Metalsmith plugins,https://github.com/sveltejs/svelte/pull/94,2016-12-02T11:42:32Z,2016-12-02T16:35:55Z,2,MERGED,2,0,1,222,4.889722222222222,1,3
+3,add editorconfig and flowconfig files,https://github.com/sveltejs/svelte/pull/121,2016-12-05T08:16:22Z,2016-12-05T15:56:07Z,2,MERGED,22,0,2,312,7.6625,3,4
+1,Include unistd.h to parallel.cpp on UNIX-like systems,https://github.com/opencv/opencv/pull/50,2012-10-17T13:04:00Z,2012-10-19T10:59:08Z,1,MERGED,11,1,1,51,45.91888888888889,2,4
+1,Add test case to use starlette DatabaseMiddleware,https://github.com/fastapi/fastapi/pull/20,2019-02-01T21:49:54Z,2019-03-20T18:02:18Z,3,MERGED,374,13,5,739,1124.2066666666667,5,3
+2,ci: Travis: dist=xenial,https://github.com/fastapi/fastapi/pull/92,2019-03-21T17:16:44Z,2019-03-30T17:30:32Z,3,MERGED,3,1,1,0,216.23,2,2
+3,Add websocket to APIRouter,https://github.com/fastapi/fastapi/pull/100,2019-03-24T10:13:56Z,2019-03-24T19:18:20Z,6,MERGED,57,0,2,12,9.073333333333334,2,2
+4,Static swagger,https://github.com/fastapi/fastapi/pull/112,2019-03-26T14:41:21Z,2019-05-20T07:26:55Z,2,MERGED,97,44,2,526,1312.7594444444444,11,4
+1,docs: add microservices-diffabouteureka_zk,https://github.com/doocs/advanced-java/pull/78,2019-07-06T14:06:55Z,2019-08-03T06:42:11Z,1,MERGED,21,0,1,0,664.5877777777778,2,2
+2,add an article,https://github.com/doocs/advanced-java/pull/103,2019-09-03T12:40:01Z,2019-09-04T01:18:51Z,1,MERGED,81,0,2,14,12.647222222222222,1,1
+3,alter translation of monolithic,https://github.com/doocs/advanced-java/pull/113,2019-09-28T08:50:56Z,2019-09-28T10:45:56Z,1,MERGED,13,13,1,56,1.9166666666666667,0,2
+4,docs(from-readers): add an article about micro service,https://github.com/doocs/advanced-java/pull/116,2019-10-22T01:35:38Z,2019-10-25T02:21:51Z,1,MERGED,204,0,1,8,72.77027777777778,0,2
+5,micro service,https://github.com/doocs/advanced-java/pull/118,2019-10-30T13:34:16Z,2019-11-01T07:46:28Z,2,MERGED,102,0,1,23,42.20333333333333,2,2
+6,micro service,https://github.com/doocs/advanced-java/pull/120,2019-11-08T11:21:25Z,2019-11-12T02:55:05Z,1,MERGED,644,3,3,60,87.56111111111112,0,2
+7,增加利用定时刷新缓存的方式来应对缓存击穿的表述,https://github.com/doocs/advanced-java/pull/121,2019-11-11T16:13:22Z,2019-11-12T02:50:28Z,1,MERGED,5,2,1,37,10.618333333333334,1,2
+1,fix: resolve hydration error,https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web/pull/66,2023-03-27T09:50:26Z,2023-03-27T13:59:19Z,2,MERGED,12,3,3,0,4.148055555555556,2,2
+2,1,https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web/pull/96,2023-03-28T09:16:37Z,2023-03-28T10:52:07Z,3,MERGED,120,48,7,3,1.5916666666666666,1,6
+3,supports the display of line breaks in Markdown,https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web/pull/148,2023-03-29T08:29:06Z,2023-03-29T10:05:53Z,3,MERGED,30,5,6,56,1.6130555555555555,5,2
+1,"Target inline, use archived .html, .css and .tis files else use it from src dir",https://github.com/rustdesk/rustdesk/pull/240,2021-09-26T21:48:02Z,2022-05-13T03:07:50Z,13,MERGED,150,38,13,303,5477.33,0,3
+2,CI setup,https://github.com/rustdesk/rustdesk/pull/253,2021-10-11T20:37:32Z,2021-10-12T15:47:09Z,5,MERGED,181,0,1,190,19.16027777777778,4,2
+3,Clipboard service optimization and bug fixes,https://github.com/rustdesk/rustdesk/pull/279,2021-10-27T12:11:13Z,2021-10-30T04:50:39Z,1,MERGED,86,85,2,181,64.65722222222222,0,2
+1,fix: add missing quotation in sample zsh config,https://github.com/oven-sh/bun/pull/41,2021-10-29T19:15:23Z,2021-10-29T22:39:36Z,1,MERGED,1,1,1,165,3.403611111111111,0,3
+2,Begin working on CI tasks for bun-framework-next,https://github.com/oven-sh/bun/pull/65,2021-11-11T19:02:36Z,2021-11-24T00:35:46Z,19,MERGED,1960,193,14,296,293.5527777777778,5,2
+3,Add experimental nix support,https://github.com/oven-sh/bun/pull/76,2021-12-12T02:39:34Z,2023-07-31T13:39:26Z,8,MERGED,37,0,2,1078,14314.997777777779,7,8
+4,Bun instructions for existing CRA app,https://github.com/oven-sh/bun/pull/124,2022-03-09T18:09:42Z,2023-03-29T21:10:34Z,2,MERGED,48,0,1,186,9243.014444444445,3,6
+5,expose mmap size and offset option,https://github.com/oven-sh/bun/pull/141,2022-04-12T19:30:13Z,2022-04-14T02:08:57Z,3,MERGED,18,5,2,0,30.645555555555557,0,2
+6,Improve ZSH completions,https://github.com/oven-sh/bun/pull/150,2022-04-19T06:05:24Z,2023-07-31T13:39:26Z,13,MERGED,359,535,1,1604,11239.567222222222,6,3
+1,"Add Realtime, allowing realtime-js to initialise sockets from inside",https://github.com/supabase/supabase/pull/1,2019-11-07T09:57:11Z,2019-11-08T04:31:24Z,3,MERGED,836,40,9,0,18.57027777777778,1,2
+2,Update docusaurus.config.js,https://github.com/supabase/supabase/pull/96,2020-06-10T18:10:46Z,2020-06-11T11:36:45Z,2,MERGED,8,0,1,43,17.433055555555555,9,3
+3,chore: Update traction chart,https://github.com/supabase/supabase/pull/98,2020-06-15T14:37:24Z,2020-06-16T04:33:28Z,3,MERGED,54,73,3,103,13.934444444444445,3,2
+1, fix: minor typos,https://github.com/shadcn-ui/ui/pull/2,2023-01-24T18:05:08Z,2023-01-26T16:29:49Z,1,MERGED,54,54,4,0,46.41138888888889,2,2
+2,feat: toggle theme icon at the same time,https://github.com/shadcn-ui/ui/pull/4,2023-01-24T18:46:26Z,2023-02-19T06:17:52Z,3,MERGED,85,5,4,92,611.5238888888889,5,3
+3,Update README.md (Small typo),https://github.com/shadcn-ui/ui/pull/6,2023-01-24T20:50:14Z,2023-01-25T15:42:18Z,1,MERGED,1,1,1,161,18.86777777777778,2,2
+4,Issue #7 - Fix,https://github.com/shadcn-ui/ui/pull/8,2023-01-25T00:56:10Z,2023-01-26T18:15:47Z,1,MERGED,1,1,1,487,41.32694444444444,6,3
+5,fix: Docs typo,https://github.com/shadcn-ui/ui/pull/12,2023-01-25T10:08:17Z,2023-01-26T16:29:28Z,1,MERGED,1,1,1,0,30.353055555555557,1,2
+6,Update installation.mdx,https://github.com/shadcn-ui/ui/pull/13,2023-01-25T13:22:48Z,2023-01-29T10:18:09Z,3,MERGED,1,1,1,36,92.9225,2,2
+7,Update installation.mdx,https://github.com/shadcn-ui/ui/pull/14,2023-01-25T16:24:12Z,2023-01-29T23:38:03Z,2,MERGED,15,2,1,107,103.23083333333334,1,2
+8,feat: navigation-menu,https://github.com/shadcn-ui/ui/pull/31,2023-01-27T14:34:00Z,2023-01-29T17:28:13Z,4,MERGED,609,99,21,136,50.90361111111111,7,2
+9,feat: toast,https://github.com/shadcn-ui/ui/pull/32,2023-01-27T20:55:49Z,2023-02-10T06:03:52Z,7,MERGED,6083,2539,15,209,321.13416666666666,21,4
+10,feat: implement destructive variant for button,https://github.com/shadcn-ui/ui/pull/33,2023-01-28T05:02:34Z,2023-01-29T09:49:29Z,1,MERGED,18,0,4,0,28.781944444444445,2,3
+11,feat/toggle,https://github.com/shadcn-ui/ui/pull/34,2023-01-28T12:07:08Z,2023-02-04T06:44:50Z,1,MERGED,221,1,12,132,162.62833333333333,3,2
+12,fix: switch position issue,https://github.com/shadcn-ui/ui/pull/39,2023-01-29T15:21:23Z,2023-01-29T19:35:45Z,1,MERGED,1,1,1,433,4.239444444444445,2,2
+13,Fix: Issue 42: Use light text in TabsPrimitive.Trigger when dark mode,https://github.com/shadcn-ui/ui/pull/43,2023-01-30T18:10:54Z,2023-01-31T17:21:34Z,1,MERGED,1,1,1,354,23.177777777777777,2,2
+14,Text + Border Color changes,https://github.com/shadcn-ui/ui/pull/46,2023-01-31T00:20:58Z,2023-01-31T06:29:46Z,1,MERGED,2,2,2,11,6.1466666666666665,4,2
+15,feat(sheet): add sheet component,https://github.com/shadcn-ui/ui/pull/50,2023-02-01T16:02:44Z,2023-03-02T10:57:44Z,1,MERGED,521,0,7,455,690.9166666666666,12,3
+16,feat:toggle group,https://github.com/shadcn-ui/ui/pull/53,2023-02-03T21:17:27Z,2023-11-12T18:04:22Z,4,MERGED,344,1,11,244,6764.781944444445,11,5
+17,fix(slider): value prop not being passed,https://github.com/shadcn-ui/ui/pull/54,2023-02-04T20:20:46Z,2023-02-05T06:41:00Z,1,MERGED,2,2,2,173,10.337222222222222,2,2
+18,docs(dialog): trigger dialog from context menu or dropdown,https://github.com/shadcn-ui/ui/pull/55,2023-02-05T02:11:57Z,2023-02-08T17:18:44Z,1,MERGED,35,0,1,382,87.11305555555556,5,5
+19,Fix bg color link button,https://github.com/shadcn-ui/ui/pull/56,2023-02-05T04:49:06Z,2023-02-19T06:01:00Z,1,MERGED,1,1,1,106,337.1983333333333,4,2
+20,fix(popover): side left and right no animation,https://github.com/shadcn-ui/ui/pull/57,2023-02-05T13:06:58Z,2023-02-10T05:56:38Z,1,MERGED,1,1,1,60,112.82777777777778,2,2
+21,chore: add husky prepare,https://github.com/shadcn-ui/ui/pull/58,2023-02-05T13:20:33Z,2023-02-06T11:25:29Z,1,MERGED,3,2,1,512,22.08222222222222,3,2
+22,"fix: broken navigation menu in small screen, #40",https://github.com/shadcn-ui/ui/pull/59,2023-02-05T23:05:06Z,2023-02-07T09:02:14Z,1,MERGED,3,3,2,151,33.952222222222225,4,2
+23,feat: slide left and right animations for Dropdown,https://github.com/shadcn-ui/ui/pull/61,2023-02-06T14:35:54Z,2023-02-08T17:11:32Z,1,MERGED,1,1,1,70,50.59388888888889,2,2
+24,Fix broken link,https://github.com/shadcn-ui/ui/pull/65,2023-02-08T00:15:30Z,2023-02-08T03:46:40Z,1,MERGED,1,1,1,0,3.5194444444444444,2,2
+25,fix: alert-dialog demo typo,https://github.com/shadcn-ui/ui/pull/67,2023-02-08T14:42:48Z,2023-02-08T17:15:17Z,1,MERGED,1,1,1,0,2.5413888888888887,2,2
+26,Add Font instructions when adding to an existing project,https://github.com/shadcn-ui/ui/pull/69,2023-02-08T17:24:31Z,2023-10-15T11:22:33Z,1,MERGED,43,0,1,8,5969.9672222222225,4,4
+27,fix(docs): fix destructive toast example src,https://github.com/shadcn-ui/ui/pull/77,2023-02-11T13:29:55Z,2023-02-12T05:53:18Z,1,MERGED,1,1,1,66,16.389722222222222,2,2
+28,"fixing a11y issue with ""destructive"" button",https://github.com/shadcn-ui/ui/pull/79,2023-02-13T13:12:47Z,2023-02-19T06:11:08Z,2,MERGED,2,2,2,0,136.9725,3,2
+1,log wandb multi-epoch,https://github.com/nomic-ai/gpt4all/pull/3,2023-03-28T18:49:03Z,2023-03-29T17:50:27Z,1,MERGED,4,2,1,0,23.023333333333333,0,2
+2,Fix typo in TRAINING_LOG.md,https://github.com/nomic-ai/gpt4all/pull/96,2023-03-30T15:55:02Z,2023-04-03T21:18:11Z,2,MERGED,1,1,1,25,101.38583333333334,0,3
+3,Updated tokenize_inputs function to handle long prompts and responses,https://github.com/nomic-ai/gpt4all/pull/119,2023-03-31T01:06:31Z,2023-04-13T21:40:11Z,1,MERGED,7,0,1,174,332.56111111111113,2,4
+4,adds to README.md,https://github.com/nomic-ai/gpt4all/pull/129,2023-03-31T07:55:44Z,2023-04-06T18:17:33Z,3,MERGED,4,2,1,466,154.3636111111111,4,4
+5,Add sha512sum for quantized models in README.md,https://github.com/nomic-ai/gpt4all/pull/132,2023-03-31T10:22:42Z,2023-04-03T21:22:26Z,3,MERGED,12,2,1,245,82.99555555555555,2,3
+6,Added vscode files to gitignore,https://github.com/nomic-ai/gpt4all/pull/146,2023-03-31T23:16:50Z,2023-04-03T21:16:23Z,1,MERGED,6,1,1,0,69.9925,1,2
+7,Made capitalization consistent,https://github.com/nomic-ai/gpt4all/pull/148,2023-04-01T00:26:25Z,2023-04-03T21:17:52Z,1,MERGED,1,1,1,0,68.8575,0,2
+8,Create launcher.sh,https://github.com/nomic-ai/gpt4all/pull/161,2023-04-01T15:30:54Z,2023-04-03T21:20:29Z,1,MERGED,88,0,1,283,53.826388888888886,6,3
+9,Create gpt4all.py,https://github.com/nomic-ai/gpt4all/pull/166,2023-04-01T19:47:28Z,2023-04-03T21:15:59Z,2,MERGED,58,0,1,91,49.47527777777778,2,2
+10,DatasetDict to dataset object.,https://github.com/nomic-ai/gpt4all/pull/174,2023-04-02T03:57:02Z,2023-04-03T21:34:23Z,1,MERGED,1,1,1,3378,41.6225,0,2
+11,Update README.md,https://github.com/nomic-ai/gpt4all/pull/175,2023-04-02T04:24:36Z,2023-04-06T18:17:06Z,1,MERGED,34,32,1,33,109.875,0,2
+12,Fix `git submodule` instructions,https://github.com/nomic-ai/gpt4all/pull/181,2023-04-02T16:20:23Z,2023-04-03T21:21:51Z,1,MERGED,4,3,1,152,29.024444444444445,0,2
+13,Fixing Small Punctuation and Capitalization Issues,https://github.com/nomic-ai/gpt4all/pull/208,2023-04-04T00:13:49Z,2023-04-06T18:15:57Z,3,MERGED,2,2,1,90,66.03555555555556,1,2
+14,add dockerfile,https://github.com/nomic-ai/gpt4all/pull/210,2023-04-04T04:43:01Z,2023-05-11T16:34:41Z,3,MERGED,19,1,2,828,899.8611111111111,4,5
+15,Update README.md,https://github.com/nomic-ai/gpt4all/pull/267,2023-04-06T22:12:26Z,2023-04-07T14:50:28Z,1,MERGED,1,1,1,78,16.63388888888889,1,3
+16,Slight cleanup,https://github.com/nomic-ai/gpt4all/pull/268,2023-04-06T23:59:36Z,2023-04-07T14:50:56Z,3,MERGED,3,4,1,0,14.855555555555556,2,3
+17,-,https://github.com/nomic-ai/gpt4all/pull/274,2023-04-07T13:34:57Z,2023-04-15T16:34:04Z,1,MERGED,76,60,1,0,194.98527777777778,0,2
+18,change RAM into VRAM to avoid confusion: Update README.md,https://github.com/nomic-ai/gpt4all/pull/279,2023-04-08T03:57:01Z,2023-05-11T16:35:09Z,1,MERGED,1,1,1,139,804.6355555555556,1,3
+1,make LICENSE a link instead of code-formatted text,https://github.com/openai/whisper/pull/14,2022-09-21T21:17:35Z,2022-09-22T02:51:05Z,1,MERGED,1,1,1,0,5.558333333333334,0,3
+2,fixes the link to the model paper,https://github.com/openai/whisper/pull/24,2022-09-22T01:25:43Z,2022-09-22T02:48:58Z,1,MERGED,1,1,1,0,1.3875,1,3
+3,"Added microphone demo, updated README, added requirements_gpu.txt ",https://github.com/openai/whisper/pull/54,2022-09-23T04:31:21Z,2022-09-23T13:36:24Z,1,MERGED,81,0,4,162,9.084166666666667,5,4
+4,Added section for listing community integrations,https://github.com/openai/whisper/pull/107,2022-09-24T15:09:36Z,2022-09-25T16:31:22Z,3,MERGED,9,0,1,197,25.36277777777778,1,2
+5,changing the code from using print to using logging,https://github.com/openai/whisper/pull/133,2022-09-25T22:47:58Z,2022-09-26T10:14:58Z,1,MERGED,8,6,2,389,11.45,2,3
+6,fix: transcribe verbosity,https://github.com/openai/whisper/pull/140,2022-09-26T14:01:36Z,2022-09-26T18:46:21Z,2,MERGED,6,4,1,101,4.745833333333334,6,2
+7,Fix timestamps and strip extraneous whitespace in WebVTT output,https://github.com/openai/whisper/pull/219,2022-10-01T19:47:46Z,2022-10-03T21:51:08Z,1,MERGED,2,2,1,260,50.056111111111115,0,3
+8,"Add CSV formatted output in transcript, using integer start/end times in milliseconds.",https://github.com/openai/whisper/pull/228,2022-10-02T21:45:50Z,2023-01-22T08:27:17Z,2,MERGED,22,1,2,720,2674.6908333333336,8,4
+9,Easy to use Jupyter Notebook for Youtube video inference,https://github.com/openai/whisper/pull/231,2022-10-03T00:43:12Z,2022-10-04T04:23:45Z,1,MERGED,399,0,1,418,27.675833333333333,4,3
+1,editorial suggestions,https://github.com/microsoft/ML-For-Beginners/pull/32,2021-06-15T12:18:00Z,2021-06-16T20:37:53Z,1,MERGED,45,10,1,184,32.33138888888889,1,2
+2,editorial changes,https://github.com/microsoft/ML-For-Beginners/pull/33,2021-06-15T12:33:24Z,2021-06-16T20:35:43Z,1,MERGED,15,10,1,26,32.03861111111111,2,2
+3,editorial,https://github.com/microsoft/ML-For-Beginners/pull/34,2021-06-15T13:25:28Z,2021-06-16T20:32:29Z,1,MERGED,59,47,1,153,31.116944444444446,1,2
+4,editorial,https://github.com/microsoft/ML-For-Beginners/pull/37,2021-06-17T22:02:19Z,2021-06-19T17:55:04Z,1,MERGED,261,159,1,505,43.87916666666667,1,2
+5,web app editorial,https://github.com/microsoft/ML-For-Beginners/pull/38,2021-06-22T20:27:06Z,2021-06-22T21:31:01Z,1,MERGED,260,201,1,54,1.0652777777777778,0,2
+6,editorial,https://github.com/microsoft/ML-For-Beginners/pull/41,2021-06-22T21:42:41Z,2021-06-23T00:56:10Z,2,MERGED,226,172,1,32,3.2247222222222223,0,2
+7,editorial,https://github.com/microsoft/ML-For-Beginners/pull/42,2021-06-23T12:01:22Z,2021-06-23T18:23:37Z,2,MERGED,157,126,1,203,6.370833333333334,0,2
+8,editorial,https://github.com/microsoft/ML-For-Beginners/pull/43,2021-06-23T12:24:35Z,2021-06-23T14:07:47Z,1,MERGED,126,91,1,59,1.72,0,2
+9,editorial,https://github.com/microsoft/ML-For-Beginners/pull/48,2021-06-24T18:46:19Z,2021-06-24T21:15:22Z,1,MERGED,50,41,1,116,2.484166666666667,0,2
+10,editorial,https://github.com/microsoft/ML-For-Beginners/pull/49,2021-06-24T22:41:00Z,2021-06-25T00:33:40Z,1,MERGED,61,26,1,76,1.8777777777777778,0,2
+11,editorial,https://github.com/microsoft/ML-For-Beginners/pull/50,2021-06-25T11:18:25Z,2021-06-25T20:07:57Z,1,MERGED,72,55,2,118,8.825555555555555,1,2
+12,editorial,https://github.com/microsoft/ML-For-Beginners/pull/51,2021-06-25T11:49:57Z,2021-06-25T19:58:28Z,1,MERGED,273,257,1,49,8.141944444444444,0,2
+13,Reinforcement qlearning,https://github.com/microsoft/ML-For-Beginners/pull/53,2021-06-25T13:08:23Z,2021-06-25T19:54:07Z,1,MERGED,133,103,2,108,6.762222222222222,0,2
+14,editorial,https://github.com/microsoft/ML-For-Beginners/pull/54,2021-06-25T13:42:38Z,2021-06-25T19:50:42Z,1,MERGED,177,158,1,9,6.134444444444444,0,2
+15,editorial,https://github.com/microsoft/ML-For-Beginners/pull/55,2021-06-25T14:00:03Z,2021-06-25T19:42:57Z,1,MERGED,17,0,1,9,5.715,0,2
+16,translate 1.1-intro-to-ML to Simplified Chinese,https://github.com/microsoft/ML-For-Beginners/pull/76,2021-07-02T16:00:11Z,2021-07-03T03:02:40Z,2,MERGED,107,0,1,0,11.04138888888889,1,2
+17,translate 1.2-history-of-ML to Simplified Chinese,https://github.com/microsoft/ML-For-Beginners/pull/78,2021-07-03T02:51:10Z,2021-07-07T12:02:56Z,1,MERGED,116,0,1,4,105.19611111111111,1,2
+18,translate 1.3-fairness to Simplified Chinese,https://github.com/microsoft/ML-For-Beginners/pull/79,2021-07-03T02:53:33Z,2021-07-07T12:03:36Z,1,MERGED,214,0,1,4,105.1675,1,2
+19,translate 1.4-techniques-of-ML to Simplified Chinese,https://github.com/microsoft/ML-For-Beginners/pull/80,2021-07-03T02:55:48Z,2021-07-07T12:04:30Z,1,MERGED,107,0,1,0,105.145,1,2
+20,"Translated 1.1 readme.md, 1-introduction readme.md to Japanese",https://github.com/microsoft/ML-For-Beginners/pull/81,2021-07-03T06:09:57Z,2021-07-03T15:53:48Z,2,MERGED,127,0,2,0,9.730833333333333,2,2
+21,translated 1.2 history of ML README.md to Japanese,https://github.com/microsoft/ML-For-Beginners/pull/82,2021-07-03T09:09:10Z,2021-07-03T15:52:59Z,2,MERGED,114,0,1,0,6.730277777777777,1,2
+22,translate 1.3 fairness readme.md to Japanese,https://github.com/microsoft/ML-For-Beginners/pull/91,2021-07-04T18:44:01Z,2021-07-05T01:29:22Z,1,MERGED,206,2,3,53,6.755833333333333,0,2
+23,Fix typo,https://github.com/microsoft/ML-For-Beginners/pull/92,2021-07-04T19:38:17Z,2021-07-04T21:09:52Z,2,MERGED,1,1,1,26,1.5263888888888888,1,2
+24,fix broken link and change wording,https://github.com/microsoft/ML-For-Beginners/pull/94,2021-07-05T05:40:11Z,2021-07-05T13:17:14Z,2,MERGED,2,2,1,254,7.6175,0,3
+25,Fix typo in 2-Regression/1-Tools ,https://github.com/microsoft/ML-For-Beginners/pull/96,2021-07-05T09:15:55Z,2021-07-05T16:08:53Z,2,MERGED,1,1,2,0,6.882777777777778,2,3
+26,Add Indonesian translation for 1-introduction,https://github.com/microsoft/ML-For-Beginners/pull/97,2021-07-05T11:40:12Z,2021-07-26T03:26:23Z,3,MERGED,606,0,9,110,495.76972222222224,8,2
+27,fix typo,https://github.com/microsoft/ML-For-Beginners/pull/99,2021-07-06T07:39:51Z,2021-07-06T12:37:26Z,2,MERGED,1,1,1,48,4.959722222222222,0,3
+28,Fix a Typo,https://github.com/microsoft/ML-For-Beginners/pull/102,2021-07-06T10:19:23Z,2021-07-06T12:38:17Z,1,MERGED,1,2,1,86,2.315,0,2
+29,Add Indonesian translation for 2-Regresion,https://github.com/microsoft/ML-For-Beginners/pull/103,2021-07-06T12:34:12Z,2021-07-09T14:14:28Z,1,MERGED,1079,0,5,225,73.67111111111112,1,2
+30,Fix csv file path in the code snippet,https://github.com/microsoft/ML-For-Beginners/pull/109,2021-07-07T09:44:41Z,2021-07-07T11:22:44Z,2,MERGED,1,1,1,0,1.6341666666666668,0,3
+1,fix: total commits count,https://github.com/anuraghazra/github-readme-stats/pull/15,2020-07-10T09:15:33Z,2020-07-31T08:07:40Z,5,MERGED,56,2,2,735,502.86861111111114,9,5
+2,Add cache to function response,https://github.com/anuraghazra/github-readme-stats/pull/22,2020-07-11T09:42:52Z,2020-07-15T06:41:44Z,8,MERGED,2,0,2,400,92.9811111111111,9,4
+3,"feat: receives text, title and icon colors from URL",https://github.com/anuraghazra/github-readme-stats/pull/27,2020-07-11T19:11:03Z,2020-07-12T07:54:50Z,1,MERGED,199,21,9,464,12.729722222222222,8,3
+4,add request utils + remove duplicate codes,https://github.com/anuraghazra/github-readme-stats/pull/29,2020-07-11T20:16:32Z,2020-07-12T09:07:21Z,3,MERGED,70,69,3,0,12.846944444444444,2,2
+5,perf: align icons and text vertical,https://github.com/anuraghazra/github-readme-stats/pull/33,2020-07-13T02:39:13Z,2020-07-16T10:21:21Z,1,MERGED,375,141,17,967,79.70222222222222,8,5
+6,improve: improved rating algorithm wip,https://github.com/anuraghazra/github-readme-stats/pull/49,2020-07-14T08:39:55Z,2020-07-15T14:40:54Z,7,MERGED,65,29,4,132,30.01638888888889,4,4
+7,fix: increase github rate limit with multiple PATs,https://github.com/anuraghazra/github-readme-stats/pull/58,2020-07-15T09:34:07Z,2020-07-15T12:23:44Z,13,MERGED,150,30,8,162,2.8269444444444445,18,10
+8,feat(repocard): parse emojis in description,https://github.com/anuraghazra/github-readme-stats/pull/67,2020-07-15T15:44:21Z,2020-07-24T13:26:27Z,3,MERGED,23,3,4,1799,213.70166666666665,20,2
+9,Add gh-index field to stats,https://github.com/anuraghazra/github-readme-stats/pull/76,2020-07-16T00:51:25Z,2020-12-13T18:54:24Z,1,MERGED,26,5,8,458,3618.049722222222,5,3
+10,Display username in repo card (optional),https://github.com/anuraghazra/github-readme-stats/pull/78,2020-07-16T09:48:38Z,2020-07-16T12:33:34Z,3,MERGED,115,30,10,414,2.7488888888888887,4,4
+11,Changed hex colors to be copy/paste workable,https://github.com/anuraghazra/github-readme-stats/pull/81,2020-07-16T23:08:58Z,2020-07-17T15:24:48Z,1,MERGED,4,4,1,233,16.26388888888889,1,2
+1,Assorted tweaks.,https://github.com/thedaviddias/Front-End-Checklist/pull/31,2017-10-19T11:52:58Z,2017-10-19T14:03:38Z,1,MERGED,45,33,1,99,2.1777777777777776,1,2
+2,Added ConvertICO,https://github.com/thedaviddias/Front-End-Checklist/pull/39,2017-10-20T13:17:11Z,2017-10-20T16:37:07Z,1,MERGED,1,0,1,0,3.332222222222222,3,2
+3,Add a few security-related entries,https://github.com/thedaviddias/Front-End-Checklist/pull/40,2017-10-20T14:54:15Z,2017-10-20T16:32:49Z,3,MERGED,20,3,1,222,1.6427777777777777,1,2
+4,Update README.md,https://github.com/thedaviddias/Front-End-Checklist/pull/48,2017-10-20T20:58:37Z,2017-10-23T06:48:29Z,1,MERGED,1,1,1,0,57.83111111111111,1,2
+5,Remove pixel perfection as recommendation,https://github.com/thedaviddias/Front-End-Checklist/pull/51,2017-10-21T15:09:57Z,2018-07-22T04:45:54Z,1,MERGED,0,2,1,1027,6565.599166666667,14,8
+1,updated PR for repo standards,https://github.com/MunGell/awesome-for-beginners/pull/46,2016-11-17T06:13:30Z,2016-11-17T07:48:41Z,2,MERGED,1,0,1,29,1.5863888888888888,0,2
+1,reformat sync status command to work with bash,https://github.com/base-org/node/pull/8,2023-02-25T18:57:04Z,2023-02-26T17:31:23Z,1,MERGED,4,4,1,47,22.571944444444444,0,3
+2,Add badges with official links to README,https://github.com/base-org/node/pull/10,2023-03-01T04:29:13Z,2023-03-03T15:15:16Z,1,MERGED,20,1,1,813,58.7675,1,2
+3,CONTRIBUTING: Add contribution guidelines,https://github.com/base-org/node/pull/11,2023-03-01T14:51:47Z,2023-03-03T22:42:53Z,1,MERGED,56,0,1,173,55.85166666666667,0,2
+4,SECURITY: Add security policy,https://github.com/base-org/node/pull/12,2023-03-01T15:04:02Z,2023-03-03T22:39:22Z,1,MERGED,38,0,1,262,55.58888888888889,1,2
+5,Update README.md,https://github.com/base-org/node/pull/13,2023-03-02T12:35:11Z,2023-03-03T15:24:07Z,1,MERGED,15,1,1,52,26.815555555555555,2,2
+6,[fix] add -s to curl,https://github.com/base-org/node/pull/14,2023-03-02T19:36:54Z,2023-03-03T15:16:38Z,1,MERGED,1,1,1,22,19.662222222222223,0,2
+7,Update README.md,https://github.com/base-org/node/pull/17,2023-03-03T06:29:07Z,2023-03-03T15:19:57Z,2,MERGED,7,1,1,48,8.847222222222221,0,3
+8,"Adds comments / clarifies L1 as ethereum, not Base",https://github.com/base-org/node/pull/19,2023-03-03T14:07:56Z,2023-03-03T22:34:47Z,1,MERGED,6,6,2,60,8.4475,1,2
+9,Add README details on volume mapping and build,https://github.com/base-org/node/pull/21,2023-03-10T13:32:57Z,2023-03-14T16:23:18Z,2,MERGED,18,2,1,89,98.83916666666667,1,4
+10,Fix one grammatical error in README.md,https://github.com/base-org/node/pull/23,2023-03-13T05:20:45Z,2023-03-14T16:24:24Z,1,MERGED,1,1,1,0,35.060833333333335,0,3
+11,Add safeguard for missing jq in the system,https://github.com/base-org/node/pull/24,2023-03-13T22:42:45Z,2023-03-14T16:25:20Z,1,MERGED,1,0,1,456,17.709722222222222,0,2
+12,Bump op-node and op-geth commits to latest,https://github.com/base-org/node/pull/34,2023-03-22T22:06:23Z,2023-03-23T00:27:34Z,3,MERGED,2,3,2,130,2.3530555555555557,2,3
+13,add (commented out) trusted-rpc option to docker-compose.yml,https://github.com/base-org/node/pull/39,2023-04-01T17:37:45Z,2023-04-03T18:28:08Z,1,MERGED,4,0,1,128,48.83972222222222,2,2
+14,web3 -> onchain,https://github.com/base-org/node/pull/40,2023-04-11T21:41:37Z,2023-04-12T01:29:47Z,3,MERGED,1,1,1,27,3.8027777777777776,3,6
+15,Add note about full L1 node requirement,https://github.com/base-org/node/pull/41,2023-04-12T01:32:44Z,2023-04-12T14:02:40Z,3,MERGED,1,1,1,0,12.498888888888889,2,5
+16,Schedule regolith in rollup config,https://github.com/base-org/node/pull/44,2023-04-21T16:36:36Z,2023-04-21T19:06:50Z,1,MERGED,2,1,1,0,2.503888888888889,0,2
+17,Add Docker image tagging and push to ghcr.io,https://github.com/base-org/node/pull/48,2023-05-04T00:55:07Z,2023-05-04T14:38:14Z,1,MERGED,40,0,1,0,13.71861111111111,0,2
+18,Add volume mount for geth data,https://github.com/base-org/node/pull/49,2023-05-04T18:20:21Z,2023-06-15T23:40:54Z,2,MERGED,3,0,2,360,1013.3425,2,5
+19,"Dockerfile Cleanups, remove local git repos, git repo sha256 checks, smaller image, fix entrypoint naming",https://github.com/base-org/node/pull/54,2023-06-09T17:32:25Z,2023-06-15T22:54:42Z,1,MERGED,19,19,5,24573,149.3713888888889,1,4
+20,Minor .env cleanup,https://github.com/base-org/node/pull/62,2023-06-23T05:31:07Z,2023-06-23T16:05:27Z,2,MERGED,12,5,1,132,10.572222222222223,1,3
+21,Prefix app commands with exec for graceful shutdown,https://github.com/base-org/node/pull/72,2023-07-17T12:51:31Z,2023-07-17T23:02:47Z,1,MERGED,2,2,2,392,10.187777777777777,1,2
+1,Update English translations,https://github.com/2dust/v2rayN/pull/680,2020-04-14T14:00:33Z,2020-04-14T16:52:05Z,17,MERGED,69,69,2,74,2.858888888888889,1,2
+1,Add ping/pong to the protocol,https://github.com/coder/code-server/pull/2,2019-03-05T01:17:28Z,2019-03-05T03:26:17Z,3,MERGED,425,8,8,0,2.1469444444444443,0,2
+2,Implement #4 - fix password via CLI,https://github.com/coder/code-server/pull/5,2019-03-05T18:10:01Z,2019-03-06T08:08:43Z,8,MERGED,12,6,2,189,13.978333333333333,0,5
+3,Add task for packaging release,https://github.com/coder/code-server/pull/6,2019-03-05T18:38:06Z,2019-03-07T00:15:53Z,4,MERGED,48,14,8,0,29.629722222222224,1,3
+4,Fixes calculate num of cpu threads for HappyPack,https://github.com/coder/code-server/pull/10,2019-03-05T20:48:29Z,2019-03-05T23:02:50Z,1,MERGED,1,1,1,142,2.2391666666666667,1,2
+5,Open localhost URL with --open,https://github.com/coder/code-server/pull/28,2019-03-06T05:52:28Z,2019-03-07T17:23:55Z,5,MERGED,28,1,3,125,35.524166666666666,3,4
+6,Update to vscode 1.31.1,https://github.com/coder/code-server/pull/45,2019-03-06T17:30:34Z,2019-03-06T19:10:24Z,1,MERGED,10,10,3,0,1.663888888888889,0,2
+7,Fix spelling error,https://github.com/coder/code-server/pull/46,2019-03-06T18:00:17Z,2019-03-07T00:21:34Z,1,MERGED,3,3,1,0,6.354722222222223,0,2
+8,"Generate secure passwords, resolves issue #26",https://github.com/coder/code-server/pull/51,2019-03-06T21:13:24Z,2019-03-07T00:25:45Z,1,MERGED,4,7,1,777,3.2058333333333335,0,3
+9,Revise welcome page,https://github.com/coder/code-server/pull/54,2019-03-06T22:47:58Z,2019-03-07T16:25:47Z,1,MERGED,137,0,3,51,17.630277777777778,4,4
+10,Add Dockerfile and some cleanup,https://github.com/coder/code-server/pull/57,2019-03-06T23:02:20Z,2019-03-07T02:59:44Z,23,MERGED,57,5,5,13,3.9566666666666666,0,6
+11,make docker build working with after a fresh checkout,https://github.com/coder/code-server/pull/72,2019-03-07T08:07:12Z,2019-03-07T21:28:36Z,6,MERGED,1214,1265,13,0,13.356666666666667,3,4
+12,Generate the en_US.UTF-8 locale in the docker image,https://github.com/coder/code-server/pull/84,2019-03-07T14:01:50Z,2019-03-07T19:08:10Z,1,MERGED,2,0,1,77,5.105555555555555,1,2
+13,update example docker command port bind options,https://github.com/coder/code-server/pull/88,2019-03-07T15:55:27Z,2019-03-07T17:31:02Z,2,MERGED,1,1,1,197,1.5930555555555554,2,4
+14,Patch welcome page,https://github.com/coder/code-server/pull/95,2019-03-07T17:33:19Z,2019-03-20T14:22:24Z,2,MERGED,25,0,1,40,308.81805555555553,1,3
+15,Docker issues,https://github.com/coder/code-server/pull/104,2019-03-07T20:43:55Z,2019-03-16T17:47:47Z,24,MERGED,95,10,7,246,213.06444444444443,7,9
+16,Improve .dockerignore,https://github.com/coder/code-server/pull/111,2019-03-07T21:58:40Z,2019-03-08T17:13:25Z,2,MERGED,8,0,1,66,19.245833333333334,0,4
+17,Add note about extensions needing to be OSS,https://github.com/coder/code-server/pull/113,2019-03-08T00:44:00Z,2019-03-22T19:58:14Z,4,MERGED,4,0,1,387,355.2372222222222,8,6
+18,Feature/1.32.0 update,https://github.com/coder/code-server/pull/117,2019-03-08T01:57:36Z,2019-03-08T16:37:04Z,1,MERGED,371,408,16,0,14.657777777777778,0,2
+19,Fixed documentation download links based on latest version,https://github.com/coder/code-server/pull/130,2019-03-08T10:59:07Z,2019-03-18T15:45:20Z,5,MERGED,68,19,3,415,244.77027777777778,5,4
+20,Use a timing-safe equality check for passwords,https://github.com/coder/code-server/pull/133,2019-03-08T13:07:04Z,2019-03-09T17:24:37Z,1,MERGED,16,1,3,526,28.2925,0,2
+21,Add support for Kubernetes ,https://github.com/coder/code-server/pull/146,2019-03-08T18:57:17Z,2019-03-18T15:44:09Z,6,MERGED,117,0,2,760,236.7811111111111,14,8
+22,Added serviceworker and web-manifest,https://github.com/coder/code-server/pull/154,2019-03-09T00:20:31Z,2019-04-16T20:44:58Z,15,MERGED,676,77,6,886,932.4075,26,10
+23,Adhere to XDG base directory spec for dataDir and logDir,https://github.com/coder/code-server/pull/156,2019-03-09T01:55:33Z,2019-03-09T17:11:31Z,2,MERGED,13,3,2,529,15.266111111111112,0,3
+24,Fix typo in Dockerfile,https://github.com/coder/code-server/pull/159,2019-03-09T07:05:07Z,2019-03-09T17:06:48Z,1,MERGED,1,1,1,266,10.028055555555556,0,2
+25,Improve github issue template,https://github.com/coder/code-server/pull/162,2019-03-09T09:45:53Z,2019-03-09T17:07:43Z,1,MERGED,19,11,4,99,7.363888888888889,0,2
+26,Clone exact vscode release branch when build task,https://github.com/coder/code-server/pull/167,2019-03-09T11:03:43Z,2019-03-10T15:02:09Z,2,MERGED,2,7,1,216,27.97388888888889,7,3
+1,Use modules from `web_modules` if present,https://github.com/vitejs/vite/pull/4,2020-04-22T11:38:10Z,2020-04-23T13:50:49Z,3,MERGED,37,1,1,1012,26.210833333333333,2,3
+2,Added useful tip with local addresses,https://github.com/vitejs/vite/pull/5,2020-04-23T04:01:02Z,2020-04-24T03:38:06Z,2,MERGED,22,1,2,350,23.61777777777778,2,2
+3,feat: add asset options into build options,https://github.com/vitejs/vite/pull/53,2020-05-05T12:38:28Z,2020-05-05T15:30:05Z,1,MERGED,37,13,3,0,2.8602777777777777,0,2
+4,feat: expose moduleRewrite and compileSFCStyle,https://github.com/vitejs/vite/pull/104,2020-05-09T10:58:55Z,2020-05-09T19:02:06Z,5,MERGED,2,1,2,66,8.053055555555556,2,2
+5,Fix #111. An empty target dir is ok,https://github.com/vitejs/vite/pull/112,2020-05-10T07:51:51Z,2020-05-10T22:18:13Z,1,MERGED,9,8,1,0,14.439444444444444,1,2
+1,install Foundation via the ninja script and add the test phase for Foundation,https://github.com/swiftlang/swift/pull/4,2015-11-18T23:01:04Z,2015-11-19T19:39:53Z,1,MERGED,23,3,2,543,20.646944444444443,4,5
+1,small grammar fix,https://github.com/nestjs/nest/pull/60,2017-05-12T18:27:51Z,2017-05-13T09:52:13Z,1,MERGED,1,1,1,0,15.40611111111111,2,4
+2,fix(package): Set typescript version as ~2.3.4 instead of ^2.2.1 and …,https://github.com/nestjs/nest/pull/111,2017-07-12T17:57:23Z,2017-09-12T11:18:22Z,2,MERGED,2,2,1,33,1481.3497222222222,4,4
+3,Release v4,https://github.com/nestjs/nest/pull/120,2017-07-23T09:37:31Z,2017-09-12T11:12:53Z,2,MERGED,19530,1010,285,176,1225.5894444444446,16,8
+4,Bug/Fixing a typo in error messages,https://github.com/nestjs/nest/pull/123,2017-07-26T15:12:28Z,2017-09-12T11:16:54Z,1,MERGED,2,2,1,60,1148.0738888888889,3,4
+5,Update Readme.md,https://github.com/nestjs/nest/pull/137,2017-08-20T12:51:22Z,2017-09-12T11:16:11Z,1,MERGED,2,0,1,17,550.4136111111111,6,4
+6,Add Lerna functionality,https://github.com/nestjs/nest/pull/202,2017-10-23T03:56:58Z,2017-10-31T12:06:53Z,1,MERGED,11872,23,16,351,200.1652777777778,10,5
+7,Fixed typo in Readme,https://github.com/nestjs/nest/pull/207,2017-10-25T18:26:15Z,2017-10-30T19:54:20Z,1,MERGED,1,1,1,63,121.46805555555555,3,4
+8,"Bugfixes 18X, lerna, remove codependencies, update express",https://github.com/nestjs/nest/pull/225,2017-11-02T19:11:25Z,2017-11-03T14:33:06Z,1,MERGED,203,221,48,0,19.36138888888889,4,3
+9,Use route custom param decorators,https://github.com/nestjs/nest/pull/240,2017-11-11T19:28:11Z,2017-11-22T19:19:19Z,1,MERGED,0,0,0,718,263.8522222222222,5,4
+10,Create ISSUE_TEMPLATE to quickly sort out issues,https://github.com/nestjs/nest/pull/246,2017-11-14T22:29:36Z,2017-11-19T19:01:26Z,8,MERGED,46,0,1,0,116.53055555555555,5,4
+11,Add contribution guidelines v1,https://github.com/nestjs/nest/pull/250,2017-11-17T01:52:01Z,2017-12-15T21:55:35Z,10,MERGED,274,1,3,70,692.0594444444445,12,4
+12,ci(): add format checker,https://github.com/nestjs/nest/pull/251,2017-11-17T02:04:19Z,2017-12-21T19:15:47Z,9,MERGED,19621,27274,897,361,833.1911111111111,7,4
+13,"fix(@nestjs/core) application context, support symbol",https://github.com/nestjs/nest/pull/278,2017-11-30T05:56:38Z,2017-12-15T13:30:56Z,2,MERGED,2,2,1,153,367.57166666666666,5,4
+1,Added support for Windows (hopefully),https://github.com/3b1b/manim/pull/38,2017-06-29T11:59:45Z,2017-08-05T00:46:06Z,2,MERGED,18,3,1,275,876.7725,0,3
+2,Improved stability for Windows NT OS,https://github.com/3b1b/manim/pull/47,2017-09-27T09:50:10Z,2017-09-27T15:55:07Z,1,MERGED,14,3,2,288,6.0825,0,3
+1,Added Stanford Networks class and fixed dead links,https://github.com/Developer-Y/cs-video-courses/pull/44,2017-02-05T03:17:21Z,2017-02-05T08:07:10Z,1,MERGED,4,2,1,96,4.830277777777778,1,3
+1,新增糖醋鲤鱼,https://github.com/Anduin2017/HowToCook/pull/16,2021-02-15T02:54:48Z,2021-02-15T05:48:01Z,1,MERGED,78,1,4,48,2.8869444444444445,0,2
+2,TAGOST ADD #油泼辣子,https://github.com/Anduin2017/HowToCook/pull/18,2021-04-30T07:36:18Z,2021-06-03T08:01:19Z,1,MERGED,25,0,1,0,816.4169444444444,0,2
+3,增加太阳蛋做法,https://github.com/Anduin2017/HowToCook/pull/24,2022-02-15T09:29:25Z,2022-02-17T06:26:30Z,3,MERGED,42,3,2,0,44.951388888888886,5,5
+4,肉的一段处理第3步不严谨，需加入水,https://github.com/Anduin2017/HowToCook/pull/38,2022-02-17T02:56:02Z,2022-02-17T06:25:50Z,1,MERGED,1,1,1,0,3.4966666666666666,0,2
+5,Create 辣椒炒肉.md,https://github.com/Anduin2017/HowToCook/pull/40,2022-02-17T04:27:55Z,2022-02-17T06:24:32Z,1,MERGED,47,0,1,12,1.9436111111111112,0,2
+6,Create 牛排.md,https://github.com/Anduin2017/HowToCook/pull/47,2022-02-17T13:11:33Z,2024-01-20T05:30:43Z,3,MERGED,36,0,1,0,16840.319444444445,0,5
+7,add 清炒黄瓜的做法,https://github.com/Anduin2017/HowToCook/pull/54,2022-02-18T03:03:35Z,2022-02-28T23:48:47Z,5,MERGED,61,0,2,0,260.75333333333333,2,3
+8,添加老干妈拌面和醪糟小汤圆,https://github.com/Anduin2017/HowToCook/pull/56,2022-02-18T03:47:58Z,2022-02-18T05:00:27Z,3,MERGED,63,0,3,0,1.2080555555555557,2,3
+9,Add 厨房基本操作注意事项,https://github.com/Anduin2017/HowToCook/pull/72,2022-02-18T09:31:47Z,2022-02-19T14:30:29Z,4,MERGED,82,0,1,14,28.97833333333333,3,3
+10,更新了西红柿鸡蛋,https://github.com/Anduin2017/HowToCook/pull/77,2022-02-18T10:38:09Z,2022-02-19T16:02:18Z,3,MERGED,63,9,1,15,29.4025,3,4
+11,优化一些形式化描述,https://github.com/Anduin2017/HowToCook/pull/80,2022-02-18T11:53:48Z,2022-02-19T17:44:57Z,3,MERGED,2,3,2,0,29.8525,4,3
+12,Update 米饭.md,https://github.com/Anduin2017/HowToCook/pull/82,2022-02-18T12:39:29Z,2022-02-18T16:31:39Z,1,MERGED,3,3,1,44,3.8694444444444445,0,2
+13,Add: 速冻水饺,https://github.com/Anduin2017/HowToCook/pull/85,2022-02-18T14:07:24Z,2022-02-19T15:55:20Z,4,MERGED,39,0,1,21,25.79888888888889,7,4
+14,add missing spaces between half and full-width characters,https://github.com/Anduin2017/HowToCook/pull/88,2022-02-18T15:11:54Z,2022-02-19T06:05:32Z,3,MERGED,8,0,1,62,14.893888888888888,5,3
+15,Suppress MD024,https://github.com/Anduin2017/HowToCook/pull/91,2022-02-18T16:33:31Z,2022-02-19T06:42:05Z,2,MERGED,1,1,1,14,14.142777777777777,0,2
+16,Update 米粥.md,https://github.com/Anduin2017/HowToCook/pull/93,2022-02-18T19:58:45Z,2022-02-19T16:06:29Z,1,MERGED,6,0,1,39,20.128888888888888,1,2
+17,改进计算菜的数量的算法,https://github.com/Anduin2017/HowToCook/pull/94,2022-02-19T00:54:46Z,2022-02-20T08:32:31Z,6,MERGED,56,7,1,123,31.629166666666666,7,3
+18,尖椒炒牛肉,https://github.com/Anduin2017/HowToCook/pull/96,2022-02-19T04:35:11Z,2022-02-19T08:56:00Z,4,MERGED,53,0,2,0,4.3469444444444445,3,2
+19,添加皮蛋瘦肉粥操作,https://github.com/Anduin2017/HowToCook/pull/100,2022-02-19T06:49:03Z,2022-02-19T10:44:11Z,2,MERGED,69,0,2,42,3.918888888888889,1,2
+20,[Contributing Rule Change] 贡献指南规范化,https://github.com/Anduin2017/HowToCook/pull/104,2022-02-19T10:02:43Z,2022-02-20T09:20:34Z,6,MERGED,73,4,3,0,23.2975,2,3
+21,小炒肉,https://github.com/Anduin2017/HowToCook/pull/106,2022-02-19T12:19:26Z,2022-02-19T15:33:34Z,2,MERGED,55,0,2,5,3.2355555555555555,0,2
+1,Added GET to ZRANGEBYSCORE commands,https://github.com/redis/redis/pull/25,2010-11-11T22:43:05Z,2024-03-06T12:27:10Z,1,MERGED,70,6,3,482,116725.73472222222,0,1
+1,adding new Linux answers,https://github.com/bregman-arie/devops-exercises/pull/10,2019-10-20T19:02:36Z,2019-10-21T13:36:56Z,2,MERGED,12,0,1,18,18.572222222222223,1,2
+2,Added SQL questions to the ReadME,https://github.com/bregman-arie/devops-exercises/pull/11,2019-10-21T03:51:54Z,2019-10-21T08:16:07Z,1,MERGED,185,1,2,148,4.403611111111111,2,2
+3,add Python 'Error' question + answer + Exception ansers,https://github.com/bregman-arie/devops-exercises/pull/16,2019-10-22T11:28:06Z,2019-10-22T12:59:56Z,1,MERGED,67,2,1,0,1.5305555555555554,0,2
+4,SQL Questions and Answers,https://github.com/bregman-arie/devops-exercises/pull/18,2019-10-22T12:10:39Z,2019-10-23T17:07:49Z,1,MERGED,355,1,1,46,28.95277777777778,3,3
+5,Python Question and Answers,https://github.com/bregman-arie/devops-exercises/pull/19,2019-10-22T12:16:29Z,2019-10-23T16:52:54Z,3,MERGED,271,1,1,30,28.606944444444444,1,3
+6,Add Network Question and Answers,https://github.com/bregman-arie/devops-exercises/pull/20,2019-10-22T12:23:31Z,2019-10-23T16:21:08Z,1,MERGED,147,1,1,44,27.960277777777776,0,2
+7,Answered 8th beginner python question,https://github.com/bregman-arie/devops-exercises/pull/25,2019-10-22T16:18:14Z,2019-10-22T21:09:19Z,3,MERGED,21,1,1,0,4.851388888888889,0,4
+8,Updated the Beginners Section of Terraform,https://github.com/bregman-arie/devops-exercises/pull/45,2019-11-26T06:11:41Z,2019-11-28T12:38:46Z,3,MERGED,12,8,1,106,54.451388888888886,4,3
+9,Added Security Related Questions,https://github.com/bregman-arie/devops-exercises/pull/67,2020-01-21T22:55:29Z,2020-01-22T07:46:49Z,1,MERGED,25,3,1,157,8.855555555555556,0,2
+1,fix(doc): npm run doc fixed,https://github.com/microsoft/playwright/pull/2,2019-11-19T05:33:13Z,2019-11-19T21:59:52Z,4,MERGED,323,327,3,0,16.444166666666668,0,2
+2,chore: remove unused files / events,https://github.com/microsoft/playwright/pull/4,2019-11-19T15:43:01Z,2019-11-19T18:49:10Z,1,MERGED,0,174,3,0,3.1025,0,2
+3,docs: show browser test stats in the readme,https://github.com/microsoft/playwright/pull/24,2019-11-19T20:32:59Z,2019-11-20T00:30:25Z,1,MERGED,90,0,3,0,3.957222222222222,0,2
+4,chore: remove page.metrics API,https://github.com/microsoft/playwright/pull/30,2019-11-20T04:00:31Z,2019-11-20T17:28:23Z,1,MERGED,3,128,5,0,13.464444444444444,0,2
+5,chore: remove page.queryObjects API,https://github.com/microsoft/playwright/pull/31,2019-11-20T04:24:51Z,2019-11-20T17:28:41Z,1,MERGED,0,92,4,0,13.063888888888888,4,3
+6,feat(webkit): pass all keyboard tests,https://github.com/microsoft/playwright/pull/39,2019-11-20T23:31:55Z,2019-11-21T00:39:13Z,1,MERGED,53,40,5,131,1.1216666666666666,0,2
+7,chore: introduce injected source lazily evaluated by execution context,https://github.com/microsoft/playwright/pull/42,2019-11-21T01:09:15Z,2019-11-21T22:43:31Z,3,MERGED,88,5,6,83,21.57111111111111,1,2
+8,chore: move interception API into features/,https://github.com/microsoft/playwright/pull/43,2019-11-21T04:56:59Z,2019-11-21T22:41:39Z,1,MERGED,294,217,18,0,17.744444444444444,0,2
+9,feat(fill): option to wait for the element to become enabled before filling,https://github.com/microsoft/playwright/pull/44,2019-11-21T17:59:02Z,2019-11-27T17:14:34Z,3,MERGED,80,17,8,0,143.2588888888889,1,3
+10,feat(select): allow to select options by value/label/id/index,https://github.com/microsoft/playwright/pull/46,2019-11-22T00:18:51Z,2019-11-22T05:19:22Z,1,MERGED,171,28,8,0,5.008611111111111,0,2
+11,feat: remove all environment variables and references to puppeteer-core,https://github.com/microsoft/playwright/pull/47,2019-11-22T00:36:20Z,2019-11-22T05:17:24Z,1,MERGED,34,168,11,353,4.684444444444445,0,2
+12,feat(chromium): roll Chromium to r717627,https://github.com/microsoft/playwright/pull/49,2019-11-22T01:11:47Z,2019-11-22T05:16:00Z,1,MERGED,20,9,3,0,4.070277777777778,0,2
+13,feat(engines): introduce a css selector engine and a way to query it,https://github.com/microsoft/playwright/pull/50,2019-11-22T01:29:39Z,2019-11-22T23:36:18Z,3,MERGED,340,48,17,0,22.110833333333332,0,3
+14,chore: remove connection / session redundancy,https://github.com/microsoft/playwright/pull/51,2019-11-22T05:14:58Z,2019-11-22T18:05:33Z,1,MERGED,30,57,4,0,12.843055555555555,1,2
+15,chore: move wsEndpoint and browser target APIs to features/,https://github.com/microsoft/playwright/pull/52,2019-11-22T06:26:26Z,2019-11-22T19:25:53Z,2,MERGED,39,45,6,0,12.990833333333333,0,2
+16,chore: unify emulateMedia APIs,https://github.com/microsoft/playwright/pull/53,2019-11-22T16:59:30Z,2019-11-22T19:24:56Z,2,MERGED,74,101,7,0,2.423888888888889,0,2
+17,feat(page): support Page.evaluateOnNewDocument for WebKit,https://github.com/microsoft/playwright/pull/55,2019-11-22T19:54:38Z,2019-11-22T21:14:08Z,3,MERGED,6,1,2,0,1.325,1,2
+18,feat: playwright.downloadBrowser,https://github.com/microsoft/playwright/pull/56,2019-11-22T19:57:39Z,2019-12-05T01:58:38Z,5,MERGED,65,32,12,237,294.0163888888889,1,3
+19,fix(page): support multiple bootstrap scripts,https://github.com/microsoft/playwright/pull/59,2019-11-22T22:09:46Z,2019-11-23T00:25:37Z,1,MERGED,16,1,2,10,2.2641666666666667,0,2
+20,chore: introduce types for all evaluation functions,https://github.com/microsoft/playwright/pull/65,2019-11-23T21:13:58Z,2019-11-25T23:07:28Z,3,MERGED,162,129,17,573,49.891666666666666,2,3
+21,chore(chromium): make WaitTask not depend on DOMWorld,https://github.com/microsoft/playwright/pull/66,2019-11-24T01:29:15Z,2019-11-26T00:55:03Z,2,MERGED,66,42,1,36,47.43,0,2
+22,chore: reuse WaitTask between browsers,https://github.com/microsoft/playwright/pull/67,2019-11-24T01:29:21Z,2019-11-26T04:28:34Z,1,MERGED,243,538,4,0,50.98694444444445,1,2
+23,chore: move methods with a single caller from DOMWorld to Frame,https://github.com/microsoft/playwright/pull/68,2019-11-24T16:59:50Z,2019-11-26T16:57:53Z,1,MERGED,391,451,6,0,47.9675,1,2
+24,"chore: move Keyboard to common, with RawKeyboardImpl per vendor",https://github.com/microsoft/playwright/pull/69,2019-11-25T18:13:20Z,2019-11-25T19:19:20Z,1,MERGED,287,452,13,135,1.1,0,2
+1,Add oneliner for batch quantization,https://github.com/ggerganov/llama.cpp/pull/17,2023-03-11T17:45:06Z,2023-03-13T16:26:23Z,3,MERGED,6,0,1,0,46.68805555555556,4,5
+2,Feature/repeat penalty,https://github.com/ggerganov/llama.cpp/pull/20,2023-03-11T19:25:03Z,2023-03-12T09:27:42Z,1,MERGED,36,3,3,265,14.044166666666667,1,2
+3,Windows fixes,https://github.com/ggerganov/llama.cpp/pull/31,2023-03-12T03:27:55Z,2023-03-12T20:15:00Z,2,MERGED,30,19,4,522,16.78472222222222,0,2
+4,Nix flake,https://github.com/ggerganov/llama.cpp/pull/40,2023-03-12T09:25:56Z,2023-03-17T22:03:48Z,5,MERGED,95,0,3,1469,132.63111111111112,16,6
+5,Reduce model loading time,https://github.com/ggerganov/llama.cpp/pull/43,2023-03-12T10:43:37Z,2023-03-13T16:33:44Z,3,MERGED,4,0,1,226,29.835277777777776,1,2
+6,Fix typo in README,https://github.com/ggerganov/llama.cpp/pull/45,2023-03-12T11:10:37Z,2023-03-12T20:30:09Z,1,MERGED,1,1,1,0,9.325555555555555,0,3
+7,"use fprintf for diagnostic output, keep printf only for printing model output",https://github.com/ggerganov/llama.cpp/pull/48,2023-03-12T13:34:22Z,2023-03-13T16:39:56Z,2,MERGED,46,46,1,127,27.092777777777776,6,4
+8,fix: add POSIX functionality for Linux compilation,https://github.com/ggerganov/llama.cpp/pull/51,2023-03-12T14:42:43Z,2023-03-22T17:20:25Z,1,MERGED,3,0,1,105,242.62833333333333,7,4
+9,Add back top_k,https://github.com/ggerganov/llama.cpp/pull/56,2023-03-12T18:13:33Z,2023-03-12T20:23:15Z,2,MERGED,12,89,3,75,2.1616666666666666,1,4
+10,Misc: Make the conversion script executable,https://github.com/ggerganov/llama.cpp/pull/68,2023-03-13T00:09:01Z,2023-03-14T17:13:39Z,1,MERGED,3,1,2,103,41.077222222222225,2,2
+11,Misc: Use argparse,https://github.com/ggerganov/llama.cpp/pull/72,2023-03-13T00:35:52Z,2023-03-13T16:17:55Z,2,MERGED,32,38,2,351,15.700833333333334,2,4
+12,Initial support for CMake,https://github.com/ggerganov/llama.cpp/pull/75,2023-03-13T02:33:08Z,2023-03-13T17:12:34Z,1,MERGED,123,0,1,434,14.657222222222222,2,2
+13,Create a C-style API similar to whisper.cpp,https://github.com/ggerganov/llama.cpp/pull/77,2023-03-13T03:04:55Z,2023-03-21T20:52:07Z,18,MERGED,1616,1186,8,567,209.78666666666666,6,5
+14,Fix UTF-8 handling (including colors),https://github.com/ggerganov/llama.cpp/pull/79,2023-03-13T05:07:22Z,2023-03-13T16:24:19Z,2,MERGED,27,11,2,737,11.2825,1,4
+15,Add NetBSD support.,https://github.com/ggerganov/llama.cpp/pull/90,2023-03-13T11:25:53Z,2023-03-13T16:40:54Z,1,MERGED,6,2,3,0,5.250277777777778,0,2
+16,Add quantize script for batch quantization,https://github.com/ggerganov/llama.cpp/pull/92,2023-03-13T12:50:30Z,2023-03-13T16:15:21Z,1,MERGED,18,31,2,145,3.4141666666666666,3,4
+17,Add windows to the CI,https://github.com/ggerganov/llama.cpp/pull/98,2023-03-13T18:33:45Z,2023-03-13T20:29:11Z,1,MERGED,14,0,1,0,1.923888888888889,0,2
+18,Refactoring `convert-pth-to-ggml.py`: more concise and readable,https://github.com/ggerganov/llama.cpp/pull/109,2023-03-14T00:59:06Z,2023-03-19T17:17:40Z,1,MERGED,84,108,1,0,136.30944444444444,2,4
+19,add ptread link to fix cmake build under linux,https://github.com/ggerganov/llama.cpp/pull/114,2023-03-14T04:22:51Z,2023-03-17T16:38:24Z,1,MERGED,43,3,2,976,84.25916666666667,6,5
+20,add SIGINT support for _WIN32 environments,https://github.com/ggerganov/llama.cpp/pull/120,2023-03-14T06:40:00Z,2023-03-15T19:56:25Z,1,MERGED,9,2,1,0,37.27361111111111,0,2
+21,Fix potential licensing issue,https://github.com/ggerganov/llama.cpp/pull/126,2023-03-14T10:15:26Z,2023-03-15T19:39:07Z,1,MERGED,1,1,1,447,33.39472222222222,6,5
+22,Adding missing features of CMakeLists.txt & Refactoring,https://github.com/ggerganov/llama.cpp/pull/131,2023-03-14T12:57:49Z,2023-03-21T00:37:17Z,9,MERGED,153,76,1,1655,155.65777777777777,4,5
+23,🚀 Dockerize llamacpp,https://github.com/ggerganov/llama.cpp/pull/132,2023-03-14T13:21:47Z,2023-03-17T09:47:06Z,9,MERGED,270,2,9,1320,68.42194444444445,20,7
+24,Don't use vdotq_s32 if it's not available,https://github.com/ggerganov/llama.cpp/pull/139,2023-03-14T17:54:20Z,2023-03-14T19:34:37Z,2,MERGED,32,1,1,285,1.6713888888888888,0,2
+25,Use `tokenizer.vocab_size()` instead of hardcoding 32000 when converting,https://github.com/ggerganov/llama.cpp/pull/142,2023-03-14T20:34:30Z,2023-03-15T19:37:50Z,1,MERGED,1,1,1,287,23.055555555555557,0,2
+1,增加Token使用量显示 ,https://github.com/binary-husky/gpt_academic/pull/86,2023-03-29T07:29:42Z,2023-04-05T06:28:06Z,1,MERGED,6627,362,29,13,166.97333333333333,2,26
+2,update en2ch prompt,https://github.com/binary-husky/gpt_academic/pull/388,2023-04-09T03:53:51Z,2023-04-09T16:39:54Z,1,MERGED,1,2,2,2939,12.7675,4,4
+1,Response section expands if hidden when sending a request,https://github.com/hoppscotch/hoppscotch/pull/1,2019-08-22T09:12:28Z,2019-08-22T10:33:46Z,1,MERGED,3,0,1,354,1.355,11,3
+2,History is persisted in local storage,https://github.com/hoppscotch/hoppscotch/pull/3,2019-08-22T11:47:22Z,2019-08-22T12:57:28Z,1,MERGED,10,1,1,102,1.1683333333333332,5,3
+3,feat(PWA) make PWA easily installable,https://github.com/hoppscotch/hoppscotch/pull/10,2019-08-22T19:53:26Z,2019-08-23T04:18:59Z,1,MERGED,31,0,1,31,8.425833333333333,2,3
+4,fix for pwa install issue,https://github.com/hoppscotch/hoppscotch/pull/20,2019-08-22T22:26:29Z,2019-08-23T00:50:32Z,1,MERGED,1,1,1,39,2.4008333333333334,2,3
+5,Auto Update Dependencies ,https://github.com/hoppscotch/hoppscotch/pull/27,2019-08-23T05:46:50Z,2019-08-23T13:58:43Z,1,MERGED,2,0,1,73,8.198055555555555,5,4
+6,`Copy Response` Button ,https://github.com/hoppscotch/hoppscotch/pull/34,2019-08-23T11:30:59Z,2019-08-23T16:47:28Z,1,MERGED,11,2,1,76,5.2747222222222225,7,4
+7,Add Share Buttons ,https://github.com/hoppscotch/hoppscotch/pull/42,2019-08-23T22:05:36Z,2019-08-28T00:52:38Z,1,MERGED,8,0,1,0,98.7838888888889,4,4
+8,🎨 Add theme support (and settings storage),https://github.com/hoppscotch/hoppscotch/pull/55,2019-08-25T00:01:14Z,2019-08-25T01:57:34Z,2,MERGED,854,420,15,1194,1.9388888888888889,9,4
+9,Feature/raw input,https://github.com/hoppscotch/hoppscotch/pull/63,2019-08-25T21:15:05Z,2019-08-26T05:59:59Z,2,MERGED,61,27,1,0,8.748333333333333,8,4
+10,Added Copy response Button,https://github.com/hoppscotch/hoppscotch/pull/64,2019-08-26T06:32:38Z,2019-08-26T08:25:30Z,1,MERGED,22,3,2,26,1.8811111111111112,4,3
+11,Enable shareable requests with parameters in url queries,https://github.com/hoppscotch/hoppscotch/pull/72,2019-08-27T22:20:05Z,2019-08-30T01:56:22Z,2,MERGED,8,0,1,723,51.60472222222222,14,4
+12,Readable GitHub logo,https://github.com/hoppscotch/hoppscotch/pull/80,2019-08-28T11:11:29Z,2019-08-28T13:32:04Z,2,MERGED,8,2,2,142,2.3430555555555554,5,4
+1,Adding chapter 1 Introduction to generative AI,https://github.com/microsoft/generative-ai-for-beginners/pull/21,2023-09-21T16:32:34Z,2023-10-23T11:48:48Z,11,MERGED,91,19,9,164,763.2705555555556,2,3
+2,Feat/add codespaces jupyter,https://github.com/microsoft/generative-ai-for-beginners/pull/22,2023-09-27T12:45:43Z,2023-10-11T18:40:00Z,1,MERGED,632,77,10,86,341.90472222222223,1,2
+3,Adding chapter 2 - Introduction to Generative AI,https://github.com/microsoft/generative-ai-for-beginners/pull/23,2023-09-29T18:14:11Z,2023-10-23T11:49:24Z,4,MERGED,156,1,13,260,569.5869444444445,0,3
+4,"Building Chat Applications, Lesson 7",https://github.com/microsoft/generative-ai-for-beginners/pull/24,2023-10-03T09:24:54Z,2023-10-23T21:00:02Z,3,MERGED,2996,0,6,0,491.5855555555556,1,2
+5,Lesson 12: designing UX for AI,https://github.com/microsoft/generative-ai-for-beginners/pull/25,2023-10-05T18:49:26Z,2023-10-23T11:54:25Z,1,MERGED,103,0,9,62,425.0830555555556,0,3
+6,Adding Lesson 10: Build Low Code AI Applications,https://github.com/microsoft/generative-ai-for-beginners/pull/26,2023-10-06T13:49:50Z,2023-10-23T11:54:01Z,2,MERGED,244,0,15,0,406.0697222222222,0,2
+7,Lesson 4 - Intro to Prompt Engineering,https://github.com/microsoft/generative-ai-for-beginners/pull/27,2023-10-07T00:09:18Z,2023-10-23T11:50:24Z,2,MERGED,391,3,14,243,395.685,1,2
+8,Added the Notebook for Lesson 11,https://github.com/microsoft/generative-ai-for-beginners/pull/28,2023-10-09T20:33:19Z,2023-10-22T18:48:08Z,1,MERGED,687,0,3,44,310.24694444444447,0,2
+9,"Adding Chapter 6 , Text Generation app, adding text generation, initial commit",https://github.com/microsoft/generative-ai-for-beginners/pull/29,2023-10-16T18:47:52Z,2023-10-26T07:13:03Z,4,MERGED,1653,0,4,113,228.41972222222222,0,2
+10,Adding Chapter 9,https://github.com/microsoft/generative-ai-for-beginners/pull/30,2023-10-18T17:01:37Z,2023-10-26T07:15:31Z,1,MERGED,969,0,14,49,182.23166666666665,0,3
+11,Building Search Apps with Vectors,https://github.com/microsoft/generative-ai-for-beginners/pull/32,2023-10-19T10:02:24Z,2023-10-25T22:00:36Z,1,MERGED,2052,0,18,75,155.97,0,2
+12,Final review - Chapter 2,https://github.com/microsoft/generative-ai-for-beginners/pull/38,2023-10-26T13:14:43Z,2023-10-27T13:24:06Z,16,MERGED,44,17,1,119,24.156388888888888,0,2
+1,Rename README to README.rst and enhance formatting,https://github.com/python/cpython/pull/2,2017-02-10T22:41:59Z,2017-02-11T01:21:39Z,8,MERGED,44,51,2,207,2.661111111111111,14,8
+2,bpo-29403: Fix mock's broken autospec behavior on method-bound builtin functions,https://github.com/python/cpython/pull/3,2017-02-10T23:07:39Z,2017-07-20T00:01:14Z,3,MERGED,18,1,3,803,3816.8930555555557,16,10
+3,Update Python Software Foundation Copyright Year.,https://github.com/python/cpython/pull/4,2017-02-10T23:15:26Z,2017-02-14T16:09:30Z,7,MERGED,45,46,38,113,88.9011111111111,18,12
+4,Change some mercurial/ hg.python.org references.,https://github.com/python/cpython/pull/8,2017-02-10T23:58:12Z,2017-02-16T15:18:43Z,5,MERGED,6,6,4,0,135.34194444444444,5,7
+5,Fix some deprecation warnings in Doc/conf.py,https://github.com/python/cpython/pull/9,2017-02-11T00:04:16Z,2017-02-11T04:47:38Z,1,MERGED,17,17,3,108,4.722777777777778,4,6
+6,bpo-29474: Improve documentation for weakref.WeakValueDictionary,https://github.com/python/cpython/pull/10,2017-02-11T00:24:44Z,2017-02-12T16:17:51Z,1,MERGED,5,5,1,220,39.88527777777778,3,3
+7,bpo-29474: Improve documentation for weakref.WeakValueDictionary,https://github.com/python/cpython/pull/11,2017-02-11T00:33:40Z,2017-02-11T01:44:58Z,1,MERGED,2,2,1,113,1.1883333333333332,1,3
+8,bpo-29524: Add Objects/call.c file,https://github.com/python/cpython/pull/12,2017-02-11T00:38:46Z,2017-02-12T18:27:06Z,2,MERGED,1393,1345,9,369,41.80555555555556,3,4
+9,bpo-29438: fixed use-after-free in key sharing dict,https://github.com/python/cpython/pull/17,2017-02-11T02:57:19Z,2017-02-12T04:51:31Z,2,MERGED,9,3,2,0,25.903333333333332,2,4
+10,Rename Doc/README.txt to Doc/README.rst,https://github.com/python/cpython/pull/19,2017-02-11T03:38:27Z,2017-02-15T01:01:58Z,6,MERGED,12,12,3,101,93.39194444444445,17,7
+11,Update link destination of the Mersenne Twister homepage,https://github.com/python/cpython/pull/20,2017-02-11T03:55:18Z,2017-02-15T09:04:44Z,1,MERGED,3,3,1,0,101.15722222222222,9,5
+12,Update readme,https://github.com/python/cpython/pull/21,2017-02-11T05:33:36Z,2017-02-14T04:01:04Z,12,MERGED,77,83,1,252,70.45777777777778,2,8
+13,[backport to 3.6] bpo-29474: Improve documentation for weakref.WeakValueDictionary,https://github.com/python/cpython/pull/22,2017-02-11T05:49:52Z,2017-02-12T16:18:07Z,1,MERGED,5,5,1,160,34.47083333333333,2,3
+14,[backport to 3.5] bpo-29474: Improve documentation for weakref.WeakValueDictionary,https://github.com/python/cpython/pull/23,2017-02-11T05:50:14Z,2017-02-12T16:21:36Z,1,MERGED,5,5,1,160,34.522777777777776,1,3
+15,bpo-28837: Fix lib2to3 handling of map/zip/filter,https://github.com/python/cpython/pull/24,2017-02-11T08:31:12Z,2017-04-06T05:19:41Z,3,MERGED,110,26,5,477,1292.8080555555555,2,3
+16,[backport to 3.6] bpo-29529: Add .travis.yml to 3.6 branch,https://github.com/python/cpython/pull/25,2017-02-11T09:15:46Z,2017-02-19T05:12:00Z,1,MERGED,104,0,1,0,187.93722222222223,12,6
+17,[backport to 3.5] bpo-29529: Add .travis.yml to 3.5 branch,https://github.com/python/cpython/pull/26,2017-02-11T09:16:07Z,2017-02-19T05:13:02Z,2,MERGED,104,0,1,0,187.94861111111112,1,7
+18,[backport to 2.7] bpo-29529: Add .travis.yml to 2.7 branch,https://github.com/python/cpython/pull/27,2017-02-11T09:19:24Z,2017-02-20T00:44:54Z,3,MERGED,77,0,1,0,207.425,2,6
+19,bpo-28556: Various updates to typing,https://github.com/python/cpython/pull/28,2017-02-11T11:53:37Z,2017-02-13T21:50:15Z,2,MERGED,335,58,4,299,57.943888888888885,11,5
+20,Allow up to a 0.01% drop in coverage,https://github.com/python/cpython/pull/30,2017-02-11T16:21:25Z,2017-02-13T04:21:20Z,2,MERGED,6,2,1,171,35.99861111111111,4,7
+21,"bpo-10746: ctypes: Fix PEP 3118 type codes for c_long, c_bool, c_int",https://github.com/python/cpython/pull/31,2017-02-11T19:35:34Z,2017-08-28T12:08:50Z,6,MERGED,123,30,3,1631,4744.554444444444,26,6
+22,bpo-29576: Improve some deprecations in the importlib,https://github.com/python/cpython/pull/32,2017-02-12T00:22:29Z,2017-02-16T02:00:32Z,4,MERGED,41,7,5,666,97.63416666666667,5,4
+23,Add Python version since deprecation in base64 methods.,https://github.com/python/cpython/pull/33,2017-02-12T00:32:35Z,2017-03-02T14:21:27Z,2,MERGED,25,6,3,154,445.81444444444446,6,4
+24,bpo-29026: Clarify documentation of time.time,https://github.com/python/cpython/pull/34,2017-02-12T02:41:22Z,2017-02-16T10:00:46Z,11,MERGED,35,7,1,312,103.32333333333334,3,6
+25,bpo-28929: Link the documentation to its source file on GitHub,https://github.com/python/cpython/pull/35,2017-02-12T03:50:00Z,2017-02-12T21:07:06Z,1,MERGED,5,2,1,86,17.285,1,3
+26,[backport to 3.5] bpo-28929: Link the documentation to its source file on GitHub,https://github.com/python/cpython/pull/36,2017-02-12T03:54:49Z,2017-02-12T21:08:01Z,2,MERGED,5,2,1,158,17.22,0,4
+27,[backport to 3.6] bpo-28929: Link the documentation to its source file on GitHub,https://github.com/python/cpython/pull/37,2017-02-12T03:55:17Z,2017-02-12T21:08:25Z,3,MERGED,5,2,1,158,17.218888888888888,0,4
+28,[backport to 2.7] bpo-28929: Link the documentation to its source file on GitHub,https://github.com/python/cpython/pull/38,2017-02-12T04:05:08Z,2017-02-12T21:07:34Z,2,MERGED,3,2,1,86,17.040555555555557,0,3
+29,[backport to 3.6] bpo-29438: fixed use-after-free in key sharing dict,https://github.com/python/cpython/pull/39,2017-02-12T05:11:17Z,2017-02-13T00:19:06Z,2,MERGED,9,3,2,0,19.130277777777778,0,4
+30,[backport to 3.5] bpo-29438: Fixed use-after-free in key sharing dict,https://github.com/python/cpython/pull/40,2017-02-12T05:38:10Z,2017-02-13T00:16:20Z,3,MERGED,6,6,2,0,18.636111111111113,0,4
+31,bpo-29521 Fix two minor documentation build warnings,https://github.com/python/cpython/pull/41,2017-02-12T06:40:19Z,2017-02-13T13:57:14Z,1,MERGED,5,4,2,813,31.281944444444445,1,5
+32,[backport to 3.6] Bpo news support 3.6,https://github.com/python/cpython/pull/42,2017-02-12T07:44:10Z,2017-02-12T12:18:46Z,1,MERGED,4,4,1,59,4.576666666666667,2,4
+33,"[backport to 3.5] Support ""bpo-"" in Misc/NEWS ",https://github.com/python/cpython/pull/43,2017-02-12T07:48:52Z,2017-02-13T20:11:26Z,1,MERGED,4,4,1,95,36.37611111111111,3,4
+34,[backport to 2.7] Change documentation's `Show Source` link to GitHub,https://github.com/python/cpython/pull/44,2017-02-12T07:52:17Z,2017-02-12T20:59:21Z,3,MERGED,2,2,1,95,13.117777777777778,3,3
+35,bpo-29428: make doctest documentation clearer,https://github.com/python/cpython/pull/45,2017-02-12T08:01:21Z,2018-05-21T04:18:35Z,16,MERGED,53,27,1,757,11108.287222222221,9,9
+36,bpo-29463: Add docstring field to some AST nodes.,https://github.com/python/cpython/pull/46,2017-02-12T09:16:56Z,2017-02-22T15:32:00Z,4,MERGED,3150,3045,15,123,246.2511111111111,6,4
+37,[backport to 3.6] bpo-27122: Fix comment to point to correct issue number (#47),https://github.com/python/cpython/pull/48,2017-02-12T11:45:43Z,2017-02-12T16:13:32Z,1,MERGED,1,1,1,327,4.463611111111111,1,4
+38,getpass: update docstring,https://github.com/python/cpython/pull/49,2017-02-12T11:48:16Z,2017-02-12T22:10:49Z,1,MERGED,0,1,1,73,10.375833333333333,5,6
+39,[backport to 3.5] bpo-27122: Fix comment to point to correct issue number (#47),https://github.com/python/cpython/pull/50,2017-02-12T11:49:41Z,2017-02-12T16:18:02Z,1,MERGED,1,1,1,331,4.4725,2,4
+1,Initial Fuel HLL ,https://github.com/FuelLabs/sway/pull/2,2021-01-25T22:40:31Z,2021-05-08T14:03:18Z,15,MERGED,13255,14,81,2575,2463.3797222222224,12,3
+2,Make CI run on pushes to master or PRs,https://github.com/FuelLabs/sway/pull/34,2021-05-08T14:38:31Z,2021-05-09T14:06:56Z,4,MERGED,15,3,2,0,23.47361111111111,0,2
+3,Initial skeleton documentation book,https://github.com/FuelLabs/sway/pull/35,2021-05-08T18:00:13Z,2021-05-09T12:49:41Z,1,MERGED,69,0,11,255,18.824444444444445,0,2
+4,Testing harness,https://github.com/FuelLabs/sway/pull/37,2021-05-09T14:09:55Z,2021-05-14T16:32:41Z,3,MERGED,1211,697,42,1266,122.37944444444445,1,2
+5,"Use keyword syntax for determining if a file is a library, contract, script, or predicate.",https://github.com/FuelLabs/sway/pull/43,2021-05-14T16:31:18Z,2021-05-15T20:44:43Z,3,MERGED,205,256,11,111,28.22361111111111,0,2
+6,Allow direct usage of reserved registers in inline assembly; misc fixes,https://github.com/FuelLabs/sway/pull/44,2021-05-17T16:09:06Z,2021-05-18T19:25:27Z,1,MERGED,198,36,12,346,27.2725,0,3
+7,Allow declarations after usages; multi-pass compilation,https://github.com/FuelLabs/sway/pull/45,2021-05-18T00:42:40Z,2021-05-18T21:50:51Z,5,MERGED,761,454,19,382,21.136388888888888,0,2
+8,Tool v1,https://github.com/FuelLabs/sway/pull/48,2021-05-19T15:34:29Z,2021-05-21T11:57:07Z,10,MERGED,4193,97,75,264,44.37722222222222,0,3
+9,Use minimal profile for toolchain CI,https://github.com/FuelLabs/sway/pull/49,2021-05-19T21:21:01Z,2021-05-19T22:31:08Z,1,MERGED,1,0,1,69,1.168611111111111,0,2
+10,Register allocation and virtualized opcodes,https://github.com/FuelLabs/sway/pull/50,2021-05-22T19:17:47Z,2021-05-23T17:57:56Z,4,MERGED,2460,1329,18,915,22.669166666666666,1,2
+11,Generate actual bytecode using `fuel_asm`,https://github.com/FuelLabs/sway/pull/52,2021-05-23T18:02:19Z,2021-05-30T00:09:34Z,15,MERGED,799,187,20,1022,150.12083333333334,0,5
+12,Fix CI to use git CLI,https://github.com/FuelLabs/sway/pull/53,2021-05-26T13:27:07Z,2021-05-26T15:28:54Z,2,MERGED,1,46,2,79,2.0297222222222224,0,3
+13,Remove vscode plugin,https://github.com/FuelLabs/sway/pull/54,2021-05-26T13:38:06Z,2021-05-26T15:45:36Z,2,MERGED,0,2723,16,82,2.125,0,3
+14,Add key for `fuel-tx` repo,https://github.com/FuelLabs/sway/pull/55,2021-05-26T14:05:23Z,2021-05-26T15:28:41Z,2,MERGED,1,0,1,58,1.3883333333333334,0,3
+15,Rename Fume -> Sway,https://github.com/FuelLabs/sway/pull/56,2021-05-26T20:57:28Z,2021-05-26T23:22:37Z,1,MERGED,18,22,34,51,2.4191666666666665,0,2
+16,E2E Tests using the VM,https://github.com/FuelLabs/sway/pull/59,2021-05-28T15:47:13Z,2021-06-01T14:48:07Z,3,MERGED,1645,70,24,134,95.015,1,3
+17,Basic mathematical stdlib functionality,https://github.com/FuelLabs/sway/pull/61,2021-05-30T00:13:30Z,2021-06-03T13:32:12Z,7,MERGED,286,87,4,588,109.31166666666667,0,2
+18,Allow inclusion of multiple source files as dependencies for a single contract/script/etc.,https://github.com/FuelLabs/sway/pull/62,2021-05-30T15:40:54Z,2021-06-09T14:15:42Z,5,MERGED,762,135,32,1095,238.58,1,2
+19,Add mvprun,https://github.com/FuelLabs/sway/pull/64,2021-05-31T18:34:48Z,2021-06-07T15:51:44Z,7,MERGED,87,3,5,283,165.28222222222223,3,3
+20,fix #69 (function application parsing bug),https://github.com/FuelLabs/sway/pull/72,2021-06-03T23:27:29Z,2021-06-04T14:37:25Z,3,MERGED,87,14,9,150,15.165555555555555,0,2
+21,Added initial version of the formatter,https://github.com/FuelLabs/sway/pull/74,2021-06-05T08:16:32Z,2021-06-14T16:28:04Z,2,MERGED,555,11,9,0,224.19222222222223,3,2
+22,core-types: Initial implementation,https://github.com/FuelLabs/sway/pull/77,2021-06-11T10:01:04Z,2021-06-17T07:58:20Z,5,MERGED,257,34,4,126,141.95444444444445,0,3
+23,Cli formatter,https://github.com/FuelLabs/sway/pull/81,2021-06-16T16:15:24Z,2021-06-17T14:29:16Z,7,MERGED,238,56,21,383,22.23111111111111,0,2
+24,Implement Vec in the standard library; Bug Fixes,https://github.com/FuelLabs/sway/pull/82,2021-06-16T16:51:00Z,2021-06-29T15:34:17Z,2,MERGED,2592,1126,54,1216,310.7213888888889,0,4
+25,Super basic intro docs,https://github.com/FuelLabs/sway/pull/83,2021-06-17T05:21:09Z,2021-09-01T06:50:12Z,4,MERGED,277,1,11,118,1825.4841666666666,0,3
+26,Add Context to encapsulate debug ctx variants,https://github.com/FuelLabs/sway/pull/84,2021-06-17T12:10:56Z,2021-06-17T14:00:05Z,6,MERGED,186,48,1,311,1.8191666666666666,0,2
+27,Remove license,https://github.com/FuelLabs/sway/pull/87,2021-06-18T19:21:59Z,2021-06-21T13:39:49Z,1,MERGED,0,202,2,0,66.29722222222222,0,2
+28,Multiline comments,https://github.com/FuelLabs/sway/pull/90,2021-06-21T12:42:40Z,2021-06-22T10:39:12Z,3,MERGED,99,24,3,11,21.942222222222224,2,2
+29,Formatter tests,https://github.com/FuelLabs/sway/pull/92,2021-06-22T13:08:43Z,2021-06-22T14:10:04Z,1,MERGED,273,30,4,203,1.0225,0,2
+30,Improve comma,https://github.com/FuelLabs/sway/pull/93,2021-06-23T11:26:09Z,2021-06-29T10:52:14Z,4,MERGED,614,170,13,148,143.43472222222223,8,3
+31,Bounty of features and bug fixes ,https://github.com/FuelLabs/sway/pull/94,2021-06-24T20:38:54Z,2021-07-05T05:26:50Z,4,MERGED,1571,626,36,989,248.79888888888888,1,2
+32,Forc deploy,https://github.com/FuelLabs/sway/pull/99,2021-06-29T11:03:14Z,2021-07-02T08:53:32Z,9,MERGED,219,45,7,90,69.83833333333334,0,3
+1,Missing console.log,https://github.com/lydiahallie/javascript-questions/pull/13,2019-06-13T13:30:23Z,2019-06-24T05:31:04Z,4,MERGED,1,1,1,61,256.0113888888889,3,5
+2,Fix question 11,https://github.com/lydiahallie/javascript-questions/pull/17,2019-06-14T15:22:45Z,2019-06-15T15:53:53Z,4,MERGED,7,7,1,401,24.51888888888889,0,3
+3,Translate the question into Chinese,https://github.com/lydiahallie/javascript-questions/pull/28,2019-06-16T03:49:03Z,2019-06-16T15:40:27Z,2,MERGED,1291,0,2,105,11.856666666666667,6,5
+4,Fix the question 21,https://github.com/lydiahallie/javascript-questions/pull/30,2019-06-16T14:20:04Z,2019-06-17T07:38:46Z,1,MERGED,1,1,1,108,17.311666666666667,1,3
+5,Fixing typo,https://github.com/lydiahallie/javascript-questions/pull/32,2019-06-16T21:02:52Z,2019-06-17T07:38:02Z,2,MERGED,1,1,1,0,10.58611111111111,0,3
+6,Proofreading translation,https://github.com/lydiahallie/javascript-questions/pull/39,2019-06-17T07:42:14Z,2019-06-17T11:12:40Z,1,MERGED,6,6,1,43,3.507222222222222,0,2
+7,Fix typo,https://github.com/lydiahallie/javascript-questions/pull/43,2019-06-17T09:43:28Z,2019-06-17T11:12:19Z,1,MERGED,1,1,1,29,1.4808333333333332,0,2
+8,Translate into Spanish🇪🇸,https://github.com/lydiahallie/javascript-questions/pull/47,2019-06-17T18:06:44Z,2019-06-23T21:08:15Z,1,MERGED,1306,7,2,17,147.02527777777777,6,3
+9,Translation to russian,https://github.com/lydiahallie/javascript-questions/pull/53,2019-06-18T08:42:40Z,2019-06-19T06:21:57Z,1,MERGED,1296,1,2,0,21.654722222222222,3,3
+10,Western balkan translation,https://github.com/lydiahallie/javascript-questions/pull/60,2019-06-18T18:53:32Z,2019-06-19T06:24:07Z,1,MERGED,1463,0,2,14,11.509722222222223,0,2
+11,Translate into Vietnamese,https://github.com/lydiahallie/javascript-questions/pull/62,2019-06-19T02:56:01Z,2019-06-19T15:41:03Z,1,MERGED,1295,0,2,0,12.750555555555556,1,3
+12,Translate into German  🇩🇪,https://github.com/lydiahallie/javascript-questions/pull/63,2019-06-19T11:29:10Z,2019-06-19T14:16:28Z,1,MERGED,1298,1,2,74,2.7883333333333336,2,2
+13,Update README.md,https://github.com/lydiahallie/javascript-questions/pull/64,2019-06-19T12:57:55Z,2019-06-23T21:11:08Z,2,MERGED,1,1,1,60,104.22027777777778,0,3
+14,German corrections,https://github.com/lydiahallie/javascript-questions/pull/67,2019-06-19T14:59:47Z,2019-06-22T10:13:37Z,1,MERGED,525,159,5,118,67.23055555555555,0,2
+15,Western Balkan link was outdated,https://github.com/lydiahallie/javascript-questions/pull/72,2019-06-19T16:35:17Z,2019-06-20T07:09:26Z,1,MERGED,1,1,1,25,14.569166666666666,0,2
+16,Update README-zh_CN.md,https://github.com/lydiahallie/javascript-questions/pull/76,2019-06-20T02:13:07Z,2019-06-23T21:10:10Z,2,MERGED,1,1,1,20,90.95083333333334,0,3
+17,[Vietnamese] correct typo and improve tranlation,https://github.com/lydiahallie/javascript-questions/pull/77,2019-06-20T02:25:23Z,2019-06-24T05:32:30Z,3,MERGED,4,5,1,47,99.11861111111111,4,4
+18,[Vietnamese]Update question 13 in README-vi.md,https://github.com/lydiahallie/javascript-questions/pull/78,2019-06-20T03:01:49Z,2019-06-23T21:17:55Z,1,MERGED,1,1,1,19,90.26833333333333,0,2
+19,[Russian] Add edits. Compilation,https://github.com/lydiahallie/javascript-questions/pull/81,2019-06-20T04:32:36Z,2019-06-20T07:11:55Z,1,MERGED,18,15,1,156,2.6552777777777776,0,5
+20,Translated to Ukrainian,https://github.com/lydiahallie/javascript-questions/pull/84,2019-06-20T10:11:06Z,2019-06-21T14:24:22Z,1,MERGED,1308,7,6,0,28.22111111111111,0,2
+21,feat(question-8): Add console.log to make the answer less obvious,https://github.com/lydiahallie/javascript-questions/pull/85,2019-06-20T10:13:06Z,2019-06-23T21:32:14Z,1,MERGED,1,1,1,168,83.31888888888889,0,2
+22,fixed small errors,https://github.com/lydiahallie/javascript-questions/pull/86,2019-06-20T13:17:03Z,2019-06-21T14:23:46Z,1,MERGED,12,12,1,0,25.111944444444443,0,2
+23,Translate to French,https://github.com/lydiahallie/javascript-questions/pull/87,2019-06-20T17:11:37Z,2019-07-30T09:26:57Z,15,MERGED,1960,0,2,0,952.2555555555556,5,4
+24,Translate to Japanese,https://github.com/lydiahallie/javascript-questions/pull/88,2019-06-20T17:22:02Z,2019-06-21T16:02:17Z,1,MERGED,1336,1,2,189,22.670833333333334,3,3
+25,Translated to pt_BR ,https://github.com/lydiahallie/javascript-questions/pull/89,2019-06-20T19:17:02Z,2019-06-24T05:33:03Z,6,MERGED,1302,2,2,83,82.26694444444445,4,8
+26,Translate & Typo in README-zh_CN.md,https://github.com/lydiahallie/javascript-questions/pull/90,2019-06-21T03:34:17Z,2019-06-21T14:22:13Z,2,MERGED,16,16,1,0,10.79888888888889,0,3
+27, Delete extra separate line in README.md,https://github.com/lydiahallie/javascript-questions/pull/91,2019-06-21T06:25:15Z,2019-06-21T14:21:42Z,2,MERGED,0,6,6,0,7.940833333333333,0,3
+1,adjust_size and pack image,https://github.com/d2l-ai/d2l-zh/pull/26,2017-09-10T05:01:25Z,2017-09-10T15:55:19Z,1,MERGED,1,0,7,0,10.898333333333333,0,2
+1,Update russian language,https://github.com/ventoy/Ventoy/pull/218,2020-06-10T14:10:26Z,2020-06-13T18:03:22Z,1,MERGED,0,0,1,69,75.88222222222223,0,3
+2,Arabic language update,https://github.com/ventoy/Ventoy/pull/283,2020-07-02T20:20:00Z,2020-12-15T09:46:55Z,1,MERGED,0,0,1,0,3973.448611111111,1,2
+3,Updates to Russian translation,https://github.com/ventoy/Ventoy/pull/297,2020-07-10T05:19:06Z,2020-09-24T13:02:37Z,2,MERGED,0,0,1,85,1831.7252777777778,1,2
+1,Rename README on tweepcred to README.md,https://github.com/twitter/the-algorithm/pull/35,2023-03-31T19:01:41Z,2023-03-31T22:41:39Z,1,MERGED,1,1,1,40,3.6661111111111113,3,7
+2,feature: give a little boost to elon's friends and add more details in the README.md,https://github.com/twitter/the-algorithm/pull/53,2023-03-31T19:03:39Z,2023-03-31T22:41:49Z,2,MERGED,10,0,1,2450,3.636111111111111,1,5
+3,Sick Engineering Role!,https://github.com/twitter/the-algorithm/pull/73,2023-03-31T19:06:40Z,2023-03-31T22:41:47Z,1,MERGED,1,0,1,851,3.585277777777778,5,9
+4,feat: improve algorithm to provide better performance,https://github.com/twitter/the-algorithm/pull/102,2023-03-31T19:09:46Z,2023-03-31T22:41:42Z,3,MERGED,1,460246,5364,65,3.5322222222222224,8,13
+5,Consistent usage of punctuation in README.md,https://github.com/twitter/the-algorithm/pull/105,2023-03-31T19:10:02Z,2023-03-31T22:41:34Z,1,MERGED,2,2,1,79,3.5255555555555556,1,5
+6,fix: Vastly improve quality of tweet predicates (#121),https://github.com/twitter/the-algorithm/pull/138,2023-03-31T19:13:50Z,2023-03-31T22:42:13Z,2,MERGED,0,4,2,0,3.4730555555555553,18,21
+7,Remove the code in the algorithm that boosts the tweets of Elon,https://github.com/twitter/the-algorithm/pull/160,2023-03-31T19:18:15Z,2023-03-31T22:42:19Z,3,MERGED,2,14,1,33,3.401111111111111,31,31
+8,an actual fix.,https://github.com/twitter/the-algorithm/pull/165,2023-03-31T19:19:49Z,2023-03-31T22:41:56Z,1,MERGED,1,1,1,75,3.368611111111111,5,8
+9,🛑 Remove Political bias from Twitter,https://github.com/twitter/the-algorithm/pull/179,2023-03-31T19:21:56Z,2023-03-31T22:42:12Z,1,MERGED,0,14,1,219,3.3377777777777777,14,17
+10,algorithm edits,https://github.com/twitter/the-algorithm/pull/186,2023-03-31T19:22:52Z,2023-03-31T21:05:58Z,2,MERGED,1,460246,5364,0,1.7183333333333333,18,19
+11,Initialize Rust project 🦀,https://github.com/twitter/the-algorithm/pull/219,2023-03-31T19:27:07Z,2023-03-31T22:41:56Z,2,MERGED,11,0,2,58,3.2469444444444444,8,11
+12,Refactor query_keys function for improved efficiency,https://github.com/twitter/the-algorithm/pull/230,2023-03-31T19:28:35Z,2023-03-31T22:41:40Z,1,MERGED,5,15,1,0,3.2180555555555554,2,6
+13,feat: add more political bias,https://github.com/twitter/the-algorithm/pull/234,2023-03-31T19:28:49Z,2023-03-31T22:42:28Z,4,MERGED,13,0,3,112,3.2275,12,18
+14,"Added me as author, lol",https://github.com/twitter/the-algorithm/pull/243,2023-03-31T20:36:15Z,2023-03-31T22:41:34Z,3,MERGED,1,1,1,39,2.088611111111111,3,8
+15,Can u pwease merge my pwull wequest senpai?!! UwU,https://github.com/twitter/the-algorithm/pull/254,2023-03-31T20:40:34Z,2023-03-31T22:41:38Z,3,MERGED,1,1,1,278,2.017777777777778,28,31
+16,Fixed grammar issues in README,https://github.com/twitter/the-algorithm/pull/256,2023-03-31T20:41:13Z,2023-03-31T22:41:32Z,1,MERGED,7,7,1,0,2.0052777777777777,1,5
+17,Update readme.md,https://github.com/twitter/the-algorithm/pull/261,2023-03-31T20:43:13Z,2023-03-31T22:41:32Z,1,MERGED,9,0,1,34,1.9719444444444445,1,5
+18,remove useless code,https://github.com/twitter/the-algorithm/pull/263,2023-03-31T20:44:07Z,2023-03-31T22:41:45Z,2,MERGED,0,184751,1440,33,1.9605555555555556,23,25
+1,Issue 1106: [PATCH] Fixed potential usage of uninitialized bool varia…,https://github.com/tesseract-ocr/tesseract/pull/9,2015-05-13T14:49:36Z,2017-05-03T06:41:22Z,1,MERGED,3,0,1,811,17295.862777777777,3,7
+2,"Issue 1199: Remove the vestigal traces of custom memory allocators, part 1, updated",https://github.com/tesseract-ocr/tesseract/pull/11,2015-05-13T15:49:21Z,2017-09-25T14:36:38Z,1,MERGED,90,363,28,692,20782.788055555557,2,6
+1,Adds wiki.c2.com to general coding advice section,https://github.com/sdmg15/Best-websites-a-programmer-should-visit/pull/4,2017-06-06T12:52:24Z,2017-06-06T20:18:37Z,1,MERGED,1,0,1,92,7.436944444444444,1,3
+2,"Few links fixed and changes all ""-"" to "":"";",https://github.com/sdmg15/Best-websites-a-programmer-should-visit/pull/5,2017-06-06T13:08:14Z,2017-06-10T14:03:54Z,5,MERGED,6,6,1,27,96.92777777777778,3,4
+3,Add riddles.io to competitive programming,https://github.com/sdmg15/Best-websites-a-programmer-should-visit/pull/7,2017-06-06T13:29:37Z,2017-06-09T04:17:14Z,1,MERGED,2,1,1,104,62.79361111111111,1,2
+4,Adds Angular 1 Style Guide,https://github.com/sdmg15/Best-websites-a-programmer-should-visit/pull/10,2017-06-06T14:46:49Z,2017-06-14T10:29:21Z,3,MERGED,2,1,1,250,187.70888888888888,6,2
+5,Proposed fix to #11,https://github.com/sdmg15/Best-websites-a-programmer-should-visit/pull/12,2017-06-06T15:32:46Z,2017-06-06T20:34:31Z,1,MERGED,3,1,1,83,5.029166666666667,0,3
+6,adding teamtreehouse,https://github.com/sdmg15/Best-websites-a-programmer-should-visit/pull/14,2017-06-06T15:53:47Z,2017-09-17T14:25:53Z,2,MERGED,1,0,1,0,2470.535,2,3
+7,Add funfunfunction to youtube channels,https://github.com/sdmg15/Best-websites-a-programmer-should-visit/pull/18,2017-06-06T17:06:03Z,2018-06-25T16:04:56Z,2,MERGED,2,1,1,26,9214.98138888889,0,2
+8,Adding Kadenze link to the MOOC section of the readme,https://github.com/sdmg15/Best-websites-a-programmer-should-visit/pull/19,2017-06-06T17:18:15Z,2017-06-08T05:00:29Z,2,MERGED,1,0,1,154,35.70388888888889,1,2
+9,Add Cloud 9 and Github Gist,https://github.com/sdmg15/Best-websites-a-programmer-should-visit/pull/22,2017-06-06T18:52:41Z,2017-06-08T08:24:56Z,2,MERGED,5,0,1,76,37.5375,3,2
+10,Update README.md,https://github.com/sdmg15/Best-websites-a-programmer-should-visit/pull/25,2017-06-06T20:27:40Z,2017-06-26T23:50:41Z,1,MERGED,1,0,1,0,483.3836111111111,2,2
+11,"[Conflicts resolved] Removed dupes, fixed a few formatting inconsistencies",https://github.com/sdmg15/Best-websites-a-programmer-should-visit/pull/33,2017-06-06T23:48:20Z,2019-11-13T09:30:52Z,1,MERGED,8,17,1,0,21345.70888888889,0,2
+12,Update blog of Umer Mansoor,https://github.com/sdmg15/Best-websites-a-programmer-should-visit/pull/36,2017-06-07T02:21:56Z,2017-06-13T13:00:33Z,3,MERGED,2,2,1,0,154.6436111111111,1,2
+13,Added coding ground,https://github.com/sdmg15/Best-websites-a-programmer-should-visit/pull/48,2017-06-07T11:25:47Z,2018-06-27T15:09:54Z,1,MERGED,3,0,1,0,9243.735277777778,0,2
+14,Added regex101.com to README,https://github.com/sdmg15/Best-websites-a-programmer-should-visit/pull/55,2017-06-07T14:49:03Z,2017-06-20T11:21:27Z,1,MERGED,1,0,1,160,308.54,10,3
+15,Added Data Science section. Fixed typos,https://github.com/sdmg15/Best-websites-a-programmer-should-visit/pull/59,2017-06-07T16:35:02Z,2017-06-11T17:34:12Z,3,MERGED,11,9,1,15,96.98611111111111,0,2
+16,Update README.md,https://github.com/sdmg15/Best-websites-a-programmer-should-visit/pull/66,2017-06-08T02:50:11Z,2017-06-13T13:11:31Z,1,MERGED,1,0,1,71,130.35555555555555,2,3
+17,Added condingame to the list,https://github.com/sdmg15/Best-websites-a-programmer-should-visit/pull/68,2017-06-08T06:00:30Z,2017-09-24T19:46:27Z,2,MERGED,1,0,1,157,2605.7658333333334,2,2
+18,added Netflix UI Engineering YouTube channel,https://github.com/sdmg15/Best-websites-a-programmer-should-visit/pull/72,2017-06-08T08:45:55Z,2017-06-13T12:59:28Z,3,MERGED,1,0,1,47,124.22583333333333,2,2
+19,blog.might.net added twice in Blogs of Developers,https://github.com/sdmg15/Best-websites-a-programmer-should-visit/pull/73,2017-06-08T11:51:47Z,2017-06-13T13:05:39Z,1,MERGED,0,1,1,49,121.2311111111111,2,2
+1,Add XXE inside SVG,https://github.com/swisskyrepo/PayloadsAllTheThings/pull/57,2019-03-23T19:30:38Z,2019-03-23T22:02:32Z,2,MERGED,8,0,1,0,2.5316666666666667,1,3
+1,Creating Fully Functional Docker Image,https://github.com/kelseyhightower/nocode/pull/19,2018-02-07T00:29:32Z,2018-02-08T23:30:03Z,3,MERGED,1,0,1,9,47.00861111111111,3,6
+2,Update README.md,https://github.com/kelseyhightower/nocode/pull/21,2018-02-07T00:31:31Z,2018-10-17T03:26:14Z,3,MERGED,1,1,1,19,6050.911944444444,0,4
+3,Use 0-clause BSD License,https://github.com/kelseyhightower/nocode/pull/24,2018-02-07T00:34:25Z,2022-12-06T02:31:11Z,1,MERGED,22,202,1,81,42313.94611111111,2,4
+4,Add thorough ISSUE_TEMPLATE.md,https://github.com/kelseyhightower/nocode/pull/25,2018-02-07T00:35:44Z,2021-04-02T06:25:44Z,1,MERGED,1,0,1,0,27605.833333333332,0,2
+5,Add examples file,https://github.com/kelseyhightower/nocode/pull/26,2018-02-07T00:39:11Z,2022-11-07T23:28:31Z,2,MERGED,1,0,1,85,41638.822222222225,1,4
+6,Create .gitignore,https://github.com/kelseyhightower/nocode/pull/48,2018-02-07T02:03:45Z,2020-10-30T19:37:19Z,1,MERGED,1,0,1,0,23921.559444444443,3,4
+7,Added Nothing,https://github.com/kelseyhightower/nocode/pull/59,2018-02-07T02:36:03Z,2019-03-27T19:19:18Z,2,MERGED,4,0,1,0,9928.720833333333,1,4
+8,Proposal for streaming framework.,https://github.com/kelseyhightower/nocode/pull/71,2018-02-07T03:34:19Z,2018-02-20T16:05:14Z,2,MERGED,19,0,1,436,324.5152777777778,2,3
+9,Add some examples.,https://github.com/kelseyhightower/nocode/pull/76,2018-02-07T04:14:05Z,2018-02-14T14:57:56Z,3,MERGED,0,0,0,0,178.73083333333332,1,5
+10,Prevent people adding code by mistake,https://github.com/kelseyhightower/nocode/pull/91,2018-02-07T05:28:52Z,2022-12-23T21:41:28Z,9,MERGED,55,0,1,376,42736.21,8,15
+11,​,https://github.com/kelseyhightower/nocode/pull/105,2018-02-07T06:03:05Z,2018-08-29T19:14:35Z,5,MERGED,0,0,0,4,4885.191666666667,24,30
+12,"Add make support to automate builds, deployments, and life",https://github.com/kelseyhightower/nocode/pull/163,2018-02-07T08:50:52Z,2018-02-15T14:23:07Z,1,MERGED,0,0,1,42,197.5375,0,2
+13,wouldn't want any code to creep in,https://github.com/kelseyhightower/nocode/pull/209,2018-02-07T11:20:41Z,2019-02-03T22:14:39Z,6,MERGED,6,0,1,11,8674.899444444445,3,8
+14,Remove heartbleed vulnerability,https://github.com/kelseyhightower/nocode/pull/216,2018-02-07T11:39:09Z,2023-01-08T04:16:38Z,1,MERGED,0,0,0,32,43096.62472222222,0,2
+15,Used to allow for the removal of potential code files at once,https://github.com/kelseyhightower/nocode/pull/256,2018-02-07T12:54:57Z,2022-03-08T16:52:39Z,4,MERGED,0,0,1,152,35763.96166666667,2,3
+16,:scroll: added Doxygen documentation,https://github.com/kelseyhightower/nocode/pull/311,2018-02-07T14:06:47Z,2021-03-02T13:40:27Z,1,MERGED,4226,0,51,150,26855.56111111111,2,3
+17,Create .dockerignore,https://github.com/kelseyhightower/nocode/pull/374,2018-02-07T15:41:27Z,2020-06-24T19:11:01Z,1,MERGED,7,0,1,47,20835.492777777778,0,2
+18,Add a gitignore,https://github.com/kelseyhightower/nocode/pull/432,2018-02-07T18:44:14Z,2019-09-06T20:39:35Z,2,MERGED,353,0,1,122,13825.9225,3,4
+19,Maintain consistent coding styles across editors you won't use,https://github.com/kelseyhightower/nocode/pull/469,2018-02-07T21:57:13Z,2021-07-29T09:35:34Z,2,MERGED,0,0,1,0,30419.639166666668,0,3
+20,Make README.md consistent,https://github.com/kelseyhightower/nocode/pull/472,2018-02-07T21:59:05Z,2019-01-10T15:00:50Z,1,MERGED,2,2,1,35,8081.029166666666,1,2
+21,Nothing,https://github.com/kelseyhightower/nocode/pull/509,2018-02-08T01:25:02Z,2018-07-12T15:35:11Z,1,MERGED,0,0,0,0,3710.1691666666666,6,8
+22,Saw some code - removed it to make it more secure!,https://github.com/kelseyhightower/nocode/pull/551,2018-02-08T04:54:24Z,2018-08-27T17:29:18Z,1,MERGED,0,24,1,0,4812.581666666667,2,4
+23,Turkish translation,https://github.com/kelseyhightower/nocode/pull/746,2018-02-08T13:59:34Z,2019-03-23T18:01:59Z,1,MERGED,53,0,1,135,9796.040277777778,2,3
+24,Sharing the best practice to the world!,https://github.com/kelseyhightower/nocode/pull/814,2018-02-08T18:11:11Z,2020-06-26T21:45:50Z,1,MERGED,111,0,4,333,20859.5775,4,3
+25,Updates documentation to be more clear,https://github.com/kelseyhightower/nocode/pull/850,2018-02-08T20:18:03Z,2022-04-01T17:29:41Z,4,MERGED,1,1,1,19,36309.19388888889,0,4
+26,Add Makefile,https://github.com/kelseyhightower/nocode/pull/859,2018-02-08T21:29:38Z,2024-09-18T08:02:36Z,3,MERGED,2,0,1,69,57922.54944444444,0,3
+27,NO CODE NO KILLING,https://github.com/kelseyhightower/nocode/pull/1124,2018-02-09T09:05:37Z,2018-10-31T03:07:36Z,1,MERGED,0,257,4,0,6330.033055555556,0,2
+1,Fix for Poe account creation,https://github.com/xtekky/gpt4free/pull/89,2023-04-23T21:51:40Z,2023-04-25T10:24:35Z,2,MERGED,613,387,6,306,36.548611111111114,3,2
+2,Added GUI,https://github.com/xtekky/gpt4free/pull/100,2023-04-24T15:54:11Z,2023-04-24T18:08:55Z,1,MERGED,48,1,3,0,2.2455555555555557,2,4
+3,Spelling check,https://github.com/xtekky/gpt4free/pull/101,2023-04-24T15:54:42Z,2023-04-24T18:09:16Z,1,MERGED,1,1,1,50,2.242777777777778,1,3
+4,Update README.md + made a Jupyter notebook,https://github.com/xtekky/gpt4free/pull/130,2023-04-25T18:01:25Z,2023-04-26T07:55:12Z,1,MERGED,21,24,1,613,13.89638888888889,7,3
+5,update new gpt4/gpt3.5 website https://chat.forefront.ai/,https://github.com/xtekky/gpt4free/pull/139,2023-04-26T03:51:48Z,2023-04-26T07:56:20Z,1,MERGED,1,0,1,57,4.075555555555556,0,3
+6,Reformat code using PyCharm,https://github.com/xtekky/gpt4free/pull/200,2023-04-27T12:48:24Z,2023-04-27T14:42:56Z,1,MERGED,675,661,33,133,1.9088888888888889,7,5
+7,قم بإنشاء ملف جديد,https://github.com/xtekky/gpt4free/pull/210,2023-04-27T17:34:01Z,2023-04-28T08:01:57Z,1,MERGED,1,0,1,8,14.465555555555556,2,4
+1,dfs.java,https://github.com/TheAlgorithms/Java/pull/13,2017-03-17T13:57:34Z,2017-04-07T16:39:14Z,1,MERGED,85,0,2,0,506.69444444444446,0,2
+2,Added binary tree,https://github.com/TheAlgorithms/Java/pull/14,2017-03-17T21:00:57Z,2017-03-28T14:28:00Z,1,MERGED,192,0,1,0,257.4508333333333,0,2
+3,Added base conversions.,https://github.com/TheAlgorithms/Java/pull/17,2017-03-28T19:05:50Z,2017-09-06T18:29:38Z,4,MERGED,81,31,5,0,3887.3966666666665,11,6
+4,Changes in for loop for sorting,https://github.com/TheAlgorithms/Java/pull/19,2017-04-01T18:14:44Z,2017-04-07T16:39:36Z,1,MERGED,6,6,1,75,142.41444444444446,0,2
+5,JavaDoc and No Spaces in File Names,https://github.com/TheAlgorithms/Java/pull/25,2017-04-18T15:02:06Z,2017-04-19T02:28:27Z,1,MERGED,1113,460,30,228,11.439166666666667,0,2
+6,CircleLinkedList,https://github.com/TheAlgorithms/Java/pull/26,2017-04-18T16:21:21Z,2017-04-19T02:29:00Z,1,MERGED,42,0,1,114,10.1275,0,2
+7,More Additions (Info below),https://github.com/TheAlgorithms/Java/pull/27,2017-04-20T19:01:32Z,2017-04-21T14:38:02Z,1,MERGED,221,24,22,492,19.608333333333334,1,2
+8,Create radixSort.java,https://github.com/TheAlgorithms/Java/pull/28,2017-04-22T13:50:39Z,2017-04-25T16:58:57Z,2,MERGED,67,0,1,0,75.13833333333334,0,2
+9,Create AVLTree.java,https://github.com/TheAlgorithms/Java/pull/29,2017-04-23T17:45:50Z,2017-04-24T03:21:34Z,1,MERGED,212,0,1,0,9.595555555555556,0,2
+10,Dijkshtra's Algorithm,https://github.com/TheAlgorithms/Java/pull/30,2017-04-24T14:01:28Z,2017-04-25T16:58:41Z,1,MERGED,56,0,1,40,26.953611111111112,0,2
+11,Rename data_structures/BinaryTree.java to data_structures/Trees/Binar…,https://github.com/TheAlgorithms/Java/pull/48,2017-04-27T14:46:02Z,2017-05-14T17:57:02Z,1,MERGED,1,1,1,11,411.18333333333334,1,2
+12,Update countwords.java,https://github.com/TheAlgorithms/Java/pull/53,2017-06-01T00:00:46Z,2017-06-01T05:54:41Z,2,MERGED,17,24,1,76,5.898611111111111,2,2
+1,Run HTTP requests in parallel,https://github.com/sherlock-project/sherlock/pull/3,2018-12-25T19:51:57Z,2018-12-30T06:26:16Z,1,MERGED,126,72,4,1483,106.57194444444444,11,5
+2,Script can now load the data.json file when invoked from different di…,https://github.com/sherlock-project/sherlock/pull/49,2018-12-31T05:53:45Z,2018-12-31T16:01:56Z,3,MERGED,2,1,1,161,10.136388888888888,1,3
+3,Run isort on the imports,https://github.com/sherlock-project/sherlock/pull/50,2018-12-31T06:28:01Z,2019-01-02T09:57:13Z,1,MERGED,9,5,1,445,51.486666666666665,1,3
+4,Added 9GAG support,https://github.com/sherlock-project/sherlock/pull/61,2019-01-02T19:46:18Z,2019-01-03T00:28:14Z,1,MERGED,5,0,1,0,4.698888888888889,1,4
+5,"Add ""regexCheck"" for Facebook and Flipboard",https://github.com/sherlock-project/sherlock/pull/64,2019-01-03T01:26:26Z,2019-01-04T21:50:55Z,3,MERGED,4,2,1,292,44.408055555555556,12,4
+6,[Alternative] - Solve issue 5 with Colorama.,https://github.com/sherlock-project/sherlock/pull/71,2019-01-03T10:29:09Z,2019-01-03T21:36:26Z,1,MERGED,10,5,2,498,11.12138888888889,7,4
+7,Script for installing packages in linux,https://github.com/sherlock-project/sherlock/pull/72,2019-01-03T11:52:51Z,2019-01-04T16:01:41Z,5,MERGED,11,0,1,494,28.147222222222222,9,3
+1,adds examples and readme documentation,https://github.com/openai/openai-cookbook/pull/1,2022-05-31T21:06:15Z,2022-06-03T00:05:29Z,1,MERGED,61151,11,28,0,50.98722222222222,0,2
+2,[Mike] Fix link,https://github.com/openai/openai-cookbook/pull/2,2022-06-09T21:29:18Z,2022-06-10T00:32:27Z,1,MERGED,1,1,1,76,3.0525,1,3
+3,fixes a few links,https://github.com/openai/openai-cookbook/pull/3,2022-06-10T00:46:56Z,2022-06-10T02:08:08Z,1,MERGED,3,3,1,0,1.3533333333333333,0,2
+4,Adding transaction classification notebooks,https://github.com/openai/openai-cookbook/pull/26,2022-10-20T22:47:29Z,2022-10-27T00:50:50Z,8,MERGED,2950,0,5,336,146.05583333333334,0,2
+5,Added .default scope to URI to get token using DefaultAzureCredential,https://github.com/openai/openai-cookbook/pull/36,2022-11-18T17:29:15Z,2022-12-12T19:24:06Z,1,MERGED,1,1,1,120,577.9141666666667,0,2
+6,Fix a few typos,https://github.com/openai/openai-cookbook/pull/40,2022-12-10T00:18:14Z,2022-12-12T19:22:42Z,1,MERGED,3,3,1,0,67.07444444444444,0,2
+7,Only get_embedding once,https://github.com/openai/openai-cookbook/pull/46,2022-12-23T20:30:48Z,2023-01-09T00:07:43Z,1,MERGED,1,1,1,322,387.6152777777778,1,2
+8,line-wrap comment in code block for readability,https://github.com/openai/openai-cookbook/pull/47,2022-12-23T20:46:49Z,2023-01-10T18:47:20Z,1,MERGED,2,1,1,181,430.0086111111111,2,3
+9,Azure OpenAI GA,https://github.com/openai/openai-cookbook/pull/50,2022-12-27T08:57:09Z,2023-01-14T03:57:21Z,1,MERGED,355,55,3,121,427.00333333333333,2,3
+10,Remove obsolete reference to old embedding engines,https://github.com/openai/openai-cookbook/pull/54,2023-01-04T03:00:25Z,2023-01-09T00:06:09Z,1,MERGED,0,7,1,0,117.09555555555555,0,2
+11,Initial commit of vector database example with new embeddings,https://github.com/openai/openai-cookbook/pull/56,2023-01-05T09:56:40Z,2023-02-06T17:20:01Z,31,MERGED,905,0,3,170,775.3891666666667,5,5
+1,add Base16 color scheme,https://github.com/Eugeny/tabby/pull/52,2017-07-04T05:47:17Z,2017-07-04T14:15:18Z,2,MERGED,59,5,6,754,8.466944444444444,2,2
+2,feat(tab): enable cycle tab selection,https://github.com/Eugeny/tabby/pull/261,2017-12-14T05:50:52Z,2017-12-14T18:48:49Z,2,MERGED,17,6,2,931,12.965833333333334,2,2
+3,"Update Windows icon, more room for tabs",https://github.com/Eugeny/tabby/pull/462,2018-10-10T11:31:19Z,2018-10-10T13:56:14Z,1,MERGED,23,98,6,0,2.415277777777778,0,2
+4,Feature/rename tab qol,https://github.com/Eugeny/tabby/pull/568,2018-12-14T22:58:51Z,2018-12-19T09:17:09Z,2,MERGED,33,4,7,342,106.305,3,2
+5,Update windows-swca dependency,https://github.com/Eugeny/tabby/pull/633,2019-01-29T20:38:23Z,2019-01-30T15:48:12Z,3,MERGED,15,11,4,0,19.163611111111113,0,2
+1,Register based approach,https://github.com/FuelLabs/fuel-core/pull/2,2020-10-07T15:31:57Z,2020-11-26T17:17:03Z,1,MERGED,20626,0,11,10,1201.7516666666668,1,2
+2,Updates to match spec,https://github.com/FuelLabs/fuel-core/pull/6,2020-12-20T15:02:44Z,2020-12-30T20:25:47Z,1,MERGED,1784,58,6,269,245.38416666666666,0,2
+3,Update opcodes list,https://github.com/FuelLabs/fuel-core/pull/9,2021-05-03T22:20:43Z,2021-05-25T18:49:19Z,14,MERGED,2771,4127,41,387,524.4766666666667,1,3
+4,Add test and format CI,https://github.com/FuelLabs/fuel-core/pull/12,2021-05-18T21:34:11Z,2021-05-19T13:20:17Z,5,MERGED,164,143,10,150,15.768333333333333,4,4
+5,Update test CI,https://github.com/FuelLabs/fuel-core/pull/13,2021-05-19T22:09:07Z,2021-05-20T18:35:26Z,1,MERGED,9,1,1,86,20.43861111111111,0,2
+6,Remove Travis config,https://github.com/FuelLabs/fuel-core/pull/14,2021-05-25T18:52:03Z,2021-05-25T21:27:57Z,1,MERGED,0,80,2,0,2.598333333333333,0,2
+7,Change LW and SW to word-aligned immediate,https://github.com/FuelLabs/fuel-core/pull/16,2021-05-26T17:21:23Z,2021-05-26T22:36:23Z,3,MERGED,12,6,2,155,5.25,0,2
+8,Mint and burn,https://github.com/FuelLabs/fuel-core/pull/18,2021-05-26T22:37:13Z,2021-05-30T22:27:22Z,8,MERGED,819,215,17,0,95.83583333333333,2,3
+9,Rename crate to `fuel-core`,https://github.com/FuelLabs/fuel-core/pull/19,2021-05-31T11:24:09Z,2021-05-31T16:44:47Z,3,MERGED,22,21,13,169,5.3438888888888885,0,4
+10,Add data backend traits,https://github.com/FuelLabs/fuel-core/pull/20,2021-05-31T21:23:46Z,2021-06-03T17:12:24Z,2,MERGED,542,489,30,268,67.81055555555555,2,2
+11,Remove VM implementation from repo,https://github.com/FuelLabs/fuel-core/pull/21,2021-06-03T17:10:10Z,2021-06-03T21:16:57Z,1,MERGED,6,3546,35,0,4.1130555555555555,1,2
+12,Removal of custom rustfmt,https://github.com/FuelLabs/fuel-core/pull/22,2021-06-04T07:20:03Z,2021-06-04T14:44:13Z,1,MERGED,0,2,1,0,7.402777777777778,0,2
+13,Transactional storage,https://github.com/FuelLabs/fuel-core/pull/23,2021-06-09T01:22:09Z,2021-08-20T00:11:21Z,36,MERGED,1775,101,23,514,1726.82,1,4
+14,GraphQL + DAP structure,https://github.com/FuelLabs/fuel-core/pull/25,2021-06-22T18:37:35Z,2021-06-29T20:15:30Z,14,MERGED,4633,16,19,0,169.63194444444446,0,2
+15,Add GraphQL tx service,https://github.com/FuelLabs/fuel-core/pull/26,2021-06-29T22:49:30Z,2021-07-08T01:58:03Z,14,MERGED,293,63,21,0,195.1425,1,3
+16,Add README documentation,https://github.com/FuelLabs/fuel-core/pull/27,2021-07-12T21:39:13Z,2021-07-14T10:50:22Z,5,MERGED,585,1,3,0,37.185833333333335,5,3
+17,Use localhost instead of all zeroes for GraphQL,https://github.com/FuelLabs/fuel-core/pull/28,2021-07-16T19:51:59Z,2021-07-17T13:23:10Z,2,MERGED,2,2,2,287,17.51972222222222,0,3
+18,Fix usages of optional deps & default features ,https://github.com/FuelLabs/fuel-core/pull/30,2021-08-20T01:27:56Z,2021-08-20T02:39:17Z,1,MERGED,22,8,6,379,1.1891666666666667,2,2
+19,Refactor GraphQL interfaces and client structure,https://github.com/FuelLabs/fuel-core/pull/31,2021-08-24T19:04:37Z,2021-08-25T20:22:46Z,12,MERGED,235,301,25,459,25.3025,0,3
+20,Custom indexers,https://github.com/FuelLabs/fuel-core/pull/33,2021-08-31T19:30:24Z,2021-11-08T22:23:44Z,41,MERGED,4072,16,69,683,1658.888888888889,0,4
+21,Use prefix for directory and not just commit message,https://github.com/FuelLabs/fuel-core/pull/36,2021-09-02T00:45:12Z,2021-09-02T02:51:24Z,1,MERGED,1,1,1,86,2.1033333333333335,0,2
+22,Stable axum + health endpoint,https://github.com/FuelLabs/fuel-core/pull/37,2021-09-02T03:41:09Z,2021-09-02T05:28:05Z,1,MERGED,46,5,7,183,1.7822222222222222,0,2
+23,remove unused deps,https://github.com/FuelLabs/fuel-core/pull/38,2021-09-03T16:58:50Z,2021-09-13T18:40:29Z,1,MERGED,1,9,2,18,241.69416666666666,0,2
+24,CI Caching + Stable Rust,https://github.com/FuelLabs/fuel-core/pull/39,2021-09-13T18:18:38Z,2021-09-20T15:51:13Z,1,MERGED,3047,2,4,614,165.54305555555555,0,2
+25,Containerize Repo (Docker & K8),https://github.com/FuelLabs/fuel-core/pull/40,2021-09-14T16:46:45Z,2021-10-22T05:39:02Z,16,MERGED,150,0,4,31,900.8713888888889,0,3
+26,Blocks,https://github.com/FuelLabs/fuel-core/pull/41,2021-09-27T08:26:31Z,2021-11-02T18:18:04Z,18,MERGED,5298,930,63,914,873.8591666666666,0,3
+27,Remove automatic deployment of binaries,https://github.com/FuelLabs/fuel-core/pull/42,2021-09-29T19:21:38Z,2021-09-30T01:54:10Z,1,MERGED,0,152,1,25,6.542222222222223,0,2
+28,update to latest vm,https://github.com/FuelLabs/fuel-core/pull/45,2021-10-28T03:30:05Z,2021-10-28T16:53:51Z,4,MERGED,135,90,7,165,13.39611111111111,1,3
+29,Update to handle breaking vm api changes,https://github.com/FuelLabs/fuel-core/pull/46,2021-10-30T18:34:59Z,2021-11-01T21:18:33Z,3,MERGED,4,4,2,97,50.72611111111111,0,3
+30,Update Dockerfile,https://github.com/FuelLabs/fuel-core/pull/47,2021-11-02T17:54:31Z,2021-11-03T12:30:21Z,2,MERGED,2,2,1,169,18.59722222222222,1,3
+31,Query transactions by account,https://github.com/FuelLabs/fuel-core/pull/51,2021-11-03T23:29:07Z,2021-11-04T19:12:44Z,6,MERGED,618,89,18,367,19.726944444444445,2,3
+32,added kustomize example,https://github.com/FuelLabs/fuel-core/pull/54,2021-11-04T21:29:44Z,2021-11-16T12:50:05Z,2,MERGED,81,71,7,409,279.33916666666664,3,3
+33,Database performance bugfix,https://github.com/FuelLabs/fuel-core/pull/57,2021-11-05T20:25:33Z,2021-11-05T22:28:31Z,1,MERGED,119,19,5,339,2.0494444444444446,0,2
+34,System deps for fuel-core,https://github.com/FuelLabs/fuel-core/pull/58,2021-11-09T00:57:23Z,2021-11-09T20:50:53Z,7,MERGED,26,1,1,220,19.891666666666666,3,4
+35,Get rid of compiler warnings,https://github.com/FuelLabs/fuel-core/pull/65,2021-11-09T11:50:04Z,2021-11-09T23:24:51Z,1,MERGED,60,67,8,0,11.579722222222221,1,2
+36,Use cranelift by default,https://github.com/FuelLabs/fuel-core/pull/68,2021-11-12T06:56:17Z,2021-11-15T18:50:38Z,1,MERGED,25,7,3,52,83.90583333333333,1,2
+37,Eliminate fuel core dependency in fuel-client,https://github.com/FuelLabs/fuel-core/pull/69,2021-11-15T16:56:52Z,2021-11-18T11:04:04Z,13,MERGED,463,85,19,843,66.12,2,3
+38,Genesis State,https://github.com/FuelLabs/fuel-core/pull/70,2021-11-19T01:17:03Z,2021-11-22T21:39:35Z,8,MERGED,1328,147,27,1345,92.37555555555555,2,2
+39,Update fuel-vm,https://github.com/FuelLabs/fuel-core/pull/72,2021-11-20T14:01:41Z,2021-11-23T00:22:43Z,1,MERGED,173,50,6,185,58.35055555555556,1,2
+1,add release config,https://github.com/louislam/uptime-kuma/pull/38,2021-07-13T16:54:13Z,2022-04-14T03:32:43Z,5,MERGED,20609,6970,2,228,6586.641666666666,8,4
+2,Small Change,https://github.com/louislam/uptime-kuma/pull/54,2021-07-15T16:10:13Z,2021-10-12T16:43:16Z,1,MERGED,1,1,1,45,2136.5508333333332,3,5
+3,Feat: Handle DNS multiple A Records,https://github.com/louislam/uptime-kuma/pull/57,2021-07-16T04:25:13Z,2021-07-22T06:18:42Z,1,MERGED,98,27,2,1003,145.89138888888888,3,5
+4,Fix `require-v-for-key` (from `eslint-plugin-vue`),https://github.com/louislam/uptime-kuma/pull/74,2021-07-18T01:12:26Z,2021-07-22T03:16:19Z,2,MERGED,25,30,10,220,98.06472222222222,0,2
+5,Implement retries (#56),https://github.com/louislam/uptime-kuma/pull/86,2021-07-19T16:33:01Z,2021-07-22T16:11:24Z,8,MERGED,81,8,13,1344,71.63972222222222,2,4
+6,Display certificate Info (#1),https://github.com/louislam/uptime-kuma/pull/91,2021-07-21T04:22:10Z,2021-07-26T15:05:17Z,13,MERGED,214,8,8,398,130.7186111111111,5,5
+7,Add a /metrics endpoint for Prometheus monitoring,https://github.com/louislam/uptime-kuma/pull/101,2021-07-22T07:22:46Z,2021-07-27T15:21:48Z,17,MERGED,231,2,5,319,127.98388888888888,6,3
+8,Add ESLint and StyleLint,https://github.com/louislam/uptime-kuma/pull/113,2021-07-26T00:39:50Z,2021-07-28T12:53:00Z,11,MERGED,1288,1131,33,318,60.21944444444444,8,4
+9,Certificate renewal notifications,https://github.com/louislam/uptime-kuma/pull/116,2021-07-27T05:35:05Z,2021-10-23T13:30:39Z,5,MERGED,41315,9852,225,0,2119.926111111111,8,33
+10,Fix: Update ESLint to handle class static member ,https://github.com/louislam/uptime-kuma/pull/121,2021-07-29T06:34:41Z,2021-07-30T07:21:15Z,3,MERGED,41,9,4,134,24.77611111111111,8,3
+1,Documentation: does make easier copies of some command lines codes,https://github.com/AppFlowy-IO/AppFlowy/pull/5,2021-11-14T17:48:40Z,2021-11-15T02:41:53Z,1,MERGED,6,2,1,0,8.886944444444444,1,3
+2,[rust]: fix code point issue,https://github.com/AppFlowy-IO/AppFlowy/pull/32,2021-11-18T22:56:45Z,2021-11-20T16:51:33Z,3,MERGED,70,8,4,0,41.913333333333334,1,2
+3,Fixed a typo,https://github.com/AppFlowy-IO/AppFlowy/pull/35,2021-11-19T07:24:13Z,2021-11-19T11:35:40Z,1,MERGED,1,1,1,0,4.190833333333333,1,2
+4,add linux build,https://github.com/AppFlowy-IO/AppFlowy/pull/55,2021-11-21T03:06:34Z,2021-11-22T00:26:29Z,1,MERGED,37,8,2,0,21.331944444444446,1,2
+5,Fixed Icon Issue in Linux,https://github.com/AppFlowy-IO/AppFlowy/pull/58,2021-11-21T07:21:10Z,2021-11-22T11:29:20Z,1,MERGED,322,50,79,0,28.136111111111113,4,2
+6,fix backend build,https://github.com/AppFlowy-IO/AppFlowy/pull/66,2021-11-21T15:49:16Z,2021-11-22T01:01:47Z,1,MERGED,4,5,3,174,9.20861111111111,0,2
+7,Fix backend compilation + adding fallback for docker container,https://github.com/AppFlowy-IO/AppFlowy/pull/95,2021-11-24T19:23:12Z,2021-12-02T07:42:47Z,3,MERGED,17,0,2,55,180.32638888888889,2,2
+8,Updated Linux build document,https://github.com/AppFlowy-IO/AppFlowy/pull/133,2021-12-10T18:39:29Z,2021-12-11T14:29:02Z,2,MERGED,56,39,1,336,19.825833333333332,0,2
+9,Add i18n/zh-CN support,https://github.com/AppFlowy-IO/AppFlowy/pull/139,2021-12-13T15:24:58Z,2021-12-15T00:48:24Z,6,MERGED,246,2,3,29,33.39055555555556,0,3
+10,"Changed string ""Untitles"" to ""Untitled""",https://github.com/AppFlowy-IO/AppFlowy/pull/142,2021-12-13T21:56:05Z,2021-12-14T03:03:04Z,1,MERGED,3,3,2,11,5.116388888888889,0,2
+1,Fix typo in index.md,https://github.com/PKUFlyingPig/cs-self-learning/pull/6,2021-12-12T15:28:32Z,2021-12-13T03:35:33Z,1,MERGED,2,2,1,0,12.116944444444444,0,3
+2,format issue at csdiy.wiki: duke coursera C markdown format fix.,https://github.com/PKUFlyingPig/cs-self-learning/pull/140,2022-04-16T14:12:36Z,2022-04-16T16:03:20Z,1,MERGED,3,3,1,232,1.8455555555555556,0,3
+3,Update CS61A.md,https://github.com/PKUFlyingPig/cs-self-learning/pull/150,2022-05-08T15:15:44Z,2022-05-11T15:43:10Z,1,MERGED,2,0,1,69,72.45722222222223,3,2
+4,"[New Course] Add ""Digital Design and Computer Architecture""",https://github.com/PKUFlyingPig/cs-self-learning/pull/156,2022-05-11T01:02:19Z,2022-05-11T06:58:45Z,3,MERGED,23,0,2,0,5.940555555555555,0,2
+1,Add new translation functionality and run prettier,https://github.com/facebook/docusaurus/pull/4,2017-07-07T22:30:21Z,2017-07-12T18:56:12Z,5,MERGED,2024,1192,43,592,116.43083333333334,4,3
+2,Update examples script to print messages and move docs/blog examples …,https://github.com/facebook/docusaurus/pull/14,2017-07-12T23:25:48Z,2017-07-18T19:13:27Z,3,MERGED,30,5,8,29,139.79416666666665,3,4
+3,Use flag for server port number,https://github.com/facebook/docusaurus/pull/15,2017-07-13T20:41:17Z,2017-07-13T22:06:14Z,1,MERGED,6,4,2,88,1.4158333333333333,4,4
+4,Fix search bar positioning in header,https://github.com/facebook/docusaurus/pull/16,2017-07-13T22:28:41Z,2017-07-17T18:54:57Z,3,MERGED,3,0,1,193,92.43777777777778,1,3
+5,Fix translation functionality to properly condense whitespace and parse escaped characters,https://github.com/facebook/docusaurus/pull/17,2017-07-14T23:30:33Z,2017-07-17T03:34:27Z,1,MERGED,18,3,3,781,52.065,0,3
+6,Add Recent Posts button at bottom of blog posts,https://github.com/facebook/docusaurus/pull/20,2017-07-17T18:51:38Z,2017-07-17T23:19:05Z,1,MERGED,19,0,2,537,4.4575,0,3
+7,Skip processing any docs with empty/no front matter instead of throwing error,https://github.com/facebook/docusaurus/pull/21,2017-07-17T19:30:21Z,2017-07-17T23:19:25Z,1,MERGED,9,0,2,513,3.8177777777777777,0,3
+8,Use information from one file for doc sidebars instead of front matter,https://github.com/facebook/docusaurus/pull/22,2017-07-17T22:29:58Z,2017-08-03T00:00:41Z,1,MERGED,179,23,8,1421,385.51194444444445,6,4
+9,Add and update documentation,https://github.com/facebook/docusaurus/pull/23,2017-07-19T22:54:58Z,2017-07-21T00:02:35Z,4,MERGED,222,19,4,0,25.126944444444444,0,3
+10,Initial website set-up for Docusaurus,https://github.com/facebook/docusaurus/pull/25,2017-07-27T23:23:29Z,2017-08-07T17:38:27Z,9,MERGED,550,66,27,331,258.24944444444446,4,4
+11,Write CNAME file if custom domain,https://github.com/facebook/docusaurus/pull/26,2017-07-28T15:07:20Z,2017-08-10T18:37:26Z,2,MERGED,6,0,1,503,315.50166666666667,7,4
+12,Refactor API,https://github.com/facebook/docusaurus/pull/27,2017-07-31T23:34:04Z,2017-08-03T00:00:41Z,6,MERGED,267,115,9,1300,48.44361111111111,10,5
+13,Add versioning functionality,https://github.com/facebook/docusaurus/pull/28,2017-08-03T18:07:01Z,2017-08-08T18:39:43Z,3,MERGED,704,155,14,3986,120.545,3,3
+14,Add versioning document,https://github.com/facebook/docusaurus/pull/33,2017-08-07T20:55:40Z,2017-08-08T20:58:41Z,2,MERGED,53,1,2,135,24.05027777777778,0,3
+15,Add site preparation doc,https://github.com/facebook/docusaurus/pull/41,2017-08-07T22:29:46Z,2017-08-08T18:43:41Z,2,MERGED,70,0,2,126,20.231944444444444,0,3
+16,Creating a site basics,https://github.com/facebook/docusaurus/pull/48,2017-08-08T16:03:51Z,2017-08-08T18:45:58Z,3,MERGED,53,0,2,0,2.7019444444444445,0,3
+17,Update the Algolia search information,https://github.com/facebook/docusaurus/pull/49,2017-08-08T17:21:11Z,2017-08-08T18:47:19Z,1,MERGED,55,21,3,121,1.4355555555555555,0,3
+18,Commands API Reference,https://github.com/facebook/docusaurus/pull/50,2017-08-08T18:00:12Z,2017-08-16T19:51:52Z,5,MERGED,116,0,2,426,193.86111111111111,1,4
+19,Update search guide,https://github.com/facebook/docusaurus/pull/54,2017-08-08T21:24:42Z,2017-08-10T19:24:52Z,1,MERGED,14,0,1,51,46.00277777777778,0,3
+20,[WIP] Publishing your site Guide,https://github.com/facebook/docusaurus/pull/55,2017-08-08T22:40:19Z,2017-09-29T22:31:28Z,9,MERGED,87,1,2,0,1247.8525,4,4
+21,New logos!,https://github.com/facebook/docusaurus/pull/57,2017-08-09T16:42:27Z,2017-08-10T23:58:30Z,1,MERGED,302,10,10,118,31.2675,1,4
+22,Basic blog guide,https://github.com/facebook/docusaurus/pull/59,2017-08-09T18:41:23Z,2017-08-16T18:52:55Z,4,MERGED,44,0,2,76,168.19222222222223,3,4
+23,Update example files and examples script,https://github.com/facebook/docusaurus/pull/60,2017-08-09T21:24:53Z,2017-08-10T23:34:01Z,1,MERGED,352,146,27,506,26.15222222222222,1,3
+24,Add better error messages for most common cases,https://github.com/facebook/docusaurus/pull/61,2017-08-09T23:23:41Z,2017-08-10T20:46:59Z,1,MERGED,60,12,9,65,21.388333333333332,0,3
+25,Add script to rename existing version,https://github.com/facebook/docusaurus/pull/66,2017-08-14T21:03:26Z,2017-08-15T18:13:59Z,1,MERGED,137,1,2,0,21.175833333333333,1,3
+26,Add Pages and Styles API doc,https://github.com/facebook/docusaurus/pull/67,2017-08-15T19:36:10Z,2017-08-16T22:53:44Z,2,MERGED,141,0,2,38,27.29277777777778,0,4
+27,Add custom pages guide,https://github.com/facebook/docusaurus/pull/69,2017-08-15T22:01:49Z,2017-08-16T22:54:01Z,3,MERGED,36,0,2,0,24.87,0,4
+28,Add docusaurus-init package and update copy-examples.js,https://github.com/facebook/docusaurus/pull/70,2017-08-16T22:51:58Z,2017-09-06T20:00:46Z,4,MERGED,94,0,4,356,501.14666666666665,5,5
+29,[WIP] Add support for code blocks,https://github.com/facebook/docusaurus/pull/71,2017-08-25T23:29:12Z,2017-09-29T21:47:07Z,1,MERGED,180,55,2,2929,838.2986111111111,2,2
+30,Small CSS adjustments.,https://github.com/facebook/docusaurus/pull/79,2017-09-01T21:59:38Z,2017-09-25T19:52:59Z,2,MERGED,36,14,2,88,573.8891666666667,3,3
+1,Write default config when not found,https://github.com/alacritty/alacritty/pull/74,2017-01-06T05:00:32Z,2017-01-06T19:20:15Z,1,MERGED,15,2,2,2,14.328611111111112,1,2
+2,Make it compile on stable Rust (almost),https://github.com/alacritty/alacritty/pull/131,2017-01-07T00:46:41Z,2017-01-07T05:51:25Z,2,MERGED,225,95,16,763,5.078888888888889,8,5
+3,"Add ""shell"" option to config",https://github.com/alacritty/alacritty/pull/138,2017-01-07T02:08:09Z,2017-01-07T17:46:29Z,7,MERGED,34,6,5,80,15.63888888888889,3,6
+4,Stop cursor from moving past right screen edge,https://github.com/alacritty/alacritty/pull/145,2017-01-07T02:55:45Z,2017-01-07T19:43:10Z,1,MERGED,6,1,1,159,16.790277777777778,1,2
+5,Fixes a slew of bounds issues.,https://github.com/alacritty/alacritty/pull/164,2017-01-07T08:07:21Z,2017-01-07T18:20:02Z,2,MERGED,38,30,1,538,10.211388888888889,9,3
+6,Better bounds checking.,https://github.com/alacritty/alacritty/pull/216,2017-01-07T21:55:28Z,2017-01-08T05:24:55Z,8,MERGED,58,40,1,236,7.490833333333334,26,3
+7,add suggestive fallback messages on unavailable fonts,https://github.com/alacritty/alacritty/pull/238,2017-01-08T21:32:48Z,2017-01-13T05:21:15Z,2,MERGED,4,2,2,51,103.8075,4,2
+8,Fixing panic on cat /dev/urandom,https://github.com/alacritty/alacritty/pull/268,2017-01-10T06:11:49Z,2017-01-10T07:19:08Z,3,MERGED,27,14,1,602,1.1219444444444444,3,2
+9,Allow arguments in shell option,https://github.com/alacritty/alacritty/pull/274,2017-01-10T12:16:14Z,2017-01-24T06:46:00Z,9,MERGED,92,24,4,381,330.49611111111113,9,3
+1,Add parameter substitution to `download.sh`,https://github.com/meta-llama/llama/pull/8,2023-02-24T21:48:32Z,2023-09-07T12:15:12Z,3,MERGED,32,8,2,245,4670.444444444444,9,7
+2,creating TARGET_FOLDER,https://github.com/meta-llama/llama/pull/62,2023-03-02T15:17:00Z,2023-09-06T17:17:22Z,4,MERGED,2,1,1,143,4514.006111111111,1,6
+3,Update README.md,https://github.com/meta-llama/llama/pull/71,2023-03-02T22:51:45Z,2023-09-01T20:07:21Z,3,MERGED,4,1,1,42,4389.26,5,6
+4,Save bandwidth by using a torrent to distribute more efficiently,https://github.com/meta-llama/llama/pull/73,2023-03-02T23:05:55Z,2023-09-01T20:09:52Z,294,MERGED,1,1,1,0,4389.065833333333,300,503
+5,Download weights from huggingface to help us save bandwith ,https://github.com/meta-llama/llama/pull/109,2023-03-04T16:41:23Z,2023-09-01T20:14:49Z,3,MERGED,3,0,1,67,4347.557222222223,18,15
+6,Update download.sh,https://github.com/meta-llama/llama/pull/113,2023-03-04T20:53:00Z,2023-08-31T23:07:28Z,2,MERGED,2,2,1,0,4322.241111111111,4,8
+7,Update download.sh,https://github.com/meta-llama/llama/pull/114,2023-03-04T21:03:01Z,2023-08-31T23:07:36Z,2,MERGED,2,2,1,0,4322.076388888889,4,7
+8,Update download.sh,https://github.com/meta-llama/llama/pull/116,2023-03-04T21:08:39Z,2023-08-31T23:07:54Z,3,MERGED,2,2,1,0,4321.9875,4,9
+9,Updating download.sh to check if weights exists before re-downloading them,https://github.com/meta-llama/llama/pull/129,2023-03-05T22:40:55Z,2024-02-13T22:27:52Z,1,MERGED,176,12,5,316,8279.7825,3,4
+10,Update download.sh,https://github.com/meta-llama/llama/pull/141,2023-03-06T19:05:43Z,2023-09-06T16:10:36Z,3,MERGED,2,2,1,0,4413.081388888889,3,8
+11,Formatting and Ruff fixes,https://github.com/meta-llama/llama/pull/178,2023-03-11T11:32:05Z,2023-09-01T20:24:36Z,4,MERGED,65,23,8,0,4184.875277777778,1,4
+12,"Change model license to Apache License, Version 2.0",https://github.com/meta-llama/llama/pull/184,2023-03-12T11:31:03Z,2023-07-18T20:15:24Z,271,MERGED,1,1,1,914,3080.7391666666667,250,477
+13,It improves the download script,https://github.com/meta-llama/llama/pull/290,2023-04-27T20:58:30Z,2023-09-06T19:23:07Z,3,MERGED,0,0,0,825,3166.410277777778,2,5
+14,Remove unused Any import,https://github.com/meta-llama/llama/pull/358,2023-07-18T18:55:02Z,2023-08-31T19:27:54Z,2,MERGED,1,1,1,0,1056.5477777777778,0,5
+15,Update README.md,https://github.com/meta-llama/llama/pull/377,2023-07-18T22:54:31Z,2023-07-19T12:22:30Z,1,MERGED,4,0,1,37,13.466388888888888,0,4
+16,added type hint in example code,https://github.com/meta-llama/llama/pull/390,2023-07-19T06:23:19Z,2023-08-31T20:34:12Z,1,MERGED,6,6,3,52,1046.181388888889,2,4
+17,Python download script for macos users,https://github.com/meta-llama/llama/pull/422,2023-07-19T17:20:01Z,2024-09-11T07:43:39Z,2,MERGED,100,2,2,117,10070.39388888889,2,5
+18,Update download.sh to not use hardcoded bash path for improved portability,https://github.com/meta-llama/llama/pull/451,2023-07-20T10:08:44Z,2023-09-05T09:21:33Z,1,MERGED,1,1,1,166,1127.213611111111,3,6

@@ -17,12 +17,19 @@ headers = {
 # Função para fazer a requisição GraphQL com tentativas
 def run_query(query, retries=8):
     for attempt in range(retries):
-        request = requests.post('https://api.github.com/graphql', json={'query': query}, headers=headers)
-        if request.status_code == 200:
-            return request.json()
-        else:
-            print(f"Attempt {attempt + 1} failed with status code {request.status_code}. Retrying...")
-            time.sleep(5)
+        try:
+            request = requests.post('https://api.github.com/graphql', json={'query': query}, headers=headers)
+            if request.status_code == 200:
+                return request.json()
+            elif request.status_code == 502:
+                print("Server is overloaded, retrying with a longer wait time...")
+                time.sleep(10)  # Espera mais tempo em caso de 502
+            else:
+                print(f"Attempt {attempt + 1} failed with status code {request.status_code}. Retrying...")
+                time.sleep(5)
+        except requests.exceptions.RequestException as e:
+            print(f"Request failed due to network issues: {e}")
+            time.sleep(10)
     raise Exception(f"Query failed to run after {retries} attempts. Last status code: {request.status_code}. {query}")
 
 # Função para obter repositórios populares com paginação
@@ -32,10 +39,10 @@ def get_repos():
     cursor = None
     index = 1
 
-    while has_next_page and len(repos_data) < 130:
+    while has_next_page and len(repos_data) < 200:
         query_repos = f"""
         {{
-          search(query: "stars:>100", type: REPOSITORY, first: 10{' after: "' + cursor + '"' if cursor else ''}) {{
+          search(query: "stars:>100", type: REPOSITORY, first: 15{' after: "' + cursor + '"' if cursor else ''}) {{
             edges {{
               cursor
               node {{
@@ -85,7 +92,7 @@ def get_repos():
 def save_repos_to_csv(repos_data):
     df = pd.DataFrame(repos_data, columns=[
         "Index", "Nome do Repositório", "URL", "Total de Estrelas", "Data de Criação", "Total de PRs"])
-    df.to_csv('repos_infos_paginated.csv', index=False)
+    df.to_csv('repos_infos.csv', index=False)
 
 # Consulta para obter os PRs
 def get_prs(owner, repo_name):
