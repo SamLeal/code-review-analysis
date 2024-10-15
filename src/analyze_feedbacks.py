@@ -3,7 +3,7 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 
 # Carregar os dados do CSV
-df = pd.read_csv('./files/prs_infos.csv')
+df = pd.read_csv('./prs_infos_paginated.csv')
 
 # Gráfico 1: Relação entre o tamanho do PR (adições + remoções) e o feedback final (MERGED ou CLOSED)
 df['Total Alterações'] = df['Total de Adições'] + df['Total de Remoções']
