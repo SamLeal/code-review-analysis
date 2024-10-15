@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 from scipy.stats import spearmanr, pearsonr
 
 # Carregar os dados do CSV
-prs_df = pd.read_csv('prs_infos_oficial.csv')
+prs_df = pd.read_csv('./files/prs_infos.csv')
 
 # Converter colunas para tipos numéricos (float)
 cols_to_convert = ['Total de Arquivos Alterados', 'Decisão da Revisão', 
